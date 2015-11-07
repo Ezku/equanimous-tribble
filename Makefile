@@ -15,10 +15,9 @@ build:
 	> ${target}
 
 commit-changes:
-	git add $(autocommitted) && git commit -a -q -m "[automated build]" || echo "No changes to commit"
+	git add $(autocommitted) \
+	&& git commit -qm "[automated build]" --short \
+	|| echo "No changes to commit"
 
 watch:
 	find content -name ${sources} | entr make commit-changes build
-
-asdf:
-	lol
