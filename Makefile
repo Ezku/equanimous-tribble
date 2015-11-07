@@ -10,8 +10,8 @@ install:
 build:
 	find content -name ${sources} \
 	| xargs cat \
-	|	pandoc --from markdown --to latex \
-	|	iconv -f utf-8 -t iso-8859-1 \
+	| pandoc --from markdown --to latex \
+	| iconv -f utf-8 -t iso-8859-1 \
 	> ${target}
 
 commit-changes:
