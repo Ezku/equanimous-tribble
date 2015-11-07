@@ -14,7 +14,7 @@ build:
 	> ${target}
 
 commit-changes:
-	git add --all && git commit -a -q -m "[automated build]"
+	git add --all && git commit -a -q -m "[automated build]" || echo "No changes to commit"
 
 watch:
 	find content -name ${sources} | entr make commit-changes build
