@@ -1,6 +1,6 @@
 sources = *.md
 target = compiled/content.tex
-autocommitted = content notes sources
+autocommitted = content notes sources sources.bib
 
 all: commit-changes build watch
 
