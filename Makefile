@@ -1,5 +1,6 @@
 sources = *.md
 target = compiled/content.tex
+autocommitted = content notes sources
 
 all: commit-changes build watch
 
@@ -14,7 +15,7 @@ build:
 	> ${target}
 
 commit-changes:
-	git add --all && git commit -a -q -m "[automated build]" || echo "No changes to commit"
+	git add $(autocommitted) && git commit -a -q -m "[automated build]" || echo "No changes to commit"
 
 watch:
 	find content -name ${sources} | entr make commit-changes build
