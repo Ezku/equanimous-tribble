@@ -14,7 +14,7 @@ build:
 	> ${target}
 
 commit-changes:
-	git add --all * && git commit -a -q -m "building"
+	git add --all && git commit -a -q -m "building"
 
 watch:
 	find content -name ${sources} | entr make commit-changes build
