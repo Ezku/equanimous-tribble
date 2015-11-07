@@ -16,7 +16,7 @@ build:
 
 commit-changes:
 	git add $(autocommitted) \
-	&& git commit -qm "[automated build]" --short \
+	&& git commit -qm "[automated build]" \
 	|| echo "No changes to commit"
 
 watch:
