@@ -221,7 +221,7 @@
 %                     first page of the first chapter
 %   twoinstructors  - changes the title of instructors to plural form
 %   twosupervisors  - changes the title of supervisors to plural form
-\usepackage[mydraft,twosupervisors]{aalto-thesis}
+\usepackage[mydraft]{aalto-thesis}
 %\usepackage[mydraft,doublenumbering]{aalto-thesis}
 %\usepackage{aalto-thesis}
 
@@ -263,15 +263,15 @@
 % You can just fix the texts there. Just remember to check all the language
 % variants you use (they are all there in the same place).
 % ------------------------------------------------------------------
-\newcommand{\TITLE}{Software Processes for Dummies:}
-\newcommand{\FTITLE}{Ohjelmistoprosessit mänteille:}
-\newcommand{\STITLE}{Den stora stygga vargen:}
-\newcommand{\SUBTITLE}{Re-inventing the Wheel}
-\newcommand{\FSUBTITLE}{Uusi organisaatio, uudet pyörät}
-\newcommand{\SSUBTITLE}{Lilla Vargens universum}
-\newcommand{\DATE}{June 18, 2011}
-\newcommand{\FDATE}{18. kesäkuuta 2011}
-\newcommand{\SDATE}{Den 18 Juni 2011}
+\newcommand{\TITLE}{What exactly is the use of dailies:}
+% \newcommand{\FTITLE}{Ohjelmistoprosessit mänteille:}
+% \newcommand{\STITLE}{Den stora stygga vargen:}
+\newcommand{\SUBTITLE}{Evolution of practice and process in a software development team}
+% \newcommand{\FSUBTITLE}{Uusi organisaatio, uudet pyörät}
+% \newcommand{\SSUBTITLE}{Lilla Vargens universum}
+\newcommand{\DATE}{2015}
+% \newcommand{\FDATE}{18. kesäkuuta 2011}
+% \newcommand{\SDATE}{Den 18 Juni 2011}
 
 % Supervisors and instructors
 % ------------------------------------------------------------------
@@ -281,21 +281,21 @@
 % ``twoinstructors'' to the aalto-thesis package so that the titles are in
 % plural.
 % Example of one supervisor:
-%\newcommand{\SUPERVISOR}{Professor Antti Ylä-Jääski}
+\newcommand{\SUPERVISOR}{Professor Riitta Smeds}
 %\newcommand{\FSUPERVISOR}{Professori Antti Ylä-Jääski}
 %\newcommand{\SSUPERVISOR}{Professor Antti Ylä-Jääski}
 % Example of twosupervisors:
-\newcommand{\SUPERVISOR}{Professor Antti Ylä-Jääski\\
-  Professor Pekka Perustieteilijä}
-\newcommand{\FSUPERVISOR}{Professori Antti Ylä-Jääski\\
-  Professori Pekka Perustieteilijä}
-\newcommand{\SSUPERVISOR}{Professor Antti Ylä-Jääski\\
-  Professor Pekka Perustieteilijä}
+%\newcommand{\SUPERVISOR}{Professor Antti Ylä-Jääski\\
+%  Professor Pekka Perustieteilijä}
+%\newcommand{\FSUPERVISOR}{Professori Antti Ylä-Jääski\\
+%  Professori Pekka Perustieteilijä}
+%\newcommand{\SSUPERVISOR}{Professor Antti Ylä-Jääski\\
+%  Professor Pekka Perustieteilijä}
 
 % If you have only one instructor, just write one name here
-\newcommand{\INSTRUCTOR}{Olli Ohjaaja M.Sc. (Tech.)}
-\newcommand{\FINSTRUCTOR}{Diplomi-insinööri Olli Ohjaaja}
-\newcommand{\SINSTRUCTOR}{Diplomingenjör Olli Ohjaaja}
+\newcommand{\INSTRUCTOR}{Otso Hannula M.Sc. (Tech.)}
+%\newcommand{\FINSTRUCTOR}{Diplomi-insinööri Olli Ohjaaja}
+%\newcommand{\SINSTRUCTOR}{Diplomingenjör Olli Ohjaaja}
 % If you have two instructors, separate them with \\ to create linefeeds
 % \newcommand{\INSTRUCTOR}{Olli Ohjaaja M.Sc. (Tech.)\\
 %  Elli Opas M.Sc. (Tech)}
@@ -308,8 +308,8 @@
 % of the supervisors in the cover page. If the following command is defined,
 % then the supervisor names shown here are printed in the cover page. Otherwise,
 % the supervisor names defined above are used.
-\newcommand{\COVERSUPERVISOR}{Professor Antti Ylä-Jääski, Aalto University\\
-  Professor Pekka Perustieteilijä, University of Helsinki}
+%\newcommand{\COVERSUPERVISOR}{Professor Antti Ylä-Jääski, Aalto University\\
+%  Professor Pekka Perustieteilijä, University of Helsinki}
 
 % The same option is for the instructors, if you have multiple instructors.
 % \newcommand{\COVERINSTRUCTOR}{Olli Ohjaaja M.Sc. (Tech.), Aalto University\\
@@ -318,23 +318,23 @@
 
 % Other stuff
 % ------------------------------------------------------------------
-\newcommand{\PROFESSORSHIP}{Data Communication Software}
-\newcommand{\FPROFESSORSHIP}{Tietoliikenneohjelmistot}
-\newcommand{\SPROFESSORSHIP}{Datakommunikationsprogram}
+%\newcommand{\PROFESSORSHIP}{Data Communication Software}
+%\newcommand{\FPROFESSORSHIP}{Tietoliikenneohjelmistot}
+%\newcommand{\SPROFESSORSHIP}{Datakommunikationsprogram}
 % Professorship code is the same in all languages
-\newcommand{\PROFCODE}{T-110}
+%\newcommand{\PROFCODE}{T-110}
 \newcommand{\KEYWORDS}{ocean, sea, marine, ocean mammal, marine mammal, whales,
 cetaceans, dolphins, porpoises}
-\newcommand{\FKEYWORDS}{AEL, aineistot, aitta, akustiikka, Alankomaat,
-aluerakentaminen, Anttolanhovi, Arcada, ArchiCad, arkki}
-\newcommand{\SKEYWORDS}{omsättning, kassaflöde, värdepappersmarknadslagen,
-yrkesutövare, intresseföretag, verifieringskedja}
+%\newcommand{\FKEYWORDS}{AEL, aineistot, aitta, akustiikka, Alankomaat,
+%aluerakentaminen, Anttolanhovi, Arcada, ArchiCad, arkki}
+%\newcommand{\SKEYWORDS}{omsättning, kassaflöde, värdepappersmarknadslagen,
+%yrkesutövare, intresseföretag, verifieringskedja}
 \newcommand{\LANGUAGE}{English}
-\newcommand{\FLANGUAGE}{Englanti}
-\newcommand{\SLANGUAGE}{Engelska}
+%\newcommand{\FLANGUAGE}{Englanti}
+%\newcommand{\SLANGUAGE}{Engelska}
 
 % Author is the same for all languages
-\newcommand{\AUTHOR}{Stella Student}
+\newcommand{\AUTHOR}{Eevert Saukkokoski}
 
 
 % Currently the English versions are used for the PDF file metadata
@@ -367,7 +367,7 @@ yrkesutövare, intresseföretag, verifieringskedja}
 % 1 is normal (no extra space), 1.3 is about one-half more space, and
 % 1.6 is about double line spacing.
 % \linespread{1} % This is the default
-% \linespread{1.3}
+\linespread{1.272} % sqrt(phi)
 
 % Bibliography style
 % acm style gives you a basic reference style. It works only with numbered
@@ -388,6 +388,10 @@ yrkesutövare, intresseföretag, verifieringskedja}
 % operation'', the word structure-modification will never be hyphenated).
 % You need a special package to hyphenate those words.
 \hyphenation{di-gi-taa-li-sta yksi-suun-tai-sta}
+
+% For a clean typesetting you may need micro-adjustments.
+% There is a package, which does that for you automatically:
+\usepackage{microtype}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
