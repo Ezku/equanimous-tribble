@@ -1,3 +1,3 @@
-# Introduction
+\chapter{Introduction}
 
-## Background and motivation
+# Background and motivation

@@ -1,1 +1,1 @@
-## Limitations of the study
+# Limitations of the study

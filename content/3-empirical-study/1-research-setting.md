@@ -1,3 +1,3 @@
-# Empirical study
+\chapter{Empirical study}
 
-## Research setting
+# Research setting

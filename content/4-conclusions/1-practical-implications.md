@@ -1,3 +1,3 @@
-# Conclusions
+\chapter{Conclusions}
 
-## Practical implications
+# Practical implications

@@ -1,3 +1,3 @@
-# Theoretical framework
+\chapter{Theoretical framework}
 
-## Sources used
+# Sources used
