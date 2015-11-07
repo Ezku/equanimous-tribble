@@ -19,3 +19,6 @@ commit-changes:
 
 watch:
 	find content -name ${sources} | entr make commit-changes build
+
+asdf:
+	lol
