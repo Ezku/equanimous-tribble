@@ -2,6 +2,7 @@
 # Timeline
 
 November 2015
+
   ~ Kickoff
   ~ Thesis proposal
   ~ Begin collecting empirical data
