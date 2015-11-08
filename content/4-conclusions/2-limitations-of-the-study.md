@@ -1,2 +1,5 @@
 
+<!--
 # Limitations of the study
+-->
+
