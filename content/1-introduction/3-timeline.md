@@ -7,28 +7,28 @@ November 2015
   : Thesis proposal
   : Begin collecting empirical data
 
-December 2015:
+December 2015
 
-- End of empirical data collection
+  : End of empirical data collection
 
 January 2016:
 
-- Theoretical framework assembled
+  : Theoretical framework assembled
 
 February 2016:
 
-- Empirical data analysis complete
+  : Empirical data analysis complete
 
 March 2016:
 
-- Empirical data and theory
+  : Empirical data and theory
 
 April 2016:
 
-- Intensive writing period
-- Completion of theoretical synthesis
-- Empirical conclusions
+  : Intensive writing period
+  : Completion of theoretical synthesis
+  : Empirical conclusions
 
 May 2016:
 
-- Thesis completed
+  : Thesis completed
