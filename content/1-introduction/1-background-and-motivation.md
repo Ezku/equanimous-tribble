@@ -5,9 +5,7 @@
 
 Agile has become mainstream. \cite{west2010agile}
 
-Necessity of face-to-face interaction is emphasized in agile literature as critical for transfer of ideas and achieving innovative results. \citep{highsmith2002agile}
-
-In the agile manifesto, this characteristic was considered important enough for it to take first place on a list of agile values: "individuals and interactions over processes and tools". \citep{agile2001manifesto}
+Necessity of face-to-face interaction is emphasized in agile literature as critical for transfer of ideas and achieving innovative results. \citep{highsmith2002agile} In the agile manifesto, this was considered important enough for it to take first place on a list of agile values: "individuals and interactions over processes and tools". \citep{agile2001manifesto}
 
 The importance of this characteristic is further highlighted by how "daily scrum", a meeting of developers deriving its name from the Scrum methodology \citep{schwaber1995scrum}, has become a symbol of sorts for agility itself with Scrum being heralded as virtually a de-facto industry standard. \cite{marchenko2008scrum} Yet \cite{marchenko2008scrum} cite problems like "too many meetings" and disciplined effort required to keep things simple as present challenges.
 
