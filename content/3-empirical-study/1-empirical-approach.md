@@ -1,6 +1,4 @@
 
-\chapter{Empirical study}
-
 # Empirical approach
 
 - Ethnographically-inspired studies of agile practices have been undertaken before \citep{robinson2007ethnographically,marchenko2008scrum} and similar approaches would seem valid in this context
