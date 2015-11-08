@@ -3,9 +3,7 @@
 
 November 2015
 
-  : Kickoff
-  : Thesis proposal
-  : Begin collecting empirical data
+  : Kickoff, research plan, begin collecting empirical data
 
 December 2015
 
