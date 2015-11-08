@@ -3,19 +3,19 @@
 
 November 2015
 
-  : Kickoff, research plan, begin collecting empirical data
+  : Kickoff, research plan drafted, collection of empirical data started.
 
 December 2015
 
-  : End of empirical data collection
+  : Empirical data collection complete. Beginning of empirical data analysis.
 
 January 2016:
 
-  : Theoretical framework assembled
+  : Theoretical framework assembled.
 
 February 2016:
 
-  : Empirical data analysis complete
+  : Empirical data analysis complete.
 
 March 2016:
 
