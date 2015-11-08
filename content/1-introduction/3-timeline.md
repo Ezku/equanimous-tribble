@@ -19,14 +19,12 @@ February 2016:
 
 March 2016:
 
-  : Empirical data and theory
+  : Interpretation of empirical data through theory.
 
 April 2016:
 
-  : Intensive writing period
-  : Completion of theoretical synthesis
-  : Empirical conclusions
+  : Intensive writing period. Completion of theoretical synthesis. Empirical conclusions.
 
 May 2016:
 
-  : Thesis completed
+  : Thesis completed.
