@@ -13,7 +13,7 @@ The importance of this characteristic is further highlighted by how "daily scrum
 - How do processes stay simple?
 - Do dailies help in making tacit
 
-\cite{abrahamsson2002agile} further characterizes simplicity and ease of adaptation as key to agile process models. For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}.
+Agile process models have been further characterized with simplicity and ease of adaptation as key. \cite{abrahamsson2002agile} For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}.
 
 - What is needed for this process to happen?
 - How does it happen in practice?
