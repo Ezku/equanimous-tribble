@@ -9,7 +9,7 @@ Necessity of face-to-face interaction is emphasized in agile literature as criti
 
 The "daily scrum", a meeting of developers deriving its name from the Scrum methodology, as the most prominent component of the leading individual methodology \citep{west2010agile}, can be claimed to have become a symbol of sorts for agility itself.
 
-Agile process models have been further characterized with simplicity and ease of adaptation as key. \cite{abrahamsson2002agile} For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}. Yet \citet{marchenko2008scrum} cite problems like "too many meetings" and disciplined effort required to keep things simple as present challenges.
+Agile process models have been further characterized with simplicity and ease of adaptation as key \citep{abrahamsson2002agile}. For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}. Yet \citet{marchenko2008scrum} cite problems like "too many meetings" and disciplined effort required to keep things simple as present challenges.
 
 
 - Kanban endorses "starting where you are" and evolving your process from there
