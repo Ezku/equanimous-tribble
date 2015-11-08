@@ -14,4 +14,4 @@ Agile process models have been further characterized with simplicity and ease of
 - Kanban endorses "starting where you are" and evolving your process from there
 - "Evolution": incremental improvement through an iterative process of "seeing what sticks"
 
-Agile processes therefore evolve with use and are
+Agile processes and practitioners' understanding thereof evolve with use.
