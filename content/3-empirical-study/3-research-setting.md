@@ -1,6 +1,4 @@
 
-\chapter{Empirical study}
-
 # Research setting
 
 - Helsinki-based software startup with a headcount of 20 people
