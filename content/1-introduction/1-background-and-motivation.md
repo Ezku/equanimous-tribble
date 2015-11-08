@@ -9,10 +9,10 @@ Necessity of face-to-face interaction is emphasized in agile literature as criti
 
 The "daily scrum", a meeting of developers deriving its name from the Scrum methodology, as the most prominent component of the leading individual methodology \citep{west2010agile}, can be claimed to have become a symbol of sorts for agility itself.
 
-Agile process models have been further characterized with simplicity and ease of adaptation as key \citep{abrahamsson2002agile}. For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}. Agile is represented as the antithesis of dogma, being malleable to use-case specific needs. Yet its nature seems to have changed with introduction to the mainstream \citep{west2010agile}, with \citet{marchenko2008scrum} citing problems like "too many meetings" and disciplined effort required to "keep it simple" as present challenges.
+Agile process models have been further characterized with simplicity and ease of adaptation as key \citep{abrahamsson2002agile}. For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}. Agile is represented as the antithesis of dogma, being fit for critical inspection and malleable to use-case specific needs. Yet its nature seems to have changed with introduction to the mainstream \citep{west2010agile}, with \citet{marchenko2008scrum} citing problems like "too many meetings" and disciplined effort required to "keep it simple" as present challenges.
 
 - Kanban endorses "starting where you are" and evolving your process from there
 - "Evolution": incremental improvement through an iterative process of "seeing what sticks"
 
-Agile processes and practitioners' understanding thereof evolve with use. I am interested in discovering whether the "heart" of agile, namely the daily meetup, has a relation to this evolution. Can the daily itself be seen as a tool for gaining knowledge not only on proceedings, but the processes and practices applied?
+Agile processes and practitioners' understanding thereof evolve with use. I am interested in discovering whether the "heart" of agile, namely the daily meetup, has a relation to enabling this evolution. Can the daily itself be seen as a tool for gaining knowledge not only on proceedings, but the processes and practices applied?
 
