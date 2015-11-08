@@ -1,6 +1,4 @@
 
-\chapter{Conclusions}
-
 # Practical implications
 
 - Dailies are a huge cost: they are synchronous and take up a significant slice of developers' time
