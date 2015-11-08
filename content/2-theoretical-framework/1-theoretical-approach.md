@@ -1,6 +1,4 @@
 
-\chapter{Theoretical framework}
-
 # Theoretical approach
 
 Depictions of agile process characteristics:
