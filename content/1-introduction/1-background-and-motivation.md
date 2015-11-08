@@ -1,6 +1,4 @@
 
-\chapter{Introduction}
-
 # Background and motivation
 
 Agile software development practices have become mainstream \citep{west2010agile}. The Scrum methodology \citep{schwaber1995scrum} belongs among the most popular \citep{west2010agile}, being heralded as virtually a de-facto industry standard \citep{marchenko2008scrum}.
