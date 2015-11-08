@@ -1,19 +1,34 @@
 
 # Timeline
 
-November 2015
-: Kickoff
-: Thesis proposal
-: Begin collecting empirical data
+November 2015:
 
-December 2015
-: End of empirical data collection
+- Kickoff
+- Thesis proposal
+- Begin collecting empirical data
 
-January 2015
-: Theoretical framework assembled
+December 2015:
 
-February 2015
-: Empirical data analysis complete
+- End of empirical data collection
 
-March 2015
-: Empirical data and theory
+January 2016:
+
+- Theoretical framework assembled
+
+February 2016:
+
+- Empirical data analysis complete
+
+March 2016:
+
+- Empirical data and theory
+
+April 2016:
+
+- Intensive writing period
+- Completion of theoretical synthesis
+- Empirical conclusions
+
+May 2016:
+
+- Thesis completed
