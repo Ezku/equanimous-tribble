@@ -3,6 +3,8 @@
 
 # Background and motivation
 
+Agile has become mainstream. \cite{west2010agile}
+
 Necessity of face-to-face interaction is emphasized in agile literature as critical for transfer of ideas and achieving innovative results. \citep{highsmith2002agile}
 
 In the agile manifesto, this characteristic was considered important enough for it to take first place on a list of agile values: "individuals and interactions over processes and tools". \citep{agile2001manifesto}
