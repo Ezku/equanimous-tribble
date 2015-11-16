@@ -9,6 +9,8 @@ Depictions of agile methodology adoption, practice and evolution:
 - Agile practice and culture \citep{sharp2004ethnographic,robinson2005organisational,robinson2007ethnographically}
 - Challenges in agile adoption \citep{nerur2005challenges,marchenko2008scrum}
 
+(Problem: Most "agile" literature seems to take the perspective of Scrum, XP et al, where I'd be more interested in a Kanban & Lean perspective.)
+
 Understanding the agile organization as an evolving sociotechnical system:
 
 - Roots of agile principles \citep{vidgen2006organizing,nerur2010towards}
