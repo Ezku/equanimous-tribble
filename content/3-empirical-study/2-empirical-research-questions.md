@@ -1,16 +1,9 @@
 
 # Empirical research questions
 
-- How is the daily used as a practice for furthering goals by individual team members?
-- How does manipulation of process artefacts within a daily affect practices outside it?
-- How is knowledge created within the proceedings of a daily?
+The following research questions are posed to the empirical research data.
 
-<!--
-- When is there too much face-to-face time?
-- How do processes stay simple?
-- Do dailies help in making tacit
+> - How is the organisation's system of work as understood by the individual team members manifested in the daily practice?
+> - How does the daily practice support co-creation of knowledge?
 
-- What is needed for this process to happen?
-- How does it happen in practice?
-- Are dailies itself a component of this process change or?
--->
+The first question is aimed at discovering whether the daily practice in fact constitutes the use and manipulation of the system of work as a shared conceptual artefact. The second question is for analyzing the role of the daily practice as an organisational mechanism for knowledge co-creation.
