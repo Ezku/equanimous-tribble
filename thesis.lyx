@@ -363,10 +363,9 @@ cetaceans, dolphins, porpoises}
 % \setlength{\parindent}{0pt}
 % \setlength{\parskip}{1ex}
 
-% Above mentioned parindent and parskip flags are incomplete for many use cases.
-% Use parfill and configure it with the parfillskip option instead.
 \usepackage[parfill]{parskip}
-\setlength{\parfillskip}{1.272\ex@ \@plus 1fil}
+\setlength{\parfillskip}{30\p@ \@plus 1fil}
+\setlength{\parskip}{1\baselineskip}
 
 % Use this to control how much space there is between each line of text.
 % 1 is normal (no extra space), 1.3 is about one-half more space, and
