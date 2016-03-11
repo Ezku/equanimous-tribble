@@ -396,6 +396,9 @@ cetaceans, dolphins, porpoises}
 % For a clean typesetting you may need micro-adjustments.
 % There is a package, which does that for you automatically:
 \usepackage{microtype}
+
+% http://tex.stackexchange.com/a/270484
+\usepackage[toc,page]{appendix}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -544,7 +547,7 @@ cleardoublepage
 
 \begin_layout Plain Layout
 
-% You can use 
+% You can use
 \backslash
 addcontentsline{} as well, but that also adds contents
 \end_layout
@@ -557,7 +560,6 @@ addcontentsline{} as well, but that also adds contents
 \begin_layout Plain Layout
 
 % The text ``Contents'' is shown in the PDF bookmark.
- 
 \end_layout
 
 \begin_layout Plain Layout
@@ -591,7 +593,7 @@ tableofcontents
 \begin_layout Plain Layout
 
 % This command is defined in aalto-thesis.sty.
- It controls the page 
+ It controls the page
 \end_layout
 
 \begin_layout Plain Layout
@@ -638,7 +640,7 @@ filename "compiled/content.tex"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "sources"
-options "plain"
+options "bibtotoc,plain"
 
 \end_inset
 
