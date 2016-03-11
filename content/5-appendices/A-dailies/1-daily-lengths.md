@@ -25,3 +25,10 @@ Daily number |Date        |Duration
 20           | 19.1.2016  | 41:11
 
 Table: Durations of daily recordings by daily number and date.
+
+Metric       |            | Duration
+-------------|------------|--------:
+**Total**    |            | 11:59:12
+**Average**  |            | 35:58
+
+Table: Aggregate daily duration data.
