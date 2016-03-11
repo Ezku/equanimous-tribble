@@ -1,7 +1,7 @@
 
 # Data collection and analysis
 
-## The structure of a daily
+## The structure of a daily \label{daily-structure}
 
 ## Use of virtual kanban boards
 

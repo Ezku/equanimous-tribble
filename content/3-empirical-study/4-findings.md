@@ -1,5 +1,5 @@
 
-# Empirical findings
+# Empirical findings \label{empirical-findings}
 
 ## Continually refining and restating collectively shared knowledge about the system of work
 
