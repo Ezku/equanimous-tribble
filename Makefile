@@ -20,4 +20,4 @@ commit-changes:
 	|| echo "No changes to commit"
 
 watch:
-	find content -name ${sources} | entr make commit-changes build
+	find content -name ${sources} | entr make build
