@@ -19,4 +19,4 @@ The 20 dailies recorded altogether contain a total of 11 hours, 59 minutes and 1
 
 ## The team's reactions to new input
 
-## Change in system of work through observation period
+## Change in the system of work
