@@ -398,13 +398,19 @@ cetaceans, dolphins, porpoises}
 \usepackage{microtype}
 
 % http://tex.stackexchange.com/a/270484
-\usepackage[toc,page]{appendix}
+% http://tex.stackexchange.com/questions/44858/adding-the-word-appendix-to-table-of-contents-in-latex
+\usepackage[titletoc]{appendix}
 
 \renewcommand\thechapter{\Roman{chapter}}
 \renewcommand\thesection{\arabic{section}}
 
 \usepackage{chngcntr}
 \counterwithout{section}{chapter}
+
+% Pandoc doesn't process markdown from within latex environments: http://pandoc.org/README.html#raw-tex
+% Hack around this by aliasing: http://tex.stackexchange.com/questions/254521/pandoc-lists-in-environments
+\let\beginhack\begin
+\let\endhack\end
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
