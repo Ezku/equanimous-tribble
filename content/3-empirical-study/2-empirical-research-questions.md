@@ -5,6 +5,8 @@ The following research questions are posed to the empirical research data.
 
 > **ERQ1**: How is the organisation's system of work as understood by the individual team members manifested in the daily practice?
 
-> **ERQ2**: How does the daily practice support co-creation of knowledge?
+> **ERQ2**: How does the team's understanding of the system of work change?
 
-The first question is aimed at discovering whether the daily practice in fact constitutes the use and manipulation of the system of work as a shared conceptual artefact. The second question is for analyzing the role of the daily practice as an organisational mechanism for knowledge co-creation.
+> **ERQ3**: How does the daily practice support co-creation of knowledge?
+
+The first question is aimed at discovering whether the daily practice in fact constitutes the use and manipulation of the system of work as a shared conceptual artefact. The second question is needed for making out if the team actually improves upon the conceptual artifact, linking it to the third question analyzing the role of the daily practice as an organisational mechanism for knowledge co-creation.
