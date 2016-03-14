@@ -399,6 +399,12 @@ cetaceans, dolphins, porpoises}
 
 % http://tex.stackexchange.com/a/270484
 \usepackage[toc,page]{appendix}
+
+\renewcommand\thechapter{\Roman{chapter}}
+\renewcommand\thesection{\arabic{section}}
+
+\usepackage{chngcntr}
+\counterwithout{section}{chapter}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
