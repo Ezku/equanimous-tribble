@@ -28,3 +28,5 @@ The driver and the secretary are the only explicit roles defined in the context 
 The most important tool made use of was Asana, a web-based task management application. It views work as *projects*, which consist of *tasks* in a linear list, which can be delineated into segments with *labels*. Tasks consist of a title and a description, may be assigned to individuals, may be given tags, and may be commented on. The daily relied on Asana as a virtual kanban board tool. The projects are understood as *boards*, and the labels are understood as *states* that a task can have.
 
 In addition, meeting minutes were published through Flowdock, a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, under which participants may converse textually. One of these flows was dedicated for meeting minutes, so that there was usually no other discussion besides what was logged by the secretary.
+
+Tools for sharing knowledge in the physical environment, such as post-its or the whiteboard present in the room, were seldom touched.
