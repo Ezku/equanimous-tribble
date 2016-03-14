@@ -266,7 +266,7 @@
 \newcommand{\TITLE}{What exactly is the use of dailies:}
 % \newcommand{\FTITLE}{Ohjelmistoprosessit mänteille:}
 % \newcommand{\STITLE}{Den stora stygga vargen:}
-\newcommand{\SUBTITLE}{Evolution of practice and process in a software development team}
+\newcommand{\SUBTITLE}{Knowledge co-creation at the intersection of lean and agile software development}
 % \newcommand{\FSUBTITLE}{Uusi organisaatio, uudet pyörät}
 % \newcommand{\SSUBTITLE}{Lilla Vargens universum}
 \newcommand{\DATE}{2016}
