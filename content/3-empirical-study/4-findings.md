@@ -1,8 +1,10 @@
 
 # Empirical findings {#empirical-findings}
 
-## Understanding the system of work as a shared conceptual artefact
+## The structure of a daily {#daily-structure}
 
-## Renegotiating the system of work
+## Use of virtual kanban boards
 
-## An unfolding conceptualization of the system of work as constitutive of a knowledge co-creation process
+## The team's reactions to new input
+
+## Change in the system of work

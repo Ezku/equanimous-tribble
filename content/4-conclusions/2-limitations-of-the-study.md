@@ -1,5 +1,0 @@
-
-<!--
-# Limitations of the study
--->
-
