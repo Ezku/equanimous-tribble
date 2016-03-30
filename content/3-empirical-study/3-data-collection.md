@@ -5,7 +5,11 @@
 
 The data for this research was collected through the use of audio recordings. The events observed were part of the everyday proceedings of the software development team. The team was informed beforehand of the intent to record the proceedings and that the intent would not be to interfere with what occurs naturally or deploy interventions for purposes of study. The author took part in all of these events and took the same role of secretary (as described in \ref{daily-roles}) in each one. The dailies took place in a meeting room that was fitted with a table, on which a mobile device was set for purposes of recording before the beginning of each daily. Notes on what went on in each daily were made to accompany the recordings as basis for further analysis later. In addition to audio recordings, the kanban boards' structure was captured as screenshots from the virtual kanban board tool described in section \ref{daily-tools}.
 
-<!-- TODO: description of three-phase analysis ref Heath et al 2010 -->
+<!--
+TODO?: description of three-phase analysis ref Heath et al 2010
+Scratch that: Heath is only for _video_ analysis, have to google for methodologies applicable to audio
+-->
+
 
 ## Overview of collected data
 
