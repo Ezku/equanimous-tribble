@@ -85,6 +85,7 @@ The modification or emergence of new objects of work
 - has the effect of bringing out the contradictions inherent in any activity system
 - Requires development of new rules, mediating artifacts, ways of working that will eventually modify the object of work
 
+
 ### Understanding knowing as heterogenous engineering and "action net"
 
 Sociology of translation, aka actor-network theory
