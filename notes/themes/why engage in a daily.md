@@ -6,3 +6,5 @@ Salilla tuli tämmönen mieleen:
 - "It must be that the team itself has this hypothesis, or it would not have dailies. That would be deliberately wasteful. Let us therefore assume that the team indeed believes this. What they do not have is a description of *how* the daily is of value. We would therefore like to come up with a way to describe the daily as a recurring event where knowledge is produced, made better or different in some way."
 
 Tässä nyt kuvataan sitä *what is at stake*
+
+--> tää ajatus meni sisään introductioniin
