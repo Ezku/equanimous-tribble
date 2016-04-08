@@ -53,7 +53,7 @@ The question of knowing how to do the right things brings us to the question of 
 
 The *practice-based approach* of organizational research looks at knowledge as acquired in participation, or knowing as something that is inseparable from doing \citep{nicolini2003knowing}. Practicing can be viewed as a transformative process: not only is there an equivalence between knowing and practicing, but knowledge transforms itself through use \citep{gherardi2011organizational}. Practices are social institutions that are sustained by their use within a sociomaterial context. They exist in a continuous state of becoming and responding to an unfolding reality, whereby learning can be understood as a recursive process of interaction between the practice and its practitioners.
 
-The research described in this paper aims to describe the daily as a practice in the context of lean software development. Account of the practice will be given through a case study, elucidating both how a daily happens and what the outcomes are. In other words: against the background of lean principles, *what exactly is the use of a daily?*
+The research described in this paper aims to describe the daily as a practice in the context of lean software development. Account of the practice will be given through a case study, elucidating both how a daily happens and what the outcomes are. In other words: against the background of lean principles and through the lens of practice, *what exactly is the use of a daily?*
 
 
 
