@@ -1,5 +1,8 @@
 # \cite{gherardi2011organizational}
 
+intersubjectivity
+: gives rise not to a matching of meanings, but to the assumption that meanings are shared or, as Garfinkel (1967) puts it, to an agreement on methods of understanding.
+
 ## The polysemy of practice
 
 1. Practice as a learning method
