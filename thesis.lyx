@@ -411,6 +411,8 @@ cetaceans, dolphins, porpoises}
 % Hack around this by aliasing: http://tex.stackexchange.com/questions/254521/pandoc-lists-in-environments
 \let\beginhack\begin
 \let\endhack\end
+
+\usepackage{csvsimple}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
