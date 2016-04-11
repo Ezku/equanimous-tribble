@@ -1,7 +1,7 @@
 
 # Daily durations
 
-Daily number |Date        |Duration
+Daily index  |Date        |Duration
 -------------|------------|-------:
 01           | 8.12.2015  | 36:36
 02           | 9.12.2015  | 48:53
@@ -24,7 +24,7 @@ Daily number |Date        |Duration
 19           | 18.1.2016  | 49:57
 20           | 19.1.2016  | 41:11
 
-Table: Durations of daily recordings by daily number and date.
+Table: Total durations of daily recordings by daily index number and date.
 
 Metric       |            | Duration
 -------------|------------|--------:
