@@ -1,0 +1,108 @@
+Capture date,Board name,Labels
+2015-12-16,CONTINUUM: Modules,(unlabeled)
+,,!! NOT AN INBOX !!
+,,"DONE (in production, smoke tested, communicated if needed)"
+,,"FIRES (ongoing, top prio fastlane)"
+,,"NEEDS COMMUNICATION (in production, smoke test done)"
+,,"IN PRODUCTION (in production, awaiting smoke test)"
+,,SMOKETEST FAILED (in production)
+,,DEPLOYMENTS (make sure all subtasks are checked)
+,,"QA APPROVED (in testgyver, ready to move to production)"
+,,"IN QA (testgyver, waiting for QA)"
+,,"QA REJECTED (in testgyver, DO NOT MERGE TO MASTER)"
+,,"IMPEDED (in devgyver, DO NOT MERGE TO TESTGYVER)"
+,,WAITING FOR DEVQA (in devgyver)
+,,DEVQA REJECTED (in devgyver)
+,,WAITING FOR MERGE (in branch)
+,,"IN DEVELOPMENT (local/devgyver, under development)"
+,,"READY TO START (no input needed, waiting to be picked on the table)"
+,,
+2015-12-16,[FIRE]: This must be emptied,(unlabeled)
+,,UNHANDLED FIRES INBOX
+,,"DOWNGRADE (not fire anymore, move to appropriate place)"
+,,"DONE (in production, smoketested, communicated)"
+,,"NEEDS COMMUNICATION (in production, smoke test done)"
+,,AWAITING SMOKE TEST (in production)
+,,SMOKETEST FAILED
+,,DEPLOYMENTS (make sure all subtasks are checked)
+,,"QA APPROVED (in testgyver, ready to move to production)"
+,,"IN QA (testgyver, waiting for QA)"
+,,"QA REJECTED (in testgyver, DO NOT MERGE TO MASTER)"
+,,WAITING IN DEVGYVER FOR MERGE
+,,IMPEDED
+,,IN DEV QA
+,,"IN DEVELOPMENT (local / devgyver, under development)"
+,,BACKLOG (waiting to be picked on the table)
+,,WAITING FOR REPRO
+,,LONGSTANDING (extinguished on its own)
+,,
+2015-12-16,INBOX (Composer 2),(unlabeled)
+,,INBOX TUTORIAL
+,,Inbox
+,,Needs something
+,,Discuss later
+,,Wishlist inbox
+,,Wishlist
+,,(rest omitted)
+,,
+2015-12-16,OUTBOX (ska diskuteras snart),(unlabeled)
+,,DONE
+,,TODO
+,,IMPEDED
+,,Longstanding (WIP limit: 18)
+,,
+2015-12-16,Priority lane,(unlabeled)
+,,DONE
+,,DOING
+,,TODO
+,,LONGSTANDING 
+,,
+2015-12-16,QUESTIONS,(unlabeled)
+,,Inbox
+,,Updates asked for
+,,Seen
+,,Badly needs a repro
+,,Client
+,,Plugins
+,,Misc
+,,CLI
+,,Needs repro
+,,
+2015-12-21,[FIRE] This must be emptied,(omitted)
+,,WAITING IN DEVGYVER FOR MERGE
+,,IMPEDED
+,,IN DEV QA
+,,"IN DEVELOPMENT (local/devgyver, under development)"
+,,UNICORN BACKLOG (wip: 1)
+,,JUNIPER BACKLOG (wip: 1+1)
+,,BACKLOG (wip: infinite)
+,,WAITING FOR REPRO
+,,LONGSTANDING (extinguished on its own)
+,,
+2015-12-21,OUTBOX (ska diskuteras snart),(unlabeled)
+,,INBOX ABOVE
+,,DONE
+,,ALMOST-BUT-NOT-QUITE-DONE
+,,TODO
+,,IMPEDED
+,,Longstanding (WIP limit: 18)
+,,
+2016-01-07,OUTBOX (ska diskuteras snart),(unlabeled)
+,,INBOX ABOVE
+,,DONE
+,,ALMOST-BUT-NOT-QUITE-DONE
+,,TODO
+,,IMPEDED
+,,MISSING IN ACTION 
+,,
+2016-01-12,MONEYBOX,(unlabeled)
+,,PENDING CUSTOMER ACTION
+,,
+2016-01-12,OUTBOX (ska diskuteras snart),(omitted)
+,,DONE
+,,ALMOST-BUT-NOT-QUITE-DONE
+,,TODO
+,,BOUNCED
+,,NEEDS PLANNING
+,,IMPEDED
+,,MISSING IN ACTION
