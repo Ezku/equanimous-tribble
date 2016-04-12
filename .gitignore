@@ -2,4 +2,4 @@
 /memos
 /releases
 /data/raw
-*.ods#
+/**/*.ods#
