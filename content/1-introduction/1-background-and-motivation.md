@@ -54,24 +54,3 @@ The question of knowing how to do the right things brings us to the question of 
 The *practice-based approach* of organizational research looks at knowledge as acquired in participation, or knowing as something that is inseparable from doing \citep{nicolini2003knowing}. Practicing can be viewed as a transformative process: not only is there an equivalence between knowing and practicing, but knowledge transforms itself through use \citep{gherardi2011organizational}. Practices are social institutions that are sustained by their use within a sociomaterial context. They exist in a continuous state of becoming and responding to an unfolding reality, whereby learning can be understood as a recursive process of interaction between the practice and its practitioners.
 
 The research described in this paper aims to describe the daily as a practice in the context of lean software development. Account of the practice will be given through a case study, elucidating both how a daily happens and what the outcomes are. In other words: against the background of lean principles and through the lens of practice, *what exactly is the use of a daily?*
-
-
-
-
-
-<!--
-
-
-------------
-
-Section \ref{rise-of-agile-and-lean} mentions that a key part of the lean perspective to software development is the fact that it describes principles for improving, not ascribed ways of doing things.
-
-In section \ref{capacity-for-reaction}, on the other hand, it was claimed that it might be prudent to inspect the role that dailies might take within a lean workflow.
-
-If "changing the system", so to speak, is one way for an organization to become better at building software, and dailies are an event where new input to the system is considered, might this systematic, continuous improvement and dailies be related? What happens in dailies, really? How might a team know how to do things better after engaging in whatever goes on in there?
-
-One key way for this improvement to happen is to inspect the flow of work items on a kanban board and change the system so that the flow smoothens and becomes more stable, predictable. As a visualization of the work, the kanban board is a description of the system the work occurs in, and changes to it should - in theory - reflect back to the system somehow.
-
-Scrum literature describes per-sprint retrospectives intended for improving the process at great length; lean principles include *kaizen*, which is Japanese for continuous improvement.
-
--->
