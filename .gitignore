@@ -3,3 +3,4 @@
 /releases
 /data/raw
 /**/*.ods#
+*.lyx#
