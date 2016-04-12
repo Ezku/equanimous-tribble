@@ -7,6 +7,8 @@ The data for this research was collected through the use of audio recordings. Th
 
 Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This analysis yielded an outline of dailies that is further delineated in section \ref{daily-structure}.
 
+Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were captured and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was captured in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
+
 
 ## Overview of collected data
 
