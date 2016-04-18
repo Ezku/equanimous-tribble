@@ -11,12 +11,43 @@ Audio recordings consitute the main body of research data. After dailies, notes 
 
 Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features, or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This *segment analysis* yielded an outline of dailies that is further delineated in section \ref{daily-structure}. Complete tables of the daily segments can be found in appendix section \ref{daily-segment-lengths}.
 
-**note on finnish to english translation**
-
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were extracted and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was extracted in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
 
 
 ## Overview of collected data
+
+Daily index  |Date        |Recorded | Effective | Language| Attendance
+-------------|------------|--------:|----------:|---------|----------:
+01           | 8.12.2015  | 36:36   | 34:01     | English | 7
+02           | 9.12.2015  | 48:53   | 47:19     | English | ?
+03           | 10.12.2015 | 28:30   | 27:38     | English | 7
+04           | 11.12.2015 | 33:51   | 32:25     | English | 9
+05           | 14.12.2015 | 28:16   | 27:34     | Finnish | 7
+06           | 15.12.2015 | 17:47   | 15:23     | Finnish | 5
+07           | 16.12.2015 | 27:08   | 26:42     | Finnish | 5
+08           | 17.12.2015 | 20:26   | 19:50     | Finnish | ?
+09           | 18.12.2015 | 19:03   | 17:20     | Finnish | ?
+10           | 21.12.2015 | 31:13   | 30:10     | Finnish | 4
+11           | 22.12.2015 | 11:57   | 11:07     | Finnish | 3
+12           | 7.1.2016   | 34:28   | 32:14     | English | 8
+13           | 8.1.2016   | 47:33   | 45:52     | English | 7
+14           | 11.1.2016  | 36:06   | 35:16     | English | 10
+15           | 12.1.2016  | 51:44   | 51:03     | English | 9
+16           | 13.1.2016  | 1:00:21 | 59:36     | English | 8
+17           | 14.1.2016  | 53:35   | 52:02     | English | ?
+18           | 15.1.2016  | 40:29   | 40:00     | English | 7
+19           | 18.1.2016  | 49:57   | 48:25     | English | 8
+20           | 19.1.2016  | 41:11   | 39:24     | English | 8
+
+Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* represents the duration of the part of the recording that was interpreted to constitute the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present.
+
+### Attendance and language
+
+The dailies gathered an attendance of three to ten participants. The drop in attendance halfway through the observation period is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants.
+
+Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility. Seven out of the twenty dailies observed were conducted in Finnish.
+
+### Durations and segments
 
 The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Complete tables of duration data can be found in appendix section \ref{daily-durations}.
 
@@ -31,3 +62,11 @@ The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes an
   },
   respect all
 ]{data/processed/total-segment-lengths.csv}
+
+
+Metric       |            | Effective
+-------------|------------|----------:
+**Total**    |            | 11:33:21
+**Average**  |            | 00:34:40
+
+Table: Aggregate metrics of effective daily durations.
