@@ -11,9 +11,23 @@ Audio recordings consitute the main body of research data. After dailies, notes 
 
 Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features, or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This *segment analysis* yielded an outline of dailies that is further delineated in section \ref{daily-structure}. Complete tables of the daily segments can be found in appendix section \ref{daily-segment-lengths}.
 
+**note on finnish to english translation**
+
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were extracted and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was extracted in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
 
 
 ## Overview of collected data
 
-The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Readily it can be observed that these dailies were not conformant to the Scrum-espoused ideal of a maximum of *15 minutes* per daily. Complete tables of duration data can be found in appendix section \ref{daily-durations}.
+The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Complete tables of duration data can be found in appendix section \ref{daily-durations}.
+
+\csvautolongtable[
+  table head={
+    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{tab:total-segment-lengths}\\\hline
+    \csvlinetotablerow\\\hline
+    \endfirsthead\hline
+    \csvlinetotablerow\\\hline
+    \endhead\hline
+    \endfoot
+  },
+  respect all
+]{data/processed/total-segment-lengths.csv}
