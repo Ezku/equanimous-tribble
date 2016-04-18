@@ -16,7 +16,7 @@ Capturing the kanban boards' structure as screenshots yielded material of two di
 
 ## Overview of collected data
 
-This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference.
+This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. When specific dailies are discussed, their index number (from `01` to `20`) will be used.
 
 Daily index  |Date        |Recorded | Effective | Language| Attendance
 -------------|------------|--------:|----------:|---------|----------:
@@ -41,13 +41,13 @@ Daily index  |Date        |Recorded | Effective | Language| Attendance
 19           | 18.1.2016  | 49:57   | 48:25     | English | 8
 20           | 19.1.2016  | 41:11   | 39:24     | English | 8
 
-Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* represents the duration of the part of the recording that was interpreted to constitute the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
+Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
 
 ### Attendance and language
 
-The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies 01 to 05 and 12 to 20).
+The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
 
-Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies 06 to 11). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
+Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
 
 ### Durations and segments {#durations-and-segments}
 
