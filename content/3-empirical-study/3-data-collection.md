@@ -9,12 +9,14 @@ The events observed were part of the everyday proceedings of the software develo
 
 Audio recordings consitute the main body of research data. After dailies, notes on what went on were made to accompany the recordings as basis for further analysis later. In addition to audio recordings and the accompanying notes, the kanban boards' structure was captured as screenshots from the virtual kanban board tool described in section \ref{daily-tools}.
 
-Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features, or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This *segment analysis* yielded an outline of dailies that is further delineated in section \ref{daily-structure}. Complete tables of the daily segments can be found in appendix section \ref{daily-segment-lengths}.
+Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features, or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This *segment analysis* yielded an outline of dailies that is further described in section \ref{durations-and-segments}.
 
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were extracted and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was extracted in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
 
 
 ## Overview of collected data
+
+This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference.
 
 Daily index  |Date        |Recorded | Effective | Language| Attendance
 -------------|------------|--------:|----------:|---------|----------:
@@ -39,21 +41,30 @@ Daily index  |Date        |Recorded | Effective | Language| Attendance
 19           | 18.1.2016  | 49:57   | 48:25     | English | 8
 20           | 19.1.2016  | 41:11   | 39:24     | English | 8
 
-Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* represents the duration of the part of the recording that was interpreted to constitute the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present.
+Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* represents the duration of the part of the recording that was interpreted to constitute the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
 
 ### Attendance and language
 
-The dailies gathered an attendance of three to ten participants. The drop in attendance halfway through the observation period is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants.
+The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies 01 to 05 and 12 to 20).
 
-Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility. Seven out of the twenty dailies observed were conducted in Finnish.
+Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies 06 to 11). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
 
-### Durations and segments
+### Durations and segments {#durations-and-segments}
 
-The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Complete tables of duration data can be found in appendix section \ref{daily-durations}.
+The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
+
+Metric       |            | Effective
+-------------|------------|----------:
+**Total**    |            | 11:33:21
+**Average**  |            | 00:34:40
+
+Table: Aggregate metrics of effective daily durations.
+
+A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}.
 
 \csvautolongtable[
   table head={
-    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{tab:total-segment-lengths}\\\hline
+    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
     \csvlinetotablerow\\\hline
     \endfirsthead\hline
     \csvlinetotablerow\\\hline
@@ -62,11 +73,3 @@ The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes an
   },
   respect all
 ]{data/processed/total-segment-lengths.csv}
-
-
-Metric       |            | Effective
--------------|------------|----------:
-**Total**    |            | 11:33:21
-**Average**  |            | 00:34:40
-
-Table: Aggregate metrics of effective daily durations.
