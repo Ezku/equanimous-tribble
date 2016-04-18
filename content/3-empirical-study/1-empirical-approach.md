@@ -21,7 +21,7 @@ The driver connects their laptop to the TV screen, enabling the team to view the
 
 The secretary affects decisions made by the team. This can take the form of manipulating tasks on the boards, making modifications to board structure, and making meeting notes.
 
-The driver and the secretary are the only explicit roles defined in the context of the daily. Other than that, the participants consist of developers, quality assurance, technical leads and product owners. All of the development team, including quality assurance but not necessary technical leads, were compelled to take part by convention. Product owners were present sporadically.
+The driver and the secretary are the only explicit roles defined in the context of the daily. Other than that, the participants consist of developers, quality assurance, product owners and management. Developers and quality assurance were by convention compelled to take part (at the absence of a good reason to the contrary), whereas product owners and management were not. Product owners were present sporadically.
 
 ### Tools used {#daily-tools}
 

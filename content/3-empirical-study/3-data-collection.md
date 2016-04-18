@@ -47,6 +47,8 @@ Table: Overview of audio material on dailies by daily index number and date. *Re
 
 The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
 
+Attendees could be divided into four categories: *developers* working on the product directly, *QA* responsible for testing the product and verifying that requirements are met, product owners or *POs* of managerial import capable of making backlog priorizations, and *management* whose opinion carries great weight in the way of conducting operations (such as the daily itself) but who are not in the aforementioned roles.
+
 Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
 
 ### Durations and segments {#durations-and-segments}
