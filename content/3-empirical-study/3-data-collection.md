@@ -76,6 +76,24 @@ A total of 13 different daily segments were identified in the material. Table \r
   respect all
 ]{data/processed/total-segment-lengths.csv}
 
-The segments identified bear some elaboration.
+The segments identified bear some elaboration. Unless otherwise specified, the segment is named by reference to a concrete instance of a board. Prominent examples include `INBOX` and `FIRES`. The exceptions are enumerated below.
 
-`INTRO` is a segment where the team has engaged the daily but is not yet focused on any of the boards available. The segment can be prompted by a call such as *"So, general things"* (`01`), or it might begin more fluidly e.g. with a team member presenting a topic for discussion: "That's an awesome pear." "Should we have a new nickname for Samppa?" (`03`)
+Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has engaged the daily but is not yet focused on any of the boards available. The segment can be prompted by a call such as *"So, general things"* (`01`, 02:02), or it might begin more fluidly e.g. with a team member presenting a topic for discussion as in this exchange from daily `03` (00:40):
+
+- *"That's an awesome pear."* (unstructed discussion, indistinct background chatter)
+- *"Should we have a new nickname for [team member]?"* (a topic is presented)
+
+Some dailies include a `BOARD OVERVIEW`. In these segments, the focus is not on individual boards, but their overall status or health, relationships and priorities between them and the arrangement of them in the list of boards. Here's an example where a developer inquires after the purpose of colored labels used for different boards (daily `03`, 26:21):
+
+- *"What about.. are the, uh, colors?"* (developer asks question)
+- *"Yellow is in QA. Purple has passed QA. Then there's grey that is in smoketest and, well, you won't probably ever see the blue because I.. blue means it's.. has been smoketested and I'll archive it any moment now."* (QA responds)
+
+Most boards used in dailies were ones of persistent nature. They are not explicitly bound to dates or weeks or deployment cadences. `CYCLES` make an exception to this. They are boards that are numbered and constitute a bundle of shippable things. Boards labelled with the same number would be deployed together, and there are a multitude of them in use at the same time. As alluded to in the quote by *QA* above, the board for a specific cycle will vanish from sight by being archived after work in it has been completed. All of these were grouped together as `CYCLES`. Discussion generally involves *what is being worked on*, *by whom* and *when it will be completed*. An extract from daily `02` (12:58) demonstrates how conceptions on progress of work and implications of handovers are negotiated in context of `CYCLES`:
+
+- *"So, are you still going to make it by friday?"* (QA prompts)
+- *"Yes"* (response by developer)
+- *"Still confident"* (QA confirms)
+- *"Quite... I have to, I'm leaving on friday"* (another developer interjects)
+- *"So who will be fixing your stuff on monday when it gets to QA or tuesday when it gets to QA?"* (QA expresses concern)
+
+*Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of this is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work done here can generally be shipped to production immediately after completion.
