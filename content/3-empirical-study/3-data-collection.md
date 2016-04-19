@@ -80,7 +80,7 @@ The segments identified bear some elaboration. Unless otherwise specified, the s
 
 Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has engaged the daily but is not yet focused on any of the boards available. The segment can be prompted by a call such as *"So, general things"* (`01`, 02:02), or it might begin more fluidly e.g. with a team member presenting a topic for discussion as in this exchange from daily `03` (00:40):
 
-- *"That's an awesome pear."* (unstructed discussion, indistinct background chatter)
+- *"That's an awesome pear."* (unstructured discussion, indistinct background chatter)
 - *"Should we have a new nickname for [team member]?"* (a topic is presented)
 
 Some dailies include a `BOARD OVERVIEW`. In these segments, the focus is not on individual boards, but their overall status or health, relationships and priorities between them and the arrangement of them in the list of boards. Here's an example where a developer inquires after the purpose of colored labels used for different boards (daily `03`, 26:21):
