@@ -1,5 +1,5 @@
 
-# Empirical research questions
+# Empirical research questions {#empirical-research-questions}
 
 The following research questions are posed to the empirical research data.
 

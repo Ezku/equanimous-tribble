@@ -1,9 +1,11 @@
 
 # Empirical findings {#empirical-findings}
 
-## The structure of a daily {#daily-structure}
+This section presents empirical findings based on which we will answer the empirical research questions from \ref{empirical-research-questions}. To settle **ERQ1**, in \ref{daily-structure} we describe the structure of a daily and link this structure to the use and arrangement of kanban boards.
 
-Readily it can be observed that these dailies were not conformant to the Scrum-espoused ideal of a maximum of *15 minutes* per daily.
+## How is the daily structured {#daily-structure}
+
+This section describes the structure of a daily as it appears based on the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same structure, but there were clear tendencies to be observed. Let us consider daily `03` as a prototypical example. The daily's segment outline can be seen in table \ref{daily-03-outline}.
 
 Segment         | Duration
 ----------------+---------
@@ -17,10 +19,18 @@ BOARD OVERVIEW	| 00:02:13
 ----------------+---------
 Total duration  | 00:28:18
 
-Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}.
+Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
-## Use of virtual kanban boards
+Kanban boards
+-------------
+INBOX (Composer 2)
+[FIRE]: This must be emptied
+Priority lane
+OUTBOX (ska diskuteras snart)
+QUESTIONS
+CONTINUUM: Modules
+CONTINUUM: Non-functional
+(omitted)
+-------------
 
-## The team's reactions to new input
-
-## Change in the system of work
+Table: Kanban board list applicable for daily `03`. Excerpt from appendix section \ref{kanban-board-structure}.
