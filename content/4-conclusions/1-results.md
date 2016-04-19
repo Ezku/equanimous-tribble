@@ -1,8 +1,8 @@
 
 # Results
 
-## Understanding the system of work as a shared conceptual artefact
+## The daily reflects the activity system
 
-## Renegotiating the system of work
+## The daily can be used as a tool for continuous improvement
 
-## An unfolding conceptualization of the system of work as constitutive of a knowledge co-creation process
+## The practice of a daily can inform software development activities
