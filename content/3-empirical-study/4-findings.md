@@ -162,7 +162,38 @@ A rationale of visibility is presented, along with a bargain in that the develop
 
 The tension is resolved by refining the modeling to include the "fire-nature" of the work items and showing them in fires. The tension's root cause, of the model apparently omitting the `PO`'s existing priorization, was also discovered.
 
-The team finishes up the priority lane by speeding through a few work items in the "todo" state, confirming them to be still relevant but undone.
+The team finishes up the priority lane by speeding through a few work items in the "todo" state, confirming them to be still relevant but undone. Once the list is combed, it's time for the next board.
+
+#### Outbox
+
+The driver opens up *"OUTBOX (ska diskuteras snart)"* and commences the `OUTBOX` segment at **20:45** with a callout from the secretary. As per the Swedish language subtitle of the board, it is used to keep track of discussions that should take place.
+
+`M1` immediately calls for a comment to be added on an existing work item that there's new evidence, referring to the `INTRO` segment discussion about a team being difficult to reach. This is apparently done for the benefit of a discussion to be had with `M2`, who is not present. Another discussion item is called out as being "longstanding", and is moved to that section of the board by the secretary.
+
+Due to the excursion by `M1` of bringing a task in the middle of the board to the team's attention, the linear top-to-bottom fashion of reading the board that was seemingly faithfully observed before has broken down at this point, but is resumed. To-be-had discussions are gone through and confirmed relevant in much the same fashion as the todo items in the previous segment.
+
+In the following excerpt there's again a reference to the difficulties discussed in the `INTRO`, now accompanied with a desire to not only have a discussion but to *keep track* of whether a problem was in fact solved for good:
+
+22:15
+:   "'Tech team doesn't see documentation being handled.' Really don't!" (`M` quoting work item title)
+:   "Well .." (`QA`)
+:   "Again. This morning." (`M`)
+:   "I have bumped and it's-" (`QA` stating a discussion was had)
+22:25
+:   "Yeah but until we can really say that it's now being properly handled ... we see a few cycles where it just .. goes well" (`M`)
+
+Ostensibly this would mean that the discussion item will be held in the "longstanding" section for evaluation, even if such a discussion as intended by the item did in fact take place as claimed by `QA`.
+
+Lastly, we observe a callback to the issue with fires and work in the module continuum. There's an unhandled item for which the discussion has already taken place, but the team would need to be informed about the outcome.
+
+23:36
+:   "'Ability to track module fires'" (`M` reading out item title as a prompt)
+:   "Yeah, `PO` requested that-that any uhh module fires also be added to the module continuum so you can take a look at the module continuum afterwards and see which have been completed" (`D` relating the result of the discussion)
+:   "Yes yes, very good" (`M`)
+
+The PO's request itself happens to be an insignificant detail from the daily's perspective, because as shown in \ref{daily-segment-lengths}, the module continuum is never combed through in the daily. It provides another rationale for the tension observed earlier, however: the PO's wishes about work visualization in the continuum might have contributed to a conflict with the team's needs about transparency.
+
+The "longstanding" discussion items are skipped with a callout from `M` getting an affirmative response from the secretary. This concludes the `OUTBOX` segment.
 
 
 
