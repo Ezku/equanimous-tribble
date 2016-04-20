@@ -234,14 +234,29 @@ The manager appears to have had a clear agenda in moving to this board, because 
 
 From the manager's perspective, the team appears to have failed in accounting for the timeliness requirement of the task being discussed. Proximally, the reason is pinned on `D1` not using the team's common tooling for supporting this by seeing that the task exists and is assigned. However, the team members seem to acknowledge that it is not trivial to make good priorizations of when these individual tasks would best be done, as they are unrelated to the team's larger deliverables.
 
+#### Board overview
 
+The `NON-FUNCTIONAL CONTINUUM` segment fluidly transforms into `BOARD OVERVIEW` when the manager again prompts:
 
-<!--
-- mitä suurin piirtein tapahtuu, miten osioista toiseen siirrytään
-- tapahtuuko jotain arpomista sen suhteen mikä juttu otetaan seuraavaksi
-- miten päätetään ollaanko valmiita
--->
+26:05
+:   "So what's the status of these numbered things? `QA`?" (`M`, referring to ongoing cycles)
 
+No action is needed from the driver as the discussion items of this section are continuously visible on screen. `QA` elaborates on the statuses from their perspective. A developer is curious about the color coding `QA` uses for signifying project statuses, and gets an explanation. This is immediately taken into use by another developer by describing the state of the next project on the list as "green", meaning "in progress".
+
+26:50
+:   "What's the definition of 'API'?" (`M` referring to cycle name)
+:   "It was more that I didn't want to use the 'partner integration funnel' for my tasks-" (`D`)
+27:01
+:   "Okay.. could this be renamed so that it still means something? Like ... put in parenthesis that 'partner integration funnel'? Or something, because nobody has idea what's 'API' [in] this context" (`M`)
+
+Manager calls for cycles being more clearly defined bundles of tasks, because a vague umbrella topic does not aid in understanding the work. The developer admits to not having been wanting to do this before. Perhaps the more specific name does not entirely describe the referred cycle's scope, or a better understanding has only recently arisen and the project's name is lagging behind.
+
+Also of note is that the developer expresses having a sense of ownership over "his" tasks. There's apparently a domain that the developer personally is responsible for and this cycle would lie within that domain.
+
+28:15
+:   "Alright ... Now we're done." (`M`)
+
+Nobody objects; the daily is concluded.
 
 ### Relation between daily structure and kanban boards
 
