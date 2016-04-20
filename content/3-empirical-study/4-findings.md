@@ -207,16 +207,14 @@ The "longstanding" discussion items are skipped with a callout from `M` getting 
 ### Relation between daily structure and kanban boards
 
 
-Segments      | Kanban board titles
---------------|---------------
-INTRO         | -
-INBOX         | INBOX (Composer 2)
-FIRES         | [FIRE]: This must be emptied
-PRIORITY LANE | Priority lane
-OUTBOX        | OUTBOX (ska diskuteras snart)
-QUESTIONS     | QUESTIONS
-\-            | CONTINUUM: Modules
-\-            | CONTINUUM: Non-functional
-\-            | (omitted)
+Segments       | Kanban board titles
+---------------|---------------
+INTRO          | -
+INBOX          | INBOX (Composer 2)
+FIRES          | [FIRE]: This must be emptied
+PRIORITY LANE  | Priority lane
+OUTBOX         | OUTBOX (ska diskuteras snart)
+QUESTIONS      | QUESTIONS
+BOARD OVERVIEW | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. The team proceeds through the boards as they are presented.
