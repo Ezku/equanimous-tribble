@@ -77,14 +77,16 @@ Either the item is a fire, requiring the team's immediate attention, or it can b
 
 12:23
 :   "Not a fire?" (`M`)
-:   "No.." (`D`)
+:   "No .." (`D`)
 :   "Wishlist." (`M`)
 
 The wishlist is a labeled section of the inbox board that is intended for a later grooming with relevant product owners involved. The secretary thus moves the item away from the inbox's topmost segment to the wishlist, and continuing in this way the inbox is gradually consumed of unhandled items.
 
 #### Fires
 
-Once the inbox is empty, the driver without prompt moves the team's view to a board titled *"[FIRE]: This must be emptied"*, signaling the start of the `FIRES` segment. Again the team will proceed from top to bottom, this time discussing items that have moved between states since last observation. Based on the board's labeling of states, (detailed in appendix \ref{kanban-board-structure}), the items further to the top are closer to having been resolved whereas at the bottom no work is being done on them.
+Once the inbox is empty, the driver without prompt moves the team's view to a board titled *"[FIRE]: This must be emptied"*, signaling the start of the `FIRES` segment. Again the team will proceed from top to bottom, this time discussing items that have moved between states since last observation.
+
+Based on the board's labeling of states, (detailed in appendix \ref{kanban-board-structure}), the items further to the top are closer to having been resolved whereas at the bottom no work is being done on them. The more than a dozen different states communicate an intricate understanding of a work item's progression from backlog to development, to testing, production and finally a state of doneness that can be agreed on by the team.
 
 Distinguishing this segment from the previous one, items will usually not be moved by the secretary. They may, however, be marked as complete after the team agrees there's nothing more to be done.
 
@@ -128,6 +130,41 @@ Negotiation on how thoroughly the board will be combed also happens. Here, a dev
 :   "No no, they were [new] yesterday" (`QA`)
 
 It's shortly determined that there would be nothing to gain, and the team moves on to a new board.
+
+#### Priority lane
+
+The driver opens up *"Priority lane"*, commencing the `PRIORITY LANE` segment. The flow of discussion is similar, with moved work items getting discussed from top to bottom. However, the team has chosen to label the states differently. There is significantly less structure as compared to fires: **DONE**, **DOING**, **TODO** and **LONGSTANDING**. This can be attributed to the non-technical or perhaps ad-hoc nature of work items placed here.
+
+A developer immediately starts relating the outcome of a discussion that was modelled as a work item on the priority lane and can now be seen by the team as "done":
+
+17:15
+:   "This was huge: [..]" (`D`, with explanation of defects discovered in production system)
+
+Due to the critical nature of the findings, the team would expect there to have been a follow-up work item. A manager expresses concern on whether action will be taken. This gives rise to a discussion on how the flow of work is being modelled for the team's benefit in this specific occasion:
+
+18:00
+:   "But isn't that kind of a fire?" (`M`)
+18:08
+:   "I'm doing everything I can, I have the one other fire first." (`D`)
+:   "Yeah but where is this kind of task?" (`M`)
+:   "It's in the module continuum, it's being worked on .. like, right now .. there's .. this many tasks about it" (`D`)
+:   "Okay ... but wouldn't it make sense to promote them as a fires also? And not leave them into the module continuum?" (`M`)
+:   "Hhh if you want to-" (`D`)
+:   "For more visibility ... because you can have task in two projects" (`M`)
+
+A rationale of visibility is presented, along with a bargain in that the developer's existing modelling can remain essentially undisturbed. It also becomes evident how the team has a conception of fires as *urgent-but-unplanned* versus *planned-and-prioritized*, which results in a curious tension:
+
+18:48
+:   "Yeh ... which one do you want [to see in fires]?" (`D`)
+:   "Everything that's considered a fire [and is] in module continuum ... because that's essentially blocking the module continuum for continuing ... on the actual *planned* features" (`M`)
+19:04
+:   "These are the planned features .. and fixes. These are what, uh, what we have prioritized with `PO`" (`D`)
+
+The tension is resolved by refining the modeling to include the "fire-nature" of the work items and showing them in fires. The tension's root cause, of the model apparently omitting the `PO`'s existing priorization, was also discovered.
+
+The team finishes up the priority lane by speeding through a few work items in the "todo" state, confirming them to be still relevant but undone.
+
+
 
 <!--
 - mitä suurin piirtein tapahtuu, miten osioista toiseen siirrytään
