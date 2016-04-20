@@ -41,6 +41,30 @@ The daily starts with an `INTRO` segment after making sure everyone is accounted
 
 We can observe that the exchange is rich in history and context. Discussions from what appear to be previous dailies are referenced, as well as more immediate occurrences from the same day. The team seems content to describe the situation on a very abstract level, which could point to an understanding of concrete experiences already having been shared. The tension appears to be relieved by an explicit plea for help and a corresponding assurance that very concrete actions will be taken, despite the metaphorical level of discussion so far. Taken together, we see that the team uses the opportunity for coming together to discuss their woes and to find ways for recourse.
 
+The team proceeds through an unstructured go-through of worries until arriving at what is apparently of immediate relevance: an upcoming feature will be requiring a significant amount of quality assurance after being shipped to production. The team assesses ways of approaching this, with `QA` and `M` negotiating the scope of testing required and the dependencies between work items that will have to be resolved to get to this stage.
+
+08:28
+:   "Done today then?" (`M`)
+:   "We can't do that, the thing is not in production [..]" (`QA`)
+08:35
+:   "So what is blocking that?" (`M`)
+:   "Uhh .. the [feature] hasn't passed QA" ('QA')
+:   "Okay. And what is blocking that?" (`M`)
+08:44
+:   "`D` has fires." (`QA`)
+:   "No, they're working right now, there's no [feature] related tasks" (`D`, challenging `QA`)
+:   "Yes, there is." (`QA` restating their position)
+
+This exchange appears to relate to the status of a specific cycle, but the team is not using the cycle's board to mediate the discussion. Thus the exchange is part of the `INTRO` segment, not `CYCLES`.
+
+The team continues to negotiate the interrelations between work items handled by different team members and handovers required. Concern is expressed about a team member leaving for vacation after the ongoing week and some items perhaps not being completed by then, but reassurences to the contrary appear to placate everyone.
+
+An attempt is made to start the `INBOX` segment with the prompt:
+
+10:05
+:   "What about starting from Asana now?" (`M`)
+
+This is ineffective, because another team member wants to discuss handovers not yet mentioned. The secretary can be heard making meeting minutes on the subject.
 
 
 <!--
