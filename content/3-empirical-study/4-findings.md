@@ -195,6 +195,18 @@ The PO's request itself happens to be an insignificant detail from the daily's p
 
 The "longstanding" discussion items are skipped with a callout from `M` getting an affirmative response from the secretary. This concludes the `OUTBOX` segment.
 
+#### Questions
+
+By this point, the team is evidently anxious to move forward: several members in succession call out the name of the next board, *"QUESTIONS"*. The purpose of the board is to make sure that information needs of parties, internal and customer alike, are not neglected. Concretely, there are both ongoing lines of inquiry and recurring "household keeping" themed tasks. Only the topmost tasks, belonging to the recurring category, are briefly confirmed as having been done.
+
+24:39
+:   "So ..." (`D1`)
+24:41
+:   "So ..." (`D2`)
+24:43
+:   "Let's not be done yet." (`M`)
+
+Team members express desire to move on and perhaps finish the daily, but the manager wants to be more thorough. With that note, the driver shows the next board.
 
 
 <!--
