@@ -48,7 +48,7 @@ The team proceeds through an unstructured go-through of worries until arriving a
 :   "We can't do that, the thing is not in production [..]" (`QA`)
 08:35
 :   "So what is blocking that?" (`M`)
-:   "Uhh .. the [feature] hasn't passed QA" ('QA')
+:   "Uhh .. the [feature] hasn't passed QA" (`QA`)
 :   "Okay. And what is blocking that?" (`M`)
 08:44
 :   "`D` has fires." (`QA`)
