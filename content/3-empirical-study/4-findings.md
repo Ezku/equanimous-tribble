@@ -5,7 +5,7 @@ This section presents empirical findings based on which we will answer the empir
 
 ## How is the daily structured? {#daily-structure}
 
-This section describes the structure of a daily as it appears based on the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same structure, but there were clear tendencies to be observed. Let us consider daily `03` as a prototypical example. The daily's segment outline can be seen in table \ref{daily-03-outline}.
+This section describes the structure of a daily as it appears based on the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same structure, but there were clear tendencies to be observed. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
 
 **Segment**        | **Duration**
 -------------------+---------
