@@ -66,6 +66,21 @@ An attempt is made to start the `INBOX` segment with the prompt:
 
 This is ineffective, because another team member wants to discuss handovers not yet mentioned. The secretary can be heard making meeting minutes on the subject.
 
+#### Inbox
+
+The `INBOX` segment finally starts at **11:25**. The *driver* opens Asana and allows the team to view items in the inbox on a TV screen. The inbox is a board that contains new items as input to the team and to be handled in the daily proceedings. Starting from the topmost item, item labels are read out loud. Most often, a variation of the following question is used to settle the imminence of items encountered:
+
+11:51
+:   "Fire or not?" (`M`)
+
+Either the item is a fire, requiring the team's immediate attention, or it can be postponed to a later time. Fire would mean that the *secretary* moves the item for it to get handled in a later `FIRES` segment. The team members will respond with either "fire" or another board where the item would get handled in the appropriate fashion.
+
+12:23
+:   "Not a fire?" (`M`)
+:   "No.." (`D`)
+:   "Wishlist." (`M`)
+
+The wishlist is a labeled section of the inbox board that is intended for a later grooming with relevant product owners involved. The secretary thus moves the item away from the inbox's topmost segment to the wishlist, and continuing in this way the inbox is gradually consumed of unhandled items.
 
 <!--
 - mitä suurin piirtein tapahtuu, miten osioista toiseen siirrytään
