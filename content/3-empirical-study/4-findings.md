@@ -208,6 +208,33 @@ By this point, the team is evidently anxious to move forward: several members in
 
 Team members express desire to move on and perhaps finish the daily, but the manager wants to be more thorough. With that note, the driver shows the next board.
 
+#### Non-functional continuum
+
+The non-functional continuum board consists of small tasks that have only superficial effect on the product and can thus be shipped immediately. The structure and sectioning is similar to "fires", but the work reflected therein is considered to be of less urgency by nature.
+
+The manager appears to have had a clear agenda in moving to this board, because he proceeds to press on an uncompleted task.
+
+24:48
+:   "There's [item description]" (`M`)
+:   "Has `D1`'s face on it [..]" (`QA`)
+25:02
+:   "So `D1` could you add these things? There's a huge organisational waste when we have done [website content] already .. and they are not linked in the UI" (`M`)
+25:12
+:   "Yeah yeah" (`D1`)
+:   "This is almost becoming a fire" (`M`)
+:   "... Yeah." (`D1`)
+25:21
+:   "But like, we had this discussion before I left." (`M`)
+:   "Yeah yeah I can add" (`D1`)
+:   "But .. really" (`M`)
+:   "Yeah yeah yeah yeah yeah" (`D1`)
+25:29
+:   "And... Start using the 'my tasks' thing [..]" (`M`)
+:   "That's how I do it cause otherwise I just don't remember what I ..." (`D2`)
+
+From the manager's perspective, the team appears to have failed in accounting for the timeliness requirement of the task being discussed. Proximally, the reason is pinned on `D1` not using the team's common tooling for supporting this by seeing that the task exists and is assigned. However, the team members seem to acknowledge that it is not trivial to make good priorizations of when these individual tasks would best be done, as they are unrelated to the team's larger deliverables.
+
+
 
 <!--
 - mitä suurin piirtein tapahtuu, miten osioista toiseen siirrytään
@@ -227,6 +254,7 @@ FIRES          | [FIRE]: This must be emptied
 PRIORITY LANE  | Priority lane
 OUTBOX         | OUTBOX (ska diskuteras snart)
 QUESTIONS      | QUESTIONS
-BOARD OVERVIEW | -
+NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
+BOARD OVERVIEW           | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. The team proceeds through the boards as they are presented.
