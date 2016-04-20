@@ -82,6 +82,53 @@ Either the item is a fire, requiring the team's immediate attention, or it can b
 
 The wishlist is a labeled section of the inbox board that is intended for a later grooming with relevant product owners involved. The secretary thus moves the item away from the inbox's topmost segment to the wishlist, and continuing in this way the inbox is gradually consumed of unhandled items.
 
+#### Fires
+
+Once the inbox is empty, the driver without prompt moves the team's view to a board titled *"[FIRE]: This must be emptied"*, signaling the start of the `FIRES` segment. Again the team will proceed from top to bottom, this time discussing items that have moved between states since last observation. Based on the board's labeling of states, (detailed in appendix \ref{kanban-board-structure}), the items further to the top are closer to having been resolved whereas at the bottom no work is being done on them.
+
+Distinguishing this segment from the previous one, items will usually not be moved by the secretary. They may, however, be marked as complete after the team agrees there's nothing more to be done.
+
+Progress with fire extinguishing, or lack thereof, can be touched briefly:
+
+14:32
+:   "So `D1`, all ok, need anything?" (`QA`, referring to work item presented by driver)
+:   "Uh ... yeah, no, just to note that-that me and `D2`, we had a, had a prepared battle plan for this specific occasion, and our first attempt at-at fixing it instantly failed. So .. I'm going to have to *actually* fix this." (`D1`)
+14:52
+:   "Can you actually fix this?" (`M` seeks confirmation)
+:   "Yes, I can actually fix this." (`D1` concludes)
+
+In this case the details of how the actually-fixing would be done are omitted in the discussion as something that belongs outside the scope of the daily. What gets communicated is the belief that work items will be moving today despite lack of progress thus far.
+
+Sometimes a balance between expedited technical implementation and other rationale, such as product design, needs to be reconsidered. Here, a developer presents a caveat in their intended approach to resolve a fire:
+
+15:08
+:   "Most likely the fix is kind of .. people don't like it, but like that's the .. easiest way to fix" (`D`)
+:   "What?" (`QA`, incredulously)
+:   "You need to save the changes before you can open the [feature]" (`D`)
+15:22
+:   "Why doesn't it save it automatically? [..]?" (`M`)
+:   "It did, but–" (`QA`)
+:   "No, it didn't" (`D`)
+:   "It looked like-!" (`QA`)
+:   "Yeeah it looked like, yeah, sure. (short laughter)" (`D`)
+15:33
+:   "But why not that way?" (`M`)
+:   "Well, we could .. do that that way" (`D`)
+15:37
+:   "Wouldn't that make more sense?" (`M`)
+:   "Yeah." (`D`)
+:   "Just saves it. Next." (`M`)
+
+Negotiation on how thoroughly the board will be combed also happens. Here, a developer poses the question of whether *backlog items* (meaning items that have not yet moved since their addition to fires) should be handled at this time:
+
+16:42
+:   "Do we want to discuss the backlog items?" (`D1`)
+:   "They are the same, I guess ... Not moved" (`D2`)
+:   "But no new fires. Or are these two by `D3`, are these new?" (`D1`)
+:   "No no, they were [new] yesterday" (`QA`)
+
+It's shortly determined that there would be nothing to gain, and the team moves on to a new board.
+
 <!--
 - mitä suurin piirtein tapahtuu, miten osioista toiseen siirrytään
 - tapahtuuko jotain arpomista sen suhteen mikä juttu otetaan seuraavaksi
