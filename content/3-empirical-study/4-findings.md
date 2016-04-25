@@ -22,7 +22,7 @@ BOARD OVERVIEW	   | 00:02:13
 
 Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
-### Typical segments in depth
+### Typical segments in depth {#segments-in-depth}
 
 #### Introduction
 
@@ -260,9 +260,9 @@ Also of note is that the developer expresses having a sense of ownership over "h
 
 Nobody objects; the daily is concluded.
 
-### Relation between daily structure and kanban boards
+### Relation between daily structure and kanban boards {#relation-between-daily-and-boards}
 
-The previous section answered the question of how the daily happened. To support an argument about a more general relation between the daily and its context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
+The previous section answered the question of how the daily happened. To support an argument about a relation between the daily and its sociomaterial context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
 
 Segments       | Kanban board titles
 ---------------|---------------
@@ -276,3 +276,9 @@ NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
 BOARD OVERVIEW           | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. The team proceeds through the boards as they are presented.
+
+*How does the daily practice reflect the activity system as understood by the team?*
+
+### Discovering the best thing to do
+
+A key question that the team attempts to answer by engaging in the daily is *what needs to be done today*. This can be seen in the team's stance on `INBOX`: does a new item change priorities as they were previously agreed to be? Are there new fires to be extinguished or can work proceed as planned?
