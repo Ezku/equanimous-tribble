@@ -11,6 +11,15 @@ Audio recordings consitute the main body of research data. After dailies, notes 
 
 Audio recordings were transferred from the recording device, an *iPhone 5S*, as *mp4* files, and played back using *VLC Player*. An initial analysis and structuring of the material was carried out for each daily by first reviewing the associated notes as a clue on possible interesting events, features, or background information useful for understanding the proceedings and then playing back the audio in a linear fashion. Notes of the audio were made in text format, logging timestamps of discussion topics and interactions that were found to be of interest. This *segment analysis* yielded an outline of dailies that is further described in section \ref{durations-and-segments}.
 
+The initial analysis and segment analysis taken together formed a basis for reviewing the material and making it possible to pay more attention to specific portions of the material, some of which was transcribed for presentation. The transcriptions will follow this convention:
+
+Timestamp in minutes:seconds
+:   "Speech in between quote marks" (with `attributions` in parentheses)
+:   (descriptions, interpretations and characterisations of situation or action in parentheses)
+:   "Omissions of fragments [..] and injections [of] missing parts of speech for understandability marked by square brackets"
+Timestamp for next set of actions
+:    (turns taken in continuous fashion can be transcribed under a single timestamp, but otherwise individual timestamps are presented)
+
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were extracted and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was extracted in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
 
 
