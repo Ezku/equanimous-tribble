@@ -5,7 +5,9 @@ This section presents empirical findings based on which we will answer the empir
 
 ## How is the daily structured? {#daily-structure}
 
-This section describes the structure of a daily as it appears based on the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same structure, but there were clear tendencies to be observed. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
+We can observe from \ref{daily-segment-lengths} that no two dailies followed exactly the same structure. However, clear tendencies could be observed. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed.
+
+An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
 
 **Segment**        | **Duration**
 -------------------+---------
@@ -260,6 +262,7 @@ Nobody objects; the daily is concluded.
 
 ### Relation between daily structure and kanban boards
 
+The previous section answered the question of how the daily happened. To support an argument about a more general relation between the daily and its context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
 
 Segments       | Kanban board titles
 ---------------|---------------
