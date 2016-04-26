@@ -19,6 +19,8 @@ build:
 		-t iso-8859-1 \
 	> ${target}
 
+	node scripts/guess-table-headers.js ${target}
+
 commit-changes:
 	git add $(autocommitted) \
 	&& git commit -qm "[automated build]" \
