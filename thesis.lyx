@@ -598,6 +598,38 @@ tableofcontents
 
 \begin_layout Plain Layout
 
+% List of tables
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftables
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{
+\backslash
+listtablename}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
 %%%%%%%%%%%%%%%%% The main content starts here %%%%%%%%%%%%%%%%%%%%%
 \end_layout
 
