@@ -264,7 +264,7 @@ Nobody objects; the daily is concluded.
 
 The previous section answered the question of how the daily happened. To support an argument about a relation between the daily and its sociomaterial context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
 
-Observing table \ref{segments-vs-boards} where the segments undergone in the daily and the kanban boards have been overlaid, we find that the team proceeds through the boards as they are presented. This gives rise to the idea that the structure of a daily and the structure of the boards are interrelated. Indeed, this is not an uncommon occurrence: `INBOX` – `FIRES` - `PRIORITY LANE` - `OUTBOX` - `QUESTIONS` is a typical sequence through the observation period.
+Observing table \ref{segments-vs-boards} where the segments undergone in the daily and the kanban boards have been overlaid, we find that the boards are in the same order as the team uses when proceeding through the daily. This gives rise to the idea that the structure of a daily and the structure of the boards are interrelated. Indeed, this is not an uncommon occurrence: `INBOX` – `FIRES` - `PRIORITY LANE` - `OUTBOX` - `QUESTIONS` is a typical sequence through the observation period.
 
 Segments       | Kanban board titles
 ---------------|---------------
