@@ -9,16 +9,16 @@ We can observe from \ref{daily-segment-lengths} that no two dailies followed exa
 
 An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
 
-**Segment**        | **Duration**
--------------------+---------
-INTRO	             | 00:10:45
-INBOX	             | 00:01:45
-FIRES	             | 00:04:05
-PRIORITY LANE	     | 00:03:30
-OUTBOX	           | 00:03:20
-QUESTIONS	         | 00:02:00
-BOARD OVERVIEW	   | 00:02:13
-**Total duration** | 00:28:18
+| **Segment**        | **Duration** |
+|--------------------|--------------|
+| INTRO              | 00:10:45     |
+| INBOX              | 00:01:45     |
+| FIRES              | 00:04:05     |
+| PRIORITY LANE      | 00:03:30     |
+| OUTBOX             | 00:03:20     |
+| QUESTIONS          | 00:02:00     |
+| BOARD OVERVIEW     | 00:02:13     |
+| **Total duration** | 00:28:18     |
 
 Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
@@ -266,14 +266,14 @@ The previous section answered the question of how the daily happened. To support
 
 Observing table \ref{segments-vs-boards} where the segments undergone in the daily and the kanban boards have been overlaid, we find that the boards are in the same order as the team uses when proceeding through the daily. This gives rise to the idea that the structure of a daily and the structure of the boards are interrelated. Indeed, this is not an uncommon occurrence: `INBOX` – `FIRES` - `PRIORITY LANE` - `OUTBOX` - `QUESTIONS` is a typical sequence through the observation period.
 
-Segments       | Kanban board titles
----------------|---------------
-INTRO          | -
-INBOX          | INBOX (Composer 2)
-FIRES          | [FIRE]: This must be emptied
-PRIORITY LANE  | Priority lane
-OUTBOX         | OUTBOX (ska diskuteras snart)
-QUESTIONS      | QUESTIONS
+Segments                 | Kanban board titles
+-------------------------|------------------------------
+INTRO                    | -
+INBOX                    | INBOX (Composer 2)
+FIRES                    | [FIRE]: This must be emptied
+PRIORITY LANE            | Priority lane
+OUTBOX                   | OUTBOX (ska diskuteras snart)
+QUESTIONS                | QUESTIONS
 NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
 BOARD OVERVIEW           | -
 

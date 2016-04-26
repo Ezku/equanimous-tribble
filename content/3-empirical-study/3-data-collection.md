@@ -27,28 +27,28 @@ Capturing the kanban boards' structure as screenshots yielded material of two di
 
 This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. When specific dailies are discussed, their index number (from `01` to `20`) will be used.
 
-Daily index  |Date        |Recorded | Effective | Language| Attendance
--------------|------------|--------:|----------:|---------|----------:
-01           | 8.12.2015  | 36:36   | 34:01     | English | 7
-02           | 9.12.2015  | 48:53   | 47:19     | English | ?
-03           | 10.12.2015 | 28:30   | 27:38     | English | 7
-04           | 11.12.2015 | 33:51   | 32:25     | English | 9
-05           | 14.12.2015 | 28:16   | 27:34     | Finnish | 7
-06           | 15.12.2015 | 17:47   | 15:23     | Finnish | 5
-07           | 16.12.2015 | 27:08   | 26:42     | Finnish | 5
-08           | 17.12.2015 | 20:26   | 19:50     | Finnish | ?
-09           | 18.12.2015 | 19:03   | 17:20     | Finnish | ?
-10           | 21.12.2015 | 31:13   | 30:10     | Finnish | 4
-11           | 22.12.2015 | 11:57   | 11:07     | Finnish | 3
-12           | 7.1.2016   | 34:28   | 32:14     | English | 8
-13           | 8.1.2016   | 47:33   | 45:52     | English | 7
-14           | 11.1.2016  | 36:06   | 35:16     | English | 10
-15           | 12.1.2016  | 51:44   | 51:03     | English | 9
-16           | 13.1.2016  | 1:00:21 | 59:36     | English | 8
-17           | 14.1.2016  | 53:35   | 52:02     | English | ?
-18           | 15.1.2016  | 40:29   | 40:00     | English | 7
-19           | 18.1.2016  | 49:57   | 48:25     | English | 8
-20           | 19.1.2016  | 41:11   | 39:24     | English | 8
+| Daily index | Date       | Recorded | Effective | Language | Attendance |
+|-------------|------------|---------:|----------:|----------|-----------:|
+| 01          | 8.12.2015  |    36:36 |     34:01 | English  |          7 |
+| 02          | 9.12.2015  |    48:53 |     47:19 | English  |          ? |
+| 03          | 10.12.2015 |    28:30 |     27:38 | English  |          7 |
+| 04          | 11.12.2015 |    33:51 |     32:25 | English  |          9 |
+| 05          | 14.12.2015 |    28:16 |     27:34 | Finnish  |          7 |
+| 06          | 15.12.2015 |    17:47 |     15:23 | Finnish  |          5 |
+| 07          | 16.12.2015 |    27:08 |     26:42 | Finnish  |          5 |
+| 08          | 17.12.2015 |    20:26 |     19:50 | Finnish  |          ? |
+| 09          | 18.12.2015 |    19:03 |     17:20 | Finnish  |          ? |
+| 10          | 21.12.2015 |    31:13 |     30:10 | Finnish  |          4 |
+| 11          | 22.12.2015 |    11:57 |     11:07 | Finnish  |          3 |
+| 12          | 7.1.2016   |    34:28 |     32:14 | English  |          8 |
+| 13          | 8.1.2016   |    47:33 |     45:52 | English  |          7 |
+| 14          | 11.1.2016  |    36:06 |     35:16 | English  |         10 |
+| 15          | 12.1.2016  |    51:44 |     51:03 | English  |          9 |
+| 16          | 13.1.2016  |  1:00:21 |     59:36 | English  |          8 |
+| 17          | 14.1.2016  |    53:35 |     52:02 | English  |          ? |
+| 18          | 15.1.2016  |    40:29 |     40:00 | English  |          7 |
+| 19          | 18.1.2016  |    49:57 |     48:25 | English  |          8 |
+| 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
 
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
 
@@ -66,10 +66,10 @@ Due its international composition, the team handled most of the dailies in Engli
 
 The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
 
-Metric       |            | Effective
--------------|------------|----------:
-**Total**    |            | 11:33:21
-**Average**  |            | 00:34:40
+| Metric      |   | Effective |
+|-------------|---|----------:|
+| **Total**   |   |  11:33:21 |
+| **Average** |   |  00:34:40 |
 
 Table: Aggregate metrics of effective daily durations.
 
