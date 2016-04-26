@@ -402,8 +402,9 @@ cetaceans, dolphins, porpoises}
 \usepackage[titletoc]{appendix}
 
 \renewcommand\thechapter{\Roman{chapter}}
-\renewcommand\thesection{\arabic{section}}
-\renewcommand\thetable{\arabic{table}}
+% These appear to be redundant with \counterwithout
+% \renewcommand\thesection{\arabic{section}}
+% \renewcommand\thetable{\arabic{table}}
 
 \usepackage{chngcntr}
 \counterwithout{section}{chapter}
