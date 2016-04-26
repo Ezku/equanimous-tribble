@@ -9,7 +9,7 @@ Equipped with this knowledge, we can make the claim that the boards are a descri
 
 Taking this idea further, not only are the boards and their arrangement a reflection of the activity system, but *the daily itself* is such a reflection as well. This is because, as shown in section \ref{relation-between-daily-and-boards}, the structure of a daily is afforded by the structure of the boards. The arrangement of the boards gives rise to an agenda for the daily, and the agenda may correspondingly be modified by a change to the arrangement.
 
-## The daily can be used as a tool for continuous improvement {daily-as-kaizen}
+## The daily can be used as a tool for continuous improvement {#daily-as-kaizen}
 
 Taken another way, the daily is an event for the team to potentially *reflect at* the activity system. This means the team can take the opportunity to see whether the modelling makes sense for whatever is going on at a given moment. If tension between "reality" and what the modelling tells the team arises, corrections can be taken immediately. This is in contrast to the conception of a daily which was presented as an answer to **TRQ1**, where the opportunity for change presents itself outside the daily in intervention-based *retrospectives*.
 
