@@ -281,6 +281,8 @@ Table: List of daily segments and the kanban board list for daily `03` overlaid.
 
 In support of this deduction we can can consider table \ref{segment-deltas}. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively. We could consider these top segments to form the stable skeleton of a daily.
 
+- starting from here, this is actually material for answering **ERQ2**
+
 Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards, or are the boards merely arranged in imitation of the daily? To answer this question, we may consider what happens when the structure of boards is disturbed. Table \ref{segment-deltas} gives us a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
 
 \csvautolongtable[
@@ -294,6 +296,11 @@ Is it reasonable to infer a causality? Is the team's daily structure indeed enco
   },
   respect all
 ]{data/processed/segment-deltas.csv}
+
+- how did the different boxes end up in the daily
+- what kind of modifications were done to the board structure
+- does it stand to reason that modifying the board structure in fact affected the daily
+- if this is a credible statement, we have shown that the daily and its sociomaterial context are engaged in a recursive loop of unfolding driven by tensions introduced and resolved during the practice of a daily
 
 *How does the daily practice reflect the activity system as understood by the team?*
 
