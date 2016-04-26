@@ -264,6 +264,8 @@ Nobody objects; the daily is concluded.
 
 The previous section answered the question of how the daily happened. To support an argument about a relation between the daily and its sociomaterial context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
 
+Observing table \ref{segments-vs-boards} where the segments undergone in the daily and the kanban boards have been overlaid, we find that the team proceeds through the boards as they are presented. This gives rise to the idea that the structure of a daily and the structure of the boards are interrelated. Indeed, this is not an uncommon occurrence: `INBOX` – `FIRES` - `PRIORITY LANE` - `OUTBOX` - `QUESTIONS` is a typical sequence through the observation period.
+
 Segments       | Kanban board titles
 ---------------|---------------
 INTRO          | -
@@ -275,7 +277,23 @@ QUESTIONS      | QUESTIONS
 NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
 BOARD OVERVIEW           | -
 
-Table: List of daily segments and the kanban board list for daily `03` overlaid. The team proceeds through the boards as they are presented.
+Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
+
+In support of this deduction we can can consider table \ref{segment-deltas}. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively. We could consider these top segments to form the stable skeleton of a daily.
+
+\csvautolongtable[
+  table head={
+    \caption{First and last occurrences of segments through observation period with the count of occurrences in between.}\label{segment-deltas}\\\hline
+    \csvlinetotablerow\\\hline
+    \endfirsthead\hline
+    \csvlinetotablerow\\\hline
+    \endhead\hline
+    \endfoot
+  },
+  respect all
+]{data/processed/segment-deltas.csv}
+
+Is the team's daily structure indeed encoded in the kanban boards, or does it just happen that the team follows the structure by happenstance? To answer this question, we may consider what happens when the structure of boards is disturbed. Table \ref{segment-deltas} gives us a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
 
 *How does the daily practice reflect the activity system as understood by the team?*
 
