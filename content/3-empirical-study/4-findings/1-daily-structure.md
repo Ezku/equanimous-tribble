@@ -297,9 +297,3 @@ Is it reasonable to infer a causality? Is the team's daily structure indeed enco
 - what kind of modifications were done to the board structure
 - does it stand to reason that modifying the board structure in fact affected the daily
 - if this is a credible statement, we have shown that the daily and its sociomaterial context are engaged in a recursive loop of unfolding driven by tensions introduced and resolved during the practice of a daily
-
-*How does the daily practice reflect the activity system as understood by the team?*
-
-### Discovering the best thing to do
-
-A key question that the team attempts to answer by engaging in the daily is *what needs to be done today*. This can be seen in the team's stance on `INBOX`: does a new item change priorities as they were previously agreed to be? Are there new fires to be extinguished or can work proceed as planned?
