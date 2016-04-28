@@ -1,8 +1,4 @@
 
-# Empirical findings {#empirical-findings}
-
-This section presents empirical findings based on which we will answer the empirical research questions from section \ref{empirical-research-questions}. To settle **ERQ1**, in \ref{daily-structure} we describe the structure of a daily and link this structure to the use and arrangement of kanban boards.
-
 ## How is the daily structured? {#daily-structure}
 
 We can observe from \ref{daily-segment-lengths} that no two dailies followed exactly the same structure. However, clear tendencies could be observed. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed.
