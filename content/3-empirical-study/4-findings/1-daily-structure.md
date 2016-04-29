@@ -293,17 +293,17 @@ Is it reasonable to infer a causality? Is the team's daily structure indeed enco
 
 How did the aforementioned "box" segments end up in the daily? To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. What kind of modifications were made to the board layout then, if any?
 
-Prior to `19` | `19`
------------|----------------------
-INBOX (Composer 2) | INBOX (Composer 2)
-[FIRE]: This must be emptied | [FIRE]: This must be emptied
-Priority lane | Priority lane
-OUTBOX (ska diskuteras snart) | OUTBOX (ska diskuteras snart)
-\- | MONEYBOX
-QUESTIONS | QUESTIONS
-\- | MARKETING
-CONTINUUM: Non-functional | CONTINUUM: Non-functional
-CONTINUUM: Modules | CONTINUUM: Modules
+| Prior to `19`                 | `19`                          |
+|-------------------------------|-------------------------------|
+| INBOX (Composer 2)            | INBOX (Composer 2)            |
+| [FIRE]: This must be emptied  | [FIRE]: This must be emptied  |
+| Priority lane                 | Priority lane                 |
+| OUTBOX (ska diskuteras snart) | OUTBOX (ska diskuteras snart) |
+| \-                            | MONEYBOX                      |
+| QUESTIONS                     | QUESTIONS                     |
+| \-                            | MARKETING                     |
+| CONTINUUM: Non-functional     | CONTINUUM: Non-functional     |
+| CONTINUUM: Modules            | CONTINUUM: Modules            |
 
 Table: Difference in board layout for daily `19`.
 
