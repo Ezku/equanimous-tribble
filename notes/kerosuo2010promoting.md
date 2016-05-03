@@ -188,3 +188,48 @@ Slappendal 1996 (se on muuten Slappendel):
   year={1996},
   publisher={Sage Publications}
 }
+
+## Figure 5: The contradictory units of the activities of surgery and anesthesia
+
+### Activity system of surgery
+
+Subject:
+- surgeon specialist
+- surgical nurse
+
+Object 1:
+- patient operated
+Object 2:
+- diagnosed part of body being operated
+
+Division of labor:
+- between surgical specialties
+- between surgeons and nurses
+
+Community:
+- surgical specialties
+- surgical nurses
+
+Mediating artifacts:
+- tools, knowledge and practices in surgery
+
+### Activity system of anesthesia
+
+Subject:
+- anesthesist
+- anesthesia nurse
+
+Object 1:
+- patient requiring anesthesia
+Object 2:
+- a patient requiring anesthesia
+
+Divison of labor:
+- between anesthetists and anesthesia nurses
+
+Community:
+- anesthetist
+- anesthesia nurse
+
+Mediating artifacts:
+- tools, knowledge and practices in anesthesia
