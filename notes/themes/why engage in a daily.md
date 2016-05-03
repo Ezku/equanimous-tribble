@@ -8,3 +8,25 @@ Salilla tuli tämmönen mieleen:
 Tässä nyt kuvataan sitä *what is at stake*
 
 --> tää ajatus meni sisään introductioniin
+
+How do contradictions between activity systems manifest in a daily?
+- we can describe the daily in an activity system in a network of related activity systems, where the practice of a daily may enable reconciliation of tensions inherent in the multitude of perspectives involved in the creation of software
+
+Between what elements of the activity system do the contradictions arise?
+
+
+in the inbox section the team attempts to find answers to these questions:
+- is this a thing we must do (decision making, commitment)
+  - "wishlist", "bounced", "needs discussion" vs other boards
+- when will this need to be done (timeliness)
+  - immediately? (fires)
+  - after planning for it? (cycles / continuum backlog priorization)
+- how will we do it? (modelling)
+  - after deciding what needs to be done, can we reach an acceptable modelling of the decision with the structure currently in place?
+
+
+Vygotsky's double stimulation (1978)
+
+
+- Daily 03 (?): needs of QA versus need to ship
+- Joku toinen daily myös: inbox splitting, knowledge sharing
