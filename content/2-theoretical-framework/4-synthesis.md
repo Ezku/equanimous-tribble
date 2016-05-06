@@ -1,13 +1,17 @@
+# Theoretical synthesis
 
-# Empirical research questions {#empirical-research-questions}
+## Answers to theoretical research questions
+
+
+## Empirical research questions {#empirical-research-questions}
 
 The following research questions are posed to the empirical research data.
 
 > **ERQ1**: How does the daily practice reflect the activity system as understood by the team?
 
-> **ERQ2**: How does the exercise of a daily change the daily practice itself?
+> **ERQ2**: How does the exercise of a daily improve upon the daily practice itself?
 
-> **ERQ3**: How does the daily practice interact with software development practices?
+> **ERQ3**: How does the daily practice interact with other software development practices?
 
 The first question concerns the team's understanding of the activity system that the daily practice is embedded in. We would like to observe how the activity system appears within the daily. How does the sociomaterial context of the daily support the conceptualization of the activity system?
 
