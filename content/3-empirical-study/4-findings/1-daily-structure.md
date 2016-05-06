@@ -1,26 +1,24 @@
 
-# Empirical findings {#empirical-findings}
-
-This section presents empirical findings based on which we will answer the empirical research questions from section \ref{empirical-research-questions}. To settle **ERQ1**, in \ref{daily-structure} we describe the structure of a daily and link this structure to the use and arrangement of kanban boards.
-
 ## How is the daily structured? {#daily-structure}
 
-This section describes the structure of a daily as it appears based on the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same structure, but there were clear tendencies to be observed. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
+We can observe from \ref{daily-segment-lengths} that no two dailies followed exactly the same structure. However, clear tendencies could be observed. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed.
 
-**Segment**        | **Duration**
--------------------+---------
-INTRO	             | 00:10:45
-INBOX	             | 00:01:45
-FIRES	             | 00:04:05
-PRIORITY LANE	     | 00:03:30
-OUTBOX	           | 00:03:20
-QUESTIONS	         | 00:02:00
-BOARD OVERVIEW	   | 00:02:13
-**Total duration** | 00:28:18
+An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
+
+| **Segment**        | **Duration** |
+|--------------------|--------------|
+| INTRO              | 00:10:45     |
+| INBOX              | 00:01:45     |
+| FIRES              | 00:04:05     |
+| PRIORITY LANE      | 00:03:30     |
+| OUTBOX             | 00:03:20     |
+| QUESTIONS          | 00:02:00     |
+| BOARD OVERVIEW     | 00:02:13     |
+| **Total duration** | 00:28:18     |
 
 Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
-### Typical segments in depth
+### Typical segments in depth {#segments-in-depth}
 
 #### Introduction
 
@@ -258,18 +256,59 @@ Also of note is that the developer expresses having a sense of ownership over "h
 
 Nobody objects; the daily is concluded.
 
-### Relation between daily structure and kanban boards
+### Relation between daily structure and kanban boards {#relation-between-daily-and-boards}
 
+The previous section answered the question of how the daily happened. To support an argument about a relation between the daily and its sociomaterial context, in this section we attempt to reach for an understanding on how the daily could have come to take this form.
 
-Segments       | Kanban board titles
----------------|---------------
-INTRO          | -
-INBOX          | INBOX (Composer 2)
-FIRES          | [FIRE]: This must be emptied
-PRIORITY LANE  | Priority lane
-OUTBOX         | OUTBOX (ska diskuteras snart)
-QUESTIONS      | QUESTIONS
+Observing table \ref{segments-vs-boards} where the segments undergone in the daily and the kanban boards have been overlaid, we find that the boards are in the same order as the team uses when proceeding through the daily. This gives rise to the idea that the structure of a daily and the structure of the boards are interrelated. Indeed, this is not an uncommon occurrence: `INBOX` – `FIRES` - `PRIORITY LANE` - `OUTBOX` - `QUESTIONS` is a typical sequence through the observation period.
+
+Segments                 | Kanban board titles
+-------------------------|------------------------------
+INTRO                    | -
+INBOX                    | INBOX (Composer 2)
+FIRES                    | [FIRE]: This must be emptied
+PRIORITY LANE            | Priority lane
+OUTBOX                   | OUTBOX (ska diskuteras snart)
+QUESTIONS                | QUESTIONS
 NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
 BOARD OVERVIEW           | -
 
-Table: List of daily segments and the kanban board list for daily `03` overlaid. The team proceeds through the boards as they are presented.
+Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
+
+In support of this deduction we can can consider table \ref{segment-deltas}. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively. We could consider these top segments to form the stable skeleton of a daily.
+
+Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards' layout, or are the boards merely arranged in imitation of the daily? To answer this question, we may consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives us a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
+
+\csvautolongtable[
+  table head={
+    \caption{First and last occurrences of segments through observation period with the count of occurrences in between.}\label{segment-deltas}\\\hline
+    \csvlinetotablerow\\\hline
+    \endfirsthead\hline
+    \csvlinetotablerow\\\hline
+    \endhead\hline
+    \endfoot
+  },
+  respect all
+]{data/processed/segment-deltas.csv}
+
+How did the aforementioned "box" segments end up in the daily? To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. What kind of modifications were made to the board layout then, if any?
+
+| Prior to `19`                 | `19`                          |
+|-------------------------------|-------------------------------|
+| INBOX (Composer 2)            | INBOX (Composer 2)            |
+| [FIRE]: This must be emptied  | [FIRE]: This must be emptied  |
+| Priority lane                 | Priority lane                 |
+| OUTBOX (ska diskuteras snart) | OUTBOX (ska diskuteras snart) |
+| \-                            | MONEYBOX                      |
+| QUESTIONS                     | QUESTIONS                     |
+| \-                            | MARKETING                     |
+| CONTINUUM: Non-functional     | CONTINUUM: Non-functional     |
+| CONTINUUM: Modules            | CONTINUUM: Modules            |
+
+Table: Difference in board layout for daily `19`.
+
+Boards associated with the segments `MONEYBOX` and `MARKETING BOX` appear in the layout among the most commonly used boards by daily `19`. `WATBOX` seems to be an anomaly, because although it is exhibited in the daily segment after `MONEYBOX` the board itself is still out of the way and would not even be visible on the driver's screen. Apparently there was a commonality between the three, however, because in daily `20` the team has again groomed the boards for `MONEYBOX` and `MARKETING BOX` outside the group of most common boards and together with `WATBOX`.
+
+One interpretation for this series of events is that there occurred a disturbance which necessitated the provision of new places to put things for them to get done eg. at the appropriate timeliness. The boards are perused once or twice in dailies until the team figures that it's not getting any use out of doing this commonally, at which point the boards are moved out of the way of the ordinary daily flow.
+
+From the looks of things, it does stand to reason that the structure of the board and the daily go hand in hand. If this is a credible statement, it should be a hint that the daily and its sociomaterial context are engaged in a recursive loop of unfolding driven by tensions introduced and resolved during the practice of a daily. It's too early to make that claim, however. Of course, we're only investigating the matter on the level of segments and boards and ignoring most of the story. In the next section we will take the chance to have a closer look at the dynamics and nature of this processual evolution more closely.

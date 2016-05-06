@@ -402,10 +402,13 @@ cetaceans, dolphins, porpoises}
 \usepackage[titletoc]{appendix}
 
 \renewcommand\thechapter{\Roman{chapter}}
-\renewcommand\thesection{\arabic{section}}
+% These appear to be redundant with \counterwithout
+% \renewcommand\thesection{\arabic{section}}
+% \renewcommand\thetable{\arabic{table}}
 
 \usepackage{chngcntr}
 \counterwithout{section}{chapter}
+\counterwithout{table}{chapter}
 
 % Pandoc doesn't process markdown from within latex environments: http://pandoc.org/README.html#raw-tex
 % Hack around this by aliasing: http://tex.stackexchange.com/questions/254521/pandoc-lists-in-environments
@@ -588,6 +591,38 @@ pdfbookmark[0]{Contents}{bookmark.0.contents}
 
 \backslash
 tableofcontents
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+% List of tables
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftables
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{
+\backslash
+listtablename}
 \end_layout
 
 \begin_layout Plain Layout
