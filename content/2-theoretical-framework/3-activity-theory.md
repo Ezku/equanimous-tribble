@@ -10,21 +10,13 @@
 - We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a team of people
 - This characterisation of continuous improvement as *continuous innovation*, where the focus is on learning and knowledge management, is not a new one. \citet{boer2003continuous} observe that the field of research has been migrating towards that direction from the earlier *kaizen* or "shop floor CI" approach focused perspective.
 
-
 ## Social process of innovation {#process-of-innovation}
 
-Different perspectives we could take (Innovative knowledge communities \citep{hakkarainen2004communities}):
+\citet{hakkarainen2004communities} outline three different perspectives on *innovative knowledge communities*:
 
-\citet{nonaka1995knowledge}, SECI model
-- knowledge as something that can be explicated and objectified
-
-\citet{engestrom1999perspectives}, activity theory:
-- knowledge embedded in practices
-- overcoming tensions as the source of innovation
-
-\citet{bereiter2002education}:
-- knowledge in shared conceptual artefacts
-- working on and extending knowledge objects as the source of innovation
+1. \citet{nonaka1995knowledge}, SECI model. Knowledge is something that can be explicated and objectified.
+2. \citet{engestrom1999perspectives}, activity theory: knowledge is embedded within practices. Overcoming tensions inherent in the activity is a source of innovation.
+3. \citet{bereiter2002education}, knowledge is expanded by manipulation of shared conceptual artefacts. The ability to extend and create novel artefacts is the source of innovation.
 
 Let's pick a perspective. Because we're looking at the daily as a practice and only incidentally at the system of boards, we might well do with Engeström's framework.
 
