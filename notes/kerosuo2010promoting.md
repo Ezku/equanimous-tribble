@@ -1,4 +1,4 @@
-# Promoting innovation and learning through Change Laboratory
+# kerosuo2010promoting Promoting innovation and learning through Change Laboratory
 
 social process of innovation
 expansive learning
