@@ -32,3 +32,7 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 
 
 ## Theoretical implications
+
+### Overcoming tensions vs extending knowledge objects
+
+In \ref{process-of-innovation} we delimited the scope of this study to the activity theoretical perspective, in which we consider the process of innovation as that of collaborative contradiction resolution. This was a choice fitting for the investigation of the daily practice as the focal element, but there is another option. Consider the possibility where we wanted to instead investigate the specific way the team uses the kanban boards as a knowledge object and to refine their understanding of the activities which are placed outside the daily but modelled within. In this case we could've done well by picking the *conceptual artefact* based model of knowledge building by \citet{bereiter2002education}, contrasted to Engeström's model we used here by \citet{hakkarainen2004communities}.
