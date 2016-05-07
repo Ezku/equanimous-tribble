@@ -3,4 +3,4 @@
 
 ## Overview on the Scrum methodology
 
-## The archetypal Scrum daily
+## The archetypal Scrum daily {#scrum-daily}
