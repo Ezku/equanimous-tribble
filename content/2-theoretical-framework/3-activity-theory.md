@@ -3,8 +3,8 @@
 ## To improve is to innovate
 
 - The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state
-- This is, in short, innovation; the key feature being novelty \citep{slappendel1996perspectives}
-- The word 'innovation' is often attached to concrete objects, but it can take other forms.
+- This is, in short, innovation
+- The word 'innovation' is often attached to concrete objects, but it can take other forms; the key feature being novelty \citep{slappendel1996perspectives}
 - Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption" (Zaltman et al 1973; also Rogers and Shoemaker 1971)
 - Crucially, innovation may also be applied to the *process* through which new ideas are generated. \cite{slappendel1996perspectives} Should we consider software development an activity where innovations are required to deliver novel solutions, we may also consider the process of delivering or aiding the delivery thereof as something that may be innovated on.
 - We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a team of people
@@ -18,12 +18,47 @@
 2. \citet{engestrom1999perspectives}, activity theory: knowledge is embedded within practices. Overcoming tensions inherent in the activity is a source of innovation.
 3. \citet{bereiter2002education}, knowledge is expanded by manipulation of shared conceptual artefacts. The ability to extend and create novel artefacts is the source of innovation.
 
-Let's pick a perspective. Because we're looking at the daily as a practice and only incidentally at the system of boards, we might well do with Engeström's framework.
+Let's pick a perspective. Because we're focusing at the *daily* as a practice and only incidentally at the system of boards, we might well do with Engeström's framework.
 
 ## Activity theoretical perspective on innovation
 
 ### Principles of activity theory
 
-### Expansive learning in activity theory
+\citep{engestrom2001expansive}:
+
+> 1. Prime unit of analysis: an activity system seen in its relations to other activity systems
+> 2. Multi-voicedness
+> 3. Historicity
+> 4. Contradictions as sources of change
+> 5. Possibility of expansive transformations
+
+"Different activities are distinguished by their objects" \citep{kerosuo2010promoting}
+- this is a source of tension and contradictions
+
+
+
 
 ### Tensions, disturbances and contradictions as a source of innovation
+
+Developmental contradictions (Engeström 1987)
+Need state:
+- contradictions arise between elements of the activity system
+- developing contradictions first arise as errors, disturbances and indeterminate discontent
+
+Successful social processes of innovation can be enhanced through expansive learning (Engeström 1987)
+
+\citep{engestrom2000activity}:
+
+> Expansive cycle of learning actions:
+> 1. Questioning
+> 2a. Historical analysis
+> 2b. Actual-empirical analysis
+> 3. Modelling the new solution
+> 4. Examining the new model
+> 5. Implementing the new model
+> 6. Reflecting on the process
+> 7. Consolidating the new practice
+
+\citep{miettinen2006sources}
+- "construction of a shared object is essential to innovation and novelty"
+- "the formulation of a critical problem already implies the possibility and direction of the solution"
