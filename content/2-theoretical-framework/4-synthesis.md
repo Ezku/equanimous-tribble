@@ -2,6 +2,11 @@
 
 ## Answers to theoretical research questions
 
+> **TRQ1:** How does a daily in agile software development support the development team?
+
+> **TRQ2:** How does the use of a kanban system support continuous improvement?
+
+> **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
 
 ## Empirical research questions {#empirical-research-questions}
 
