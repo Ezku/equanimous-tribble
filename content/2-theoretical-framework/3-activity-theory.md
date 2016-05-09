@@ -22,6 +22,8 @@ Let's pick a perspective. Because we're focusing at the *daily* as a practice an
 
 ## Activity theoretical perspective on innovation
 
+The most prominent conjunction of activity theory and software development has been in the field of human-computer interaction research, for example  \citet{kuutti1996activity} and \citet{kaptelinin1996activity}. These works mainly take interest on what happens in the interface between human and computer instead of on what people do together. \citet{barthelmess2002view} and \citet{adler2005evolving}, however, take on an activity theoretical view on the practice of software development and show that the perspective is applicable for describing some of the industry's most problematic features. Creation of software is distinct from "construction" in that it consists of conception and refinement of designed, intangible artefacts; yet the artefacts are complex and need to be specified in excruciating detail as a collaborative effort. We will be taking this view and applying a strategy inspired by \citet{nicolini2009zooming}, where we *zoom in* to a practice and inspect it on different levels - from patterns of interactions between individuals to the wider texture of related practices. But first, let's get acquainted with activity theory and how it relates to our focus of investigation, innovation.
+
 ### Principles of activity theory
 
 \citep{engestrom2001expansive}:
