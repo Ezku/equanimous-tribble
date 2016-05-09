@@ -1,5 +1,5 @@
 
-# Background and motivation
+# Background and motivation {#motivation}
 
 Whence the daily? I ask this question in two senses. Where did it come from and why is it a subject of contestion, or worthy of investigation? In this chapter I put forward an argument that Scrum-inspired agile is the new norm, and thus dailies are a very commonplace occurrence. However, a new school of lean software development with practices such as kanban are beginning to supplant Scrum, calling to question the effectiveness of those methods. I invite the reader to consider the daily as a practice in the light shed by kanban, taking a practice based research perspective as a unifying measure to the two distinct discourses.
 

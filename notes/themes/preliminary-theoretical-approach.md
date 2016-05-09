@@ -1,5 +1,4 @@
-
-# Theoretical approach
+# Excerpt from research plan: theoretical approach
 
 In my thesis I will review literature from software development process, organizational, and sociological research to create a theoretical synthesis.
 
@@ -25,4 +24,3 @@ Characterization of scrum / kanban boards or virtual ones:
 How might new information be created by manipulating aforementioned artefacts:
 
 - New knowledge creation by intersubjectively accepted novel distinctions \citep{tsoukas2009dialogical}
-

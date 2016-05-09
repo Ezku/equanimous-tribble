@@ -1,14 +1,20 @@
 
 # Research problem
 
-<!--
+## Problem statement
 
-In the previous section, it was stated that the daily as a practice is crucial in operating a software development team the goal of which is to continuously adapt to an unfolding reality. Given this background, the researcher is interested in characterising the practice further and teasing out its relation to grander theories of how organisations change and adapt. In a sentence, the research problem being undertaken is:
+In section \ref{motivation} we laid out an argument on how the practice of a daily can be taken to be in conflict with the lean principle of waste reduction, if we see the use of tools such as kanban alleviating the original need to have a daily in the first place. We may however consider other uses for a daily which would mesh with lean principles. As outlined in section \ref{what-next}, the daily might be an opportunity for learning and thus improving on the work; to continuously adapt to an unfolding reality. In lean terms, this is dubbed continuous improvement. Let us pose the following research problem statement:
 
--->
+> **RP:** How can the practice of a daily support continuous improvement?
 
-> **RP:** How can the combination of daily and kanban practices support software development?
+## Theoretical research questions
 
-<!--
-The empirical basis for the research is formed by an ethnograpically inspired case study conducted in a software development team applying a practice that can be described as a daily in conjunction with a workflow that applies the lean idea of visualizing flow of work items to a significant degree. A practice research approach is taken to describe and dissect the practice as it occurs. Parts of systems thinking are leveraged to describe the system of work reflected within the ongoings of the daily, and this insight is used to discuss the nature of knowledge co-creation in the practice.
--->
+The research problem leads us to a threefold investigation in order to understand the fundamentals in play.
+
+> **TRQ1:** How does a daily in agile software development support the development team?
+
+> **TRQ2:** How does the use of a kanban system support continuous improvement?
+
+> **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
+
+Taking the case study in hand we are likely to face a daily quite unlike what is described in the literature. Question *TRQ1* aims at setting a point of comparison which we can take to reflect on the qualities of the daily that we will be observing. With *TRQ2* we probe the role of kanban systems within the context of lean and relate it to the lean principle of continuous improvement. Detaching ourselves from the bounds of the agile and lean discourses we find a language for describing the social process we're observing by discovering an activity theoretical perspective in *TRQ3*.
