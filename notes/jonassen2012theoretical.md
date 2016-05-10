@@ -1,6 +1,6 @@
 # jonassen2012theoretical Theoretical foundations of learning environments
 
-## Activity subsystems (Holt & Morris 1993) p.98-103
+## Activity subsystems \citep{holt1993activity} p.98-103
 
 ### Production subsystem
 - primary focus of activity systems analysis is the top triangle
