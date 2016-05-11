@@ -26,3 +26,18 @@
 - Regulates the activities of the system in terms of personal needs
 - The exchange of personal, social and cultural norms in any work community also determines the nature of the work culture and the climate for those involved in any activity system
 - In exchange, norms are negotiated by members of the community and become the rules by which the activity system and subject regulate their performance
+
+## Methodological assumptions of activity theory p.110
+
+- Descriptive tool rather than prescriptive
+- Care must be taken in generalizing the descriptions
+
+"Although Engeström believed that activity theory does not offer ready-made techniques or procedures for research, its widespread application as a lens for analyzing activity has yielded some generally accepted practices"
+
+- The activity must be studied in real-life practice with researchers as active participants (Kuutti 1991)
+- Necessitates a qualitative approach to analysis
+
+Important for analysing learning situations:
+- Time frame should be long enough to understand the objects of activity, changes in those objects over time and their relations to objects in other settings
+- Analysts should pay attention first to broad patterns of activity before considering narrow episodic fragments that do not reveal the overall direction and importance of the activity
+- Analysts should use varied data collection methods and points of view
