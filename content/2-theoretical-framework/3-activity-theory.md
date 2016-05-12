@@ -47,6 +47,10 @@ Need state:
 - contradictions arise between elements of the activity system
 - developing contradictions first arise as errors, disturbances and indeterminate discontent
 
+Contradiction: tension between opposing forces (Engeström 1987)
+- drives change by generating tensions, disturbances, attempts for development
+- contradictions emerge as historically accumulated structural tensions
+
 Successful social processes of innovation can be enhanced through expansive learning (Engeström 1987)
 
 \citep{engestrom2000activity}:
@@ -64,3 +68,7 @@ Successful social processes of innovation can be enhanced through expansive lear
 \citep{miettinen2006sources}
 - "construction of a shared object is essential to innovation and novelty"
 - "the formulation of a critical problem already implies the possibility and direction of the solution"
+
+\citep{kerosuo2010promoting}
+- "The creation of new practices, ie. the creation of social innovations, is a slow process"
+- in order to understand the process of innovation, contradictions in the scrutinized activity and their transformations need to be understood
