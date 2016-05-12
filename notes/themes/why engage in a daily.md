@@ -50,3 +50,14 @@ Things that stand out in discussion -- WHAT KINDS OF THINGS GET ANSWERED AND RES
 - Requests for help, handovers
 - Explanations of inquiries undertaken (rnd, debugging?)
 - Impededness, hinderances to work
+
+## Findingseista pelastettua:
+
+
+Questions to start with:
+
+- What 'subpractices' can we observe to constitute the daily practice?
+- How are other practices represented within this practice? Can we for instance categorise segments based on their relation to other practices?
+  - Ref notes on theme: "Why do you engage in this? Why is the inbox important?"
+- How does the team reconcile the boundaries to outside practices?
+  - What kinds of conflicts or tensions can we observe?
