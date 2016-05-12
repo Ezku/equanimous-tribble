@@ -30,3 +30,23 @@ Vygotsky's double stimulation (1978)
 
 - Daily 03 (?): needs of QA versus need to ship
 - Joku toinen daily myös: inbox splitting, knowledge sharing
+
+
+## Empirically...
+
+### 04
+
+Things that stand out in discussion -- WHAT KINDS OF THINGS GET ANSWERED AND RESOLVED:
+- Can I observe the outcome of what was done?
+- How important is this thing in contrast to other things?
+- Who would be able to work on this thing?
+- Who is working on it right now / who is the next to work on the thing?
+
+### 05
+
+- "There's work to be done I can't handle"
+- Who's the best to do this? (Gets debated even!)
+- Time criticality: When does this need to get done?
+- Requests for help, handovers
+- Explanations of inquiries undertaken (rnd, debugging?)
+- Impededness, hinderances to work
