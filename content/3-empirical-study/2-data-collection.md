@@ -60,7 +60,7 @@ Attendees' overall roles in the team could be divided into four categories: *dev
 
 For the sakes of both succinctness and preservation of anonymity, when these roles are referred to in transcriptions the following labels will be used. `D` for developers, `QA` for quality assurance, `PO` for product owners, and `M` for management. Different people will be differentiated by suffixing the label with an index number, such that e.g. `D3` will refer to the third developer taking a turn of speech through the specific interaction. Indexes used are specific to the interaction, as opposed to assigned per individual.
 
-Due its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
+Due to its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
 
 ### Durations and segments {#durations-and-segments}
 
