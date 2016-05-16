@@ -31,7 +31,7 @@ Scrum is part of the original suite of methodologies giving rise to the agile ma
 
 [^game]: The curious use of the term *game* stems from a sports analogy by \citet{takeuchi1986new}. They argued that software development is not best seen as a game of passing the baton, but as a rugby team advancing the ball by passing it back and forth between team members. It is not coincidental that Schwaber's use of the word Scrum to describe his methodology also derives from rugby.
 
-
+A sprint is defined by Schwaber as a collaborative team performance over a preset period of time, where the processes of develop, wrap, review and adjust take place. Development "consists of the micro process of discovery, invention and implementation". Wrapping is about making sure the work is observable, eg. that the resulting software can be ran. Review means a meeting where progress is presented, problems raised and resolved, identified risks observed and responded to. Adjustment refers to taking the freshly gained information and consolidating it to shared artefacts.
 
 
 ## The archetypal Scrum daily {#scrum-daily}
