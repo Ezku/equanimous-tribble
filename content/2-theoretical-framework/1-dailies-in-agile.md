@@ -7,7 +7,7 @@
 
 Turns out, this analytical view of software processes has multiple points of failure. To start with: a project's premises may change on the way \citep{highsmith2002agile}, defining requirements is notoriously tricky \citep{lindstrom2004extreme}, and in fact it appears that plan-driven models on the whole don't reflect the reality of software development well at all – especially in the fast growth internet and mobile software industries \cite{abrahamsson2002agile}.
 
-Enter agility. The _Manifesto for Agile Software Development_ \citep{agile2001manifesto} introduced the umbrella moniker "agile" as a word to describe a new class of models. Reality being complex and diverse, it's no surprise that the manifest itself covers five different models \citep{fowler2001agile}, and eg. \citet{abrahamsson2002agile} identify eight. Agility may well be seen as an ideological movement, or a culture of which many interpretations exist \citep{glass2001agile,kruchten2007voyage}. \citet{abrahamsson2002agile} characterise agile models with the following attributes:
+Enter agility. The _Manifesto for Agile Software Development_ \citep{agile2001manifesto} introduced the umbrella moniker "agile" as a word to describe a new class of models. Reality being complex and diverse, it's no surprise that the manifesto itself covers five different models \citep{fowler2001agile}, and eg. \citet{abrahamsson2002agile} identify eight. Agility may well be seen as an ideological movement, or a culture of which many interpretations exist \citep{glass2001agile,kruchten2007voyage}. \citet{abrahamsson2002agile} characterise agile models with the following attributes:
 
 Incremental
 :   Delivery of software in short cycles
