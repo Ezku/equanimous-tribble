@@ -9,20 +9,24 @@ Turns out, this analytical view of software processes has multiple points of fai
 
 Enter agility. The _Manifesto for Agile Software Development_ \citep{agile2001manifesto} introduced the umbrella moniker "agile" as a word to describe a new class of models. Reality being complex and diverse, it's no surprise that the manifest itself covers five different models \citep{fowler2001agile}, and eg. \citet{abrahamsson2002agile} identify eight. Agility may well be seen as an ideological movement, or a culture of which many interpretations exist \citep{glass2001agile,kruchten2007voyage}. \citet{abrahamsson2002agile} characterise agile models with the following attributes:
 
-Incrementality
+Incremental
 :   Delivery of software in short cycles
 
-Customer collaboration
+Cooperative
 :   Developers and their clients in unhindered, continuous communication
 
-Simplicity
+Straightforward
 :   Easy to learn, well documented, readily adaptable
 
-Plans may change
+Adaptive
 :   Options are not locked down, making alterations as needed is enabled
 
 The term agile is thus identified as remarkably polysemous and dependant on context. To get more concrete, we will be discussing a specific agile process methodology called *Scrum*.
 
 ## Overview on the Scrum methodology
+
+Scrum \citep{schwaber1995scrum} is part of the original suite of methodologies giving rise to the agile manifesto \citep{agile2001manifesto}. It has also been recognized among the most popular methodologies \citep{west2010agile} and heralded as virtually a de-facto industry standard \citep{marchenko2008scrum}. Albeit no single practice is endorsed by all things agile \citep{kruchten2007voyage}, in terms of industry adoption and influence on generic expectations of what it means to be agile, there is simply no better example than Scrum.
+
+
 
 ## The archetypal Scrum daily {#scrum-daily}
