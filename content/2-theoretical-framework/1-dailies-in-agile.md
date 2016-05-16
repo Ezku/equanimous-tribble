@@ -39,6 +39,9 @@ Here we've seen an outline of Scrum and how it applies to the whole process of s
 
 ## The archetypal Scrum daily {#scrum-daily}
 
+> The heart of the Scrum is the daily stand-up meeting
+> \citep{west2010agile}
+
 The original Scrum formulation by \citet{schwaber1995scrum} does not explicate the need of a daily. Scrum's co-originator \citep{agile2001manifesto}, Jeff Sutherland, describes in his book on Scrum \citep{sutherland2014scrum} that he was inspired in 1993 by a kind of warrior ceremony of the Maori people from New Zealand called the 'haka':
 
 > The haka is a warrior dance that charges up people about to go into battle. While watching it, you can almost see the energy come out of each player and coalesce into a greater whole. With synchronized stomping and clapping and chanting—ritualized movements of cutting an enemy’s throat—you can see ordinary men transform themselves into something bigger, something greater. They’re invoking a warrior spirit that does not accept defeat or dismay.
