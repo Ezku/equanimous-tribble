@@ -25,7 +25,12 @@ The term agile is thus identified as remarkably polysemous and dependant on cont
 
 ## Overview on the Scrum methodology
 
-Scrum \citep{schwaber1995scrum} is part of the original suite of methodologies giving rise to the agile manifesto \citep{agile2001manifesto}. It has also been recognized among the most popular methodologies \citep{west2010agile} and heralded as virtually a de-facto industry standard \citep{marchenko2008scrum}. Albeit no single practice is endorsed by all things agile \citep{kruchten2007voyage}, in terms of industry adoption and influence on generic expectations of what it means to be agile, there is simply no better example than Scrum.
+Scrum is part of the original suite of methodologies giving rise to the agile manifesto \citep{agile2001manifesto}. It has also been recognized among the most popular methodologies \citep{west2010agile} and heralded as virtually a de-facto industry standard \citep{marchenko2008scrum}. Albeit no single practice is endorsed by all things agile \citep{kruchten2007voyage}, in terms of industry adoption and influence on generic expectations of what it means to be agile, there is simply no better example than Scrum.
+
+\citet{schwaber1995scrum} defines the Scrum methodology as a process of software development consisting of phases of pregame, game and postgame[^game]. Planning, conceptualization, analysis, and high level architectural design are part of pregame. Postgame consists of the project's closure, when the product under development is deemed ready and will be released. Game is where the product is developed in iterative increments called sprints. It is also the part where Schwaber distinguishes the methodology from the derided waterfall; without the keyword *iterative*, one could find a very obvious mapping from the Scrum words to the world of waterfall.
+
+[^game]: The curious use of the term *game* stems from a sports analogy by \citet{takeuchi1986new}. They argued that software development is not best seen as a game of passing the baton, but as a rugby team advancing the ball by passing it back and forth between team members. It is not coincidental that Schwaber's use of the word Scrum to describe his methodology also derives from rugby.
+
 
 
 
