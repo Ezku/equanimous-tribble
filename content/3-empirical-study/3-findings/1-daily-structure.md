@@ -55,7 +55,7 @@ The team proceeds through an unstructured go-through of worries until arriving a
 
 This exchange appears to relate to the status of a specific cycle, but the team is not using the cycle's board to mediate the discussion. Thus the exchange is part of the `INTRO` segment, not `CYCLES`.
 
-The team continues to negotiate the interrelations between work items handled by different team members and handovers required. Concern is expressed about a team member leaving for vacation after the ongoing week and some items perhaps not being completed by then, but reassurences to the contrary appear to placate everyone.
+The team continues to negotiate the interrelations between work items handled by different team members and handovers required. Concern is expressed about a team member leaving for vacation after the ongoing week and some items perhaps not being completed by then, but reassurances to the contrary appear to placate everyone.
 
 An attempt is made to start the `INBOX` segment with the prompt:
 
