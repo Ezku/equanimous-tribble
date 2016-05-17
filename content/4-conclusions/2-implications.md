@@ -3,6 +3,9 @@
 
 ## Practical implications
 
+### The daily reflect's the team's understanding of the process of software development
+
+<!--
 ### The daily reflects the activity system
 
 In section \ref{segments-in-depth} we observed how the team carries out a daily. We had the chance to see the position the team takes on the boards and items therein. What the boards contain are tasks or work that is potentially but not necessary intended to be completed by the team in the future. Each item is therefore a description of work, but its setting in the context of the boards affords the team an understanding of *how* this work will be completed.
@@ -18,18 +21,25 @@ Taking this idea further, not only are the boards and their arrangement a reflec
 A key question that the team attempts to answer by engaging in the daily is *what needs to be done today*. This can be seen in the team's stance on `INBOX`: does a new item change priorities as they were previously agreed to be? Are there new fires to be extinguished or can work proceed as planned?
 
 
+-->
+
+
 ### The daily can be used as a tool for continuous improvement {#daily-as-kaizen}
 
+<!--
 Taken another way, the daily is an event for the team to potentially *reflect at* the activity system. This means the team can take the opportunity to see whether the modelling makes sense for whatever is going on at a given moment. If tension between "reality" and what the modelling tells the team arises, corrections can be taken immediately. This is in contrast to the conception of a daily which was presented as an answer to **TRQ1**, where the opportunity for change presents itself outside the daily in intervention-based *retrospectives*.
+-->
 
 ### The practice of a daily can inform software development activities
+
+<!--
 
 The daily is a crisscross network of interdependencies to activities and thus practices of software development.
 
 - how software is done is affected by the daily (because of the opportunity for creating new shared meanings for items)
 - what is done is affected by the daily (because of the opportunity for changing priorities)
 - we can change those practices by changing the modelling of the system and this can happen in the daily
-
+-->
 
 ## Theoretical implications
 
