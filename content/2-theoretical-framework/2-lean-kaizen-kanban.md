@@ -31,6 +31,7 @@ The *seven lean principles* forming the basis of lean thinking are defined by \c
 6. **Build integrity in.** Software must be sound conceptually, be able to maintain its usefulness over time, and altogether be fit for purpose.
 7. **See the whole.** Measuring the specialized contribution of individuals or organizations leads to suboptimization, which is antithetical to integrity.
 
+To complete the picture and allow the reader to apply these principles to forming agile practices applicable to their context, \citet{poppendieck2003lean} present 22 different tools. Some of these tools, like the use of iterations, refactoring and testing, will be readily familiar to most agile practitioners \citep{west2010agile}. We will be taking a further look at something less familiar – what on this list of tools is introduced as *pull systems*, otherwise known by the Japanese name kanban.
 
 
 ## Kanban systems
