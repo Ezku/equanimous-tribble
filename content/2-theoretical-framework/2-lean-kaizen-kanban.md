@@ -31,9 +31,9 @@ The *seven lean principles* forming the basis of lean thinking are defined by \c
 6. **Build integrity in.** Software must be sound conceptually, be able to maintain its usefulness over time, and altogether be fit for purpose.
 7. **See the whole.** Measuring the specialized contribution of individuals or organizations leads to suboptimization, which is antithetical to integrity.
 
-To complete the picture and allow the reader to apply these principles to forming agile practices applicable to their context, \citet{poppendieck2003lean} present 22 different tools. Some of these tools, like the use of iterations, refactoring and testing, will be readily familiar to most agile practitioners \citep{west2010agile}. We will be taking a further look at something less familiar – what on this list of tools is introduced as *pull systems*, otherwise known by the Japanese name kanban.
+Of these principles, the first is declared most important and the rest can be seen as following from them. To complete the picture and allow the reader to apply these principles to forming agile practices applicable to their context, \citet{poppendieck2003lean} present 22 different tools. Some of these tools, like the use of iterations, refactoring and testing, will be readily familiar to most agile practitioners \citep{west2010agile}. We will be taking a further look at something less familiar – what on this list of tools is introduced as *pull systems*, otherwise known by the Japanese name kanban.
 
-## How kanban and kaizen go together
+## Kanban as a way for continuous improvement
 
 \citet{poppendieck2003lean} motivate pull systems as a way to address principle 4, *deliver as fast as possible*. The argumentation is profoundly simple: people showing up for work need a way to tell what to do. The alternatives are for you to order them to do something, or give them a way to discover that for themselves. In a fast-moving and complex environment, they argue, only the second option for work coordination is viable. This is attributed to the fact that in a chain of connected events, any variation is amplified, making any predefined scheduling invalid in short order.
 
