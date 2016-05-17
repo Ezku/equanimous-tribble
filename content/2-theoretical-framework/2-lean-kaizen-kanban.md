@@ -39,11 +39,11 @@ Of these principles, the first is declared most important and the rest can be se
 
 The conceptualization of kanban presented by \citet{poppendieck2003lean} could be argued to have little more to it than simply allowing developers themselves pick items from a backlog of work items (described in \ref{scrum-overview}). A literature review by \citet{ahmad2013kanban} points at the current conceptualization of kanban in the context of software development having been born in 2004. The following may be considered the kanban principles \citep{anderson2010kanban}, found to be congruent with the lean ones \citep{ahmad2013kanban}:
 
-1. **Visualize the workflow.**
-2. **Limit work in progress.**
-3. **Measure and manage flow.**
-4. **Make process policies explicit.**
-5. **Improve collaboratively.**
+1. Visualize the workflow.
+2. Limit work in progress.
+3. Measure and manage flow.
+4. Make process policies explicit.
+5. Improve collaboratively.
 
 The clearest benefits \citet{ahmad2013kanban} can find attributed to use of kanban in the literature are better understanding of whole process, improved software quality and improved customer satisfaction. Challenges, on the other hand, include the fact that kanban is not a standalone measure but requires supporting practices (eg. agile ones) and that it necessitates a difficult change in organisational culture. The potential for better understanding of the whole software development process is especially interesting, as \citet{ikonen2010exploring} suggest that kanban supports the ability to *see waste in the process*.
 
