@@ -56,7 +56,7 @@ According to the rules, the daily:
 2. Should not last more than 15 minutes.
 3. Should be done standing up to help everyone participate.
 
-During this time, the team members address three questions. The rules may change or be presented with a modicum of slack \citep[see eg.]{rising2000scrum,yip2006s}, but the three questions tend to be cited essentially intact \citep{rising2000scrum,yip2006s,schwaber2011scrum}:
+During this time, the team members address three questions. The rules may change or be presented with a modicum of slack \citep[see eg.][]{rising2000scrum,yip2006s}, but the three questions tend to be cited essentially intact \citep{rising2000scrum,yip2006s,schwaber2011scrum}:
 
 1. What did I do yesterday?
 2. What will I do today?
