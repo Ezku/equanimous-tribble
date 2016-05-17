@@ -25,7 +25,7 @@ Adaptive
 
 The term agile is thus identified as remarkably polysemous and dependant on context. To get more concrete, we will be discussing a specific agile process methodology called *Scrum*.
 
-## Overview on the Scrum methodology
+## Overview on the Scrum methodology {#scrum-overview}
 
 Scrum is part of the original suite of methodologies giving rise to the agile manifesto \citep{agile2001manifesto}. It has also been recognized among the most popular methodologies \citep{west2010agile} and heralded as virtually a de-facto industry standard \citep{marchenko2008scrum}. Albeit no single practice is endorsed by all things agile \citep{kruchten2007voyage}, in terms of industry adoption and influence on generic expectations of what it means to be agile, there is simply no better example than Scrum.
 
