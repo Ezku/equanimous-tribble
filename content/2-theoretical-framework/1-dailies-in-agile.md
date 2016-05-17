@@ -1,5 +1,5 @@
 
-# Dailies in Agile
+# Dailies in Agile {#agile}
 
 ## Discovering Scrum
 
