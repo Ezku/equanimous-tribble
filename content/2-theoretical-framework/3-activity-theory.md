@@ -19,7 +19,7 @@ Innovation in social interactions has been studied in *innovative knowledge comm
 2. \citet{engestrom1999perspectives}, activity theory: knowledge is embedded within practices. Overcoming tensions inherent in the activity is a source of innovation.
 3. \citet{bereiter2002education}, knowledge is expanded by manipulation of shared conceptual artefacts. The ability to extend and create novel artefacts is the source of innovation.
 
-We are at leisure to pick a persective suited especially for reflecting agile and lean practices. If we consider Engestrom's perspective and knowledge as being embedded in practices, then innovation must be the development of those practices. Indeed, Engestrom is specifically looking at communities where innovation is the development of practices with a shared object of activity. We'll choose the activity theoretical approach as it appears to be a good fit for describing CI based on what we found out in section \ref{ci}.
+Out of these perspectives we should pick one suited especially for reflecting agile and lean practices. If we consider Engestrom's perspective and knowledge as being embedded in practices, then innovation must be the development of those practices. Indeed, Engestrom is specifically looking at communities where innovation is the development of practices with a shared object of activity. We'll choose the activity theoretical approach as it appears to be a good fit for describing CI based on what we found out in section \ref{ci}.
 
 ## Activity theoretical perspective on innovation
 
