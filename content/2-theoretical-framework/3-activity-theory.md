@@ -5,7 +5,7 @@ In what we have described so far, the theme of improvement has been most central
 
 ## Improvement as a social process of innovation {#process-of-innovation}
 
-The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state. The word 'innovation', on the other hand, is often attached to concrete objects, yet it can take other forms; the key feature is simply *novelty*. \citep{slappendel1996perspectives} Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption". <!-- FIXME: Sources --> (Zaltman et al 1973; also Rogers and Shoemaker 1971) Crucially, innovation may also be applied to the *process* through which new ideas are generated. \cite{slappendel1996perspectives}
+The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state. The word 'innovation', on the other hand, is often attached to concrete objects, yet it can take other forms; the key feature is simply *novelty*. \citep{slappendel1996perspectives} Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption". <!-- FIXME: Sources --> (Zaltman et al 1973; also Rogers and Shoemaker 1971) Crucially, innovation may also be applied to the *process* through which new ideas are generated. \citep{slappendel1996perspectives}
 
 <!--
 - This characterisation of continuous improvement as *continuous innovation*, where the focus is on learning and knowledge management, is not a new one. \citet{boer2003continuous} observe that the field of research has been migrating towards that direction from the earlier *kaizen* or "shop floor CI" approach focused perspective.
