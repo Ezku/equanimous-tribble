@@ -27,6 +27,8 @@ The activity theoretical approach appears to be a good fit for describing CI bas
 
 ### Principles of activity theory
 
+Activity theory distinguishes different activities by their objects. \citep{kerosuo2010promoting} The object of an activity is the reason the activity exists; without the object of work the activity would cease. \citep{engestrom2000activity} An activity system may be seen as a sensemaking device where the "raw" object is, as the outcome of a process, transformed into another, collectively understood object. \citep{engestrom2001expansive}
+
 \citep{engestrom2001expansive}:
 
 1. Prime unit of analysis: an activity system seen in its relations to other activity systems
