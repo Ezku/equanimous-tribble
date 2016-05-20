@@ -1,25 +1,23 @@
 
 # Improvement in practice
 
-## To improve is to innovate
+In what we have described so far, the theme of improvement has been most central. Practitioners of Scrum wished to discover a way of doing things better than plan-driven methods allowed for, and lean principles direct one not only towards one solution but a way of doing things such that change is not only tolerated but enabled and supported. In knowledge work organisations there is often little to force one's hand about how a process is laid out, because it exists largely in peoples' minds and not as a manufacturing pipeline. In this vein we could go deeper and attempt to find out what it is that enables a practice to support continuous improvement. How can we describe such a process of improvement and the means by which it happens? In the following we will draw from the theoretical toolbox of the practice-based approach in an attempt to find the necessary means of description.
 
-- The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state
-- This is, in short, innovation
-- The word 'innovation' is often attached to concrete objects, but it can take other forms; the key feature being novelty \citep{slappendel1996perspectives}
-- Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption" (Zaltman et al 1973; also Rogers and Shoemaker 1971)
-- Crucially, innovation may also be applied to the *process* through which new ideas are generated. \cite{slappendel1996perspectives} Should we consider software development an activity where innovations are required to deliver novel solutions, we may also consider the process of delivering or aiding the delivery thereof as something that may be innovated on.
-- We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a team of people
+## Improvement as a social process of innovation {#process-of-innovation}
+
+The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state. The word 'innovation', on the other hand, is often attached to concrete objects, yet it can take other forms; the key feature is simply *novelty*. \citep{slappendel1996perspectives} Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption". <!-- FIXME: Sources --> (Zaltman et al 1973; also Rogers and Shoemaker 1971) Crucially, innovation may also be applied to the *process* through which new ideas are generated. \cite{slappendel1996perspectives}
+
+<!--
 - This characterisation of continuous improvement as *continuous innovation*, where the focus is on learning and knowledge management, is not a new one. \citet{boer2003continuous} observe that the field of research has been migrating towards that direction from the earlier *kaizen* or "shop floor CI" approach focused perspective.
+-->
 
-## Social process of innovation {#process-of-innovation}
+Should we take software development to be a collaborative activity where innovations are required to deliver novel solutions, we may also consider the process of delivering or aiding the delivery thereof as something that may be innovated on. Innovation in social interactions has been studied in *innovative knowledge communities*. \citet{hakkarainen2004communities} outline three different perspectives on them:
 
-Innovation in social interactions has been studied in *innovative knowledge communities*. \citet{hakkarainen2004communities} outline three different perspectives on them:
+1. **SECI model.** \citep{nonaka1995knowledge} Knowledge is something that can be explicated and objectified. Innovation happens by transforming tacit knowledge to explicit.
+2. **Activity theory.** \citep{engestrom1999perspectives} Knowledge is embedded within practices. Overcoming tensions inherent in the activity is a source of innovation.
+3. **Conceptual artefacts.** \citep{bereiter2002education} Knowledge is expanded by manipulation of shared conceptual artefacts. The ability to extend and create novel artefacts is the source of innovation.
 
-1. \citet{nonaka1995knowledge}, SECI model. Knowledge is something that can be explicated and objectified.
-2. \citet{engestrom1999perspectives}, activity theory: knowledge is embedded within practices. Overcoming tensions inherent in the activity is a source of innovation.
-3. \citet{bereiter2002education}, knowledge is expanded by manipulation of shared conceptual artefacts. The ability to extend and create novel artefacts is the source of innovation.
-
-Out of these perspectives we should pick one suited especially for reflecting agile and lean practices. If we consider Engestrom's perspective and knowledge as being embedded in practices, then innovation must be the development of those practices. Indeed, Engestrom is specifically looking at communities where innovation is the development of practices with a shared object of activity. We'll choose the activity theoretical approach as it appears to be a good fit for describing CI based on what we found out in section \ref{ci}.
+Out of these perspectives we should pick one suited especially for reflecting agile and lean practices. If we consider Engestrom's perspective and knowledge as being embedded in practices, then innovation must be the development of those practices. Indeed, Engestrom is specifically looking at communities where innovation is the development of practices with a shared object of activity. The activity theoretical approach as it appears to be a good fit for describing CI based on what we found out in section \ref{ci}. We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a group of people having the same object of activity.
 
 ## Activity theoretical perspective on innovation
 
