@@ -29,7 +29,7 @@ The activity theoretical approach appears to be a good fit for describing CI bas
 
 Activity theory distinguishes different activities by their objects. \citep{kerosuo2010promoting} The object of an activity is the reason the activity exists; without the object of work the activity would cease. \citep{engestrom2000activity} An activity system may be seen as a sensemaking device where the "raw" object is, as the outcome of a process, transformed into another, collectively understood object. \citep{engestrom2001expansive}
 
-\citep{engestrom2001expansive}:
+\citet{engestrom2001expansive} outlines the principles of activity theory as such:
 
 1. Prime unit of analysis: an activity system seen in its relations to other activity systems
 2. Multi-voicedness
@@ -37,12 +37,16 @@ Activity theory distinguishes different activities by their objects. \citep{kero
 4. Contradictions as sources of change
 5. Possibility of expansive transformations
 
-"Different activities are distinguished by their objects" \citep{kerosuo2010promoting} - this is a source of tension and contradictions
+An activity system has a few interesting features in terms of change, learning and innovation. The property of multi-voicedness means there is always more than one perspective to consider, and more than one interpretation of the object of activity. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. These features give rise to the potential of contradictions within the system, which, if brought up in fruitful fashion, enable expansive transformations of the practice.
 
-
-
+It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
 
 ### Tensions, disturbances and contradictions as a source of innovation
+
+
+Disturbance = deviation from standard script (Engeström 1996, Norros 1996)
+- indicate significant systemic contradictions
+- change potentials within the activity
 
 Developmental contradictions (Engestrom 1987) Need state:
 
