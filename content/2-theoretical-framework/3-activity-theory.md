@@ -43,7 +43,7 @@ An activity system has a few interesting features in terms of change, learning a
 
 ### Contradictions as a source of innovation
 
-Within practices, change may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning} describes these developing contradictions through a state of need that arises first as errors, disturbances or plain discontent with no apparent source. Disturbances are episodes of deviation from standard script (Engeström 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
+Innovation tends to occur when there is pressure to change. Within practices, this pressure may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning} describes these developing contradictions through a state of need that arises first as errors, disturbances or plain discontent with no apparent source. Disturbances are episodes of deviation from standard script (Engeström 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
 
 Contradictions alone are not sufficient for change. In activity systems, transformations occur by cycles of expansive learning where contradictions manifest as part of learning actions.  \citep{engestrom2000activity,engestrom2010studies} There are four different tiers of contradictions. Primary contradictions are latent, emergent and may appear within any nodes of the activity system. Secondary contradictions manifest openly _between_ nodes. When a part of practice changes but faces difficulty with other parts, that is called a tertiary contradiction. Finally, quaternary contradictions occur when the changed practice interacts with its neighboring activity systems. We may map these to the "ideal" epistemic cycle of learning actions presented in \citet{engestrom2010studies} as follows \citep{engestrom2001expansive}:
 
@@ -55,36 +55,19 @@ Contradictions alone are not sufficient for change. In activity systems, transfo
 6. **Reflection.** The reality of the implemented model's viability is observed.
 7. **Consolidation.** The new practice becomes stable and is aligned with neighbouring practices. (*Quaternary contradictions* occur due to realignment.)
 
-Developmental contradictions (Engestrom 1987) Need state:
+From this view, change in a practice amounts to the outcome of a pressure exerted by the existence of a primary contradiction. This pressure is resisted by the other contradictions. There may not be an evident transformation of the situation such that the contradiction would be resolved acceptably. Attempting to implement such a transformation might require adjustment to other parts of practice. Finally, even if this group of practitioners finds something that works for them, the surrounding network of activity systems will need to deal with the effects too.
 
-- contradictions arise between elements of the activity system
-- developing contradictions first arise as errors, disturbances and indeterminate discontent
+The emotions involved with pressure and resistance expressed throughout the expansive learning cycle might be characterised, in exaggeration, like this:
 
-Contradiction: tension between opposing forces (Engestrom 1987)
+Primary
+:   "This thing sucks."
+Secondary
+:   "Yes, but there is a reason why it has to suck like that."
+Tertiary
+:   "Look at what happened. We should have known it would suck."
+Quaternary
+:   "The others think this sucks for them."
 
-- drives change by generating tensions, disturbances, attempts for development
-- contradictions emerge as historically accumulated structural tensions
-
-Successful social processes of innovation can be enhanced through expansive learning (Engestrom 1987)
-
-Expansive cycle of learning actions \citep{engestrom2000activity}:
-
-1
-:   Questioning
-2a
-:   Historical analysis
-2b
-:   Actual-empirical analysis
-3
-:   Modelling the new solution
-4
-:   Examining the new model
-5
-:   Implementing the new model
-6
-:   Reflecting on the process
-7
-:   Consolidating the new practice
 
 \citep{miettinen2006sources}:
 
