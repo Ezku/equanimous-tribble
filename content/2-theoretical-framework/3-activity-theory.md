@@ -57,7 +57,7 @@ Contradictions alone are not sufficient for change. In activity systems, transfo
 
 From this view, change in a practice amounts to the outcome of a pressure exerted by the existence of a primary contradiction. This pressure is resisted by the other contradictions. There may not be an evident transformation of the situation such that the contradiction would be resolved acceptably. Attempting to implement such a transformation might require adjustment to other parts of practice, so the group needs to undertake effort not initially visioned. Finally, even if this group of practitioners finds something that works for them, the surrounding network of activity systems will need to deal with the effects too.
 
-The emotions involved with pressure and resistance expressed throughout the expansive learning cycle might be characterised, in exaggeration, like this:
+We might wish to consider what an expression of these contradictions might look like. I suggest that the emotions involved with pressure and resistance expressed throughout the expansive learning cycle could be characterised, in exaggeration, like this:
 
 Primary
 :   "This thing that we're doing sucks."
