@@ -31,15 +31,15 @@ Activity theory distinguishes different activities by their objects. \citep{kero
 
 \citet{engestrom2001expansive} outlines the principles of activity theory as such:
 
-1. Prime unit of analysis: an activity system seen in its relations to other activity systems
+1. Activity system as the prime unit of analysis
 2. Multi-voicedness
 3. Historicity
 4. Contradictions as sources of change
 5. Possibility of expansive transformations
 
-An activity system has a few interesting features in terms of change, learning and innovation. The property of multi-voicedness means there is always more than one perspective to consider, and more than one interpretation of the object of activity. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. These features give rise to the potential of contradictions within the system, which, if brought up in fruitful fashion, enable expansive transformations of the practice.
+Activity theory concerns the analysis of activity systems which are oriented towards an activity object, mediated by artefacts and collaborative in nature. Multi-voicedness stems from the fact that in a collaborative effort there are always multiple viewpoints; division of labor serves to create different viewpoints for collaborators with different personal histories. The system itself is historical, too, with rules, conventions and artefacts to attest to that. Stemming from historicity and interactions with an environment, activity systems may be seen as residing inherently in a perpetual state of contradiction, structural tensions between aspects of the system. Finally, it's recognized that these contradictions may be aggravated such that qualitative, expansive transformations in the activity system takes place.
 
-It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
+An activity system has a few interesting features in terms of change, learning and innovation. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
 
 ### Tensions, disturbances and contradictions as a source of innovation
 
