@@ -5,7 +5,7 @@ In the previous section we looked into how a daily happens and what kinds of act
 
 Our inquiry will be twofold. First we will check the material for episodes of questioning, disturbance and contradiction to see if the system evidences potential for change. Second, we will see if this change potential is realised as transformations. Within practices, contradictions unfold and improvement tends to happen slowly and must be observed over a duration of time. Our observations on change will take the form of journeys of transformation, taking place over multiple dailies. Let's proceed with a brief overview on how the stories were collected and structured overall, before looking at the stories one by one.
 
-### Episodes of questioning, disturbance and contradiction {#episodes-of-questioning}
+### Episodes of disturbance and contradiction {#episodes-of-questioning}
 
 ### Journeys of transformation
 
