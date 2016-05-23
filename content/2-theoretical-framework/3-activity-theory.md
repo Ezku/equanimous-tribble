@@ -41,13 +41,19 @@ Activity theory concerns the analysis of activity systems which are oriented tow
 
 An activity system has a few interesting features in terms of change, learning and innovation. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
 
-### Tensions, disturbances and contradictions as a source of innovation
+### Contradictions as a source of innovation
 
+Within practices, change may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning} describes these developing contradictions through a state of need that arises first as errors, disturbances or plain discontent with no apparent source. Disturbances are episodes of deviation from standard script (Engeström 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
 
+Contradictions alone are not sufficient for change. In activity systems, transformations occur by cycles of expansive learning where contradictions manifest as part of learning actions.  \citep{engestrom2000activity,engestrom2010studies} There are four different tiers of contradictions. Primary contradictions are latent, emergent and may appear within any nodes of the activity system. Secondary contradictions manifest openly _between_ nodes. When a part of practice changes but faces difficulty with other parts, that is called a tertiary contradiction. Finally, quaternary contradictions occur when the changed practice interacts with its neighboring activity systems. We may map these to the "ideal" epistemic cycle of learning actions presented in \citet{engestrom2010studies} as follows \citep{engestrom2001expansive}:
 
-Disturbance = deviation from standard script (Engeström 1996, Norros 1996)
-- indicate significant systemic contradictions
-- change potentials within the activity
+1. **Questioning.** Some parts of accepted practice are questioned, criticized, or rejected. (Stems from a *primary contradiction*.)
+2. **Analyzing.** Transformation of the situation to find out causes or explanations. (*Secondary contradictions* are presented.)
+3. **Modeling.** A simplified, explicit model of the explanatory relationship may be offered.
+4. **Examining the model.** The model's applicability is tested.
+5. **Implementing the model.** Practical applications, enrichment and conceptual extension bring the model to life. (*Tertiary contradictions* manifest as resistance from other parts of practice.)
+6. **Reflection.** The reality of the implemented model's viability is observed.
+7. **Consolidation.** The new practice becomes stable and is aligned with neighbouring practices. (*Quaternary contradictions* occur due to realignment.)
 
 Developmental contradictions (Engestrom 1987) Need state:
 
