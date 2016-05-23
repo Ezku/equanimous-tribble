@@ -60,13 +60,13 @@ From this view, change in a practice amounts to the outcome of a pressure exerte
 The emotions involved with pressure and resistance expressed throughout the expansive learning cycle might be characterised, in exaggeration, like this:
 
 Primary
-:   "This thing sucks."
+:   "This thing that we're doing sucks."
 Secondary
 :   "Yes, but there is a reason why it has to suck like that."
 Tertiary
-:   "Look at what happened. We should have known it would suck."
+:   "We made it differently and look at what happened. We should have known it would suck."
 Quaternary
-:   "The others think this sucks for them."
+:   "Now that we made it work, the others think this sucks for them."
 
 
 \citep{miettinen2006sources}:
