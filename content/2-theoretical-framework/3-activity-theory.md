@@ -68,13 +68,6 @@ Tertiary
 Quaternary
 :   "Now that we made it work, the others think this sucks for them."
 
+Expansive learning is thus to be understood as a process of construction and resolution of contradictions that follow from each other. These actions don't, however, need to follow each other in temporal order, and they don't all need to be present for learning to occur. Also noteworthy is the fact that it is not *individuals* who change, but instead the object of collective activity and thus the components of the activity system linked to it. \citep{engestrom2010studies}
 
-\citep{miettinen2006sources}:
-
-- "construction of a shared object is essential to innovation and novelty"
-- "the formulation of a critical problem already implies the possibility and direction of the solution"
-
-\citep{kerosuo2010promoting}:
-
-- "The creation of new practices, ie. the creation of social innovations, is a slow process"
-- in order to understand the process of innovation, contradictions in the scrutinized activity and their transformations need to be understood
+If we are to understand innovation, we must start with seeing the shared object of activity as its basis. \citep{miettinen2006sources} Furthermore, in order to understand the an expansive learning process in action, we need to gain an understanding of contradictions and their transformations in the activity. \citep{kerosuo2010promoting}
