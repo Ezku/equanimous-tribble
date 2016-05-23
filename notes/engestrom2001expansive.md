@@ -1,5 +1,13 @@
 # \citep{engestrom2001expansive}
 
+## Objects of activity
+
+Object 1: unre  ected, situationally given ‘raw material’
+
+Object 2: collectively meaningful object constructed by the activity system (object 2, e.g., the patient constructed as a specimen of a biomedical disease category and thus as an instantiation of the general object of illness/health)
+
+Object 3: a potentially shared or jointly constructed object (object 3; e.g., a collaboratively constructed understand- ing of the patient’s life situation and care plan). The object of activity is a moving target, not reducible to conscious short-term goals.
+
 ## Summary of activity theory
 
 1. Prime unit of analysis: an activity system seen in its relations to other activity systems
