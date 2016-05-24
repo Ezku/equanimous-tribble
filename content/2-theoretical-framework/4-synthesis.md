@@ -22,7 +22,9 @@ In rapidly changing and complex environments, work coordination is a difficult p
 
 The use of a kanban system in lean software development supports continuous improvement in two ways. Firstly, it directly supports faster value delivery, which contributes to continuous improvement by enabling learning. Secondly, it supports seeing waste in the workflow, which potentially allows for addressing the generation of that waste.
 
-> **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
+> **TRQ3:** How can activity theory be used to observe continuous improvement in practice?
+
+
 
 ## Empirical research questions {#empirical-research-questions}
 
