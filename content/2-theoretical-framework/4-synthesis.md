@@ -14,7 +14,7 @@ The daily is a short, all-hands meeting held every day. In the daily, participan
 
 An agile daily supports the development team by providing a daily ritual which empowers the team members to aid each other and helps them focus on the essential in the context of a sprint with defined goals.
 
-> **TRQ2:** How does the use of a kanban system support continuous improvement?
+> **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
 > **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
 

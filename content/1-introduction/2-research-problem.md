@@ -13,7 +13,7 @@ The research problem leads us to a threefold investigation in order to understan
 
 > **TRQ1:** How does a daily in agile software development support the development team?
 
-> **TRQ2:** How does the use of a kanban system support continuous improvement?
+> **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
 > **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
 
