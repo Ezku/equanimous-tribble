@@ -30,7 +30,7 @@ Activity theory describes practices as historical, object-oriented activity syst
 
 Contradictions are the source of innovation. They arise in practice as errors, disturbances or discontent, which indicate that the system exhibits change potential. Primary contradictions are a questioning of a part of accepted practice, exerting pressure on the current state of practice by pointing out a failing. By offering explanations and analysis, secondary contradictions opposing the change pressure can present themselves. If a suitable transformation of the situation is found, tertiary contradictions occur when the new part of practice is fitted with its surrounding system. Finally, a model of action found viable will have to deal with other interfacing practices, and quaternary contradictions can be observed due to the realignment required. Expansive learning is thus a progression of constructing and resolving contradictions, but these do not need to occur in any specific temporal order.
 
-Activity theory may be used to observe continuous improvement in practice by seeing the practice as an activity system, paying attention to developmental contradictions that occur in the practice and investigating any resulting transformations in the object of activity.
+Activity theory may be used to observe continuous improvement in practice by seeing the practice as an activity system, paying attention to developmental contradictions that occur in the practice, and investigating any resulting transformations in the object of activity.
 
 ## Empirical research questions {#empirical-research-questions}
 
