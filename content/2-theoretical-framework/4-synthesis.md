@@ -7,10 +7,10 @@
 
 Agile software development refers to a class of software development methodologies, which may be seen as belonging to a particular culture or perhaps even ideological movement. Agile may be characterised by incremental software delivery, cooperativity between developers and clients, straightforwardness and adaptability, and adaptivity to changing circumstances.
 
-The daily belongs among the most popular of agile practices. It was coined by early practitioners of the Scrum methodology, also belonging to the strongest influencers in the industry.
+The daily belongs among the most popular of agile practices. It was coined by early practitioners of the Scrum methodology, also belonging to the strongest influencers in the industry. The daily is a short, all-hands meeting held every day.
 
 Dailies occur in the context of sprints, development cycles which last for a preset time on the order of weeks. A sprint has a predefined list of work items assigned to it, representing the most important requirements to be satisfied.
-The daily is a short, all-hands meeting held every day. In the daily, participants discuss the progress of work items and whether help is needed to resolve impediments to progress.
+In the daily, participants discuss the progress of work items and whether help is needed to resolve impediments to progress.
 
 An agile daily supports the development team by providing a daily ritual which empowers the team members to aid each other and helps them focus on the essential in the context of a sprint with defined goals.
 
