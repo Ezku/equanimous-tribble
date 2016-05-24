@@ -32,7 +32,7 @@ The following research questions are posed to the empirical research data.
 
 > **ERQ1**: How does the observed daily practice compare to the agile description of a daily?
 
-> **ERQ2**: How to tensions, disturbances and contradictions arise in a daily?
+> **ERQ2**: How do to tensions, disturbances and contradictions arise in a daily?
 
 The first question, *ERQ1*, considers the activity system the daily is embedded in, the "practice-nature" of the daily. We would like to observe the constituents of the activity system and describe them in relation to our theoretical preconceptions from section \ref{scrum-daily}. Furthermore, how can we see the role of virtual kanban boards used by the team in the practice?
 
