@@ -5,7 +5,7 @@
 
 > **TRQ1:** How does a daily in agile software development support the development team?
 
-Agile software development refers to a class of software development models, which may be seen as belonging to a particular culture or perhaps even ideological movement. Agile methodologies may be characterised by incremental software delivery, cooperativity between developers and clients, straightforwardness and adaptability, and adaptivity to changing circumstances.
+Agile software development refers to a class of software development methodologies, which may be seen as belonging to a particular culture or perhaps even ideological movement. Agile may be characterised by incremental software delivery, cooperativity between developers and clients, straightforwardness and adaptability, and adaptivity to changing circumstances.
 
 The daily belongs among the most popular of agile practices. It was coined by early practitioners of the Scrum methodology, also belonging to the strongest influencers in the industry.
 
