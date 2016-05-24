@@ -16,6 +16,12 @@ An agile daily supports the development team by providing a daily ritual which e
 
 > **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
+Lean software development is an application of lean development principles, originally used in the automotive industry, to the practice of software development. The first principle, which may be taken to be the goal of lean, is the elimination of waste. Waste is everything not contributing to value seen by the customer. Software development, on the other hand, is necessarily an effort of learning or discover better ways to build things. Finally, continuous improvement is the collaborative and unending effort to eliminate waste.
+
+In rapidly changing and complex environments, work coordination is a difficult problem. Also, to leverage input from feedback cycles for learning, delivery should be as fast as possible. For fast value delivery, it is essential that workers be able to interpret by themselves what work there is to be done. A kanban system in software development is used to visualize the workflow and manage the flow of work items through it. Such a system facilitates understanding of the process and being able to see waste in the process as it exists.
+
+The use of a kanban system in lean software development supports continuous improvement in two ways. Firstly, it directly supports faster value delivery, which contributes to continuous improvement by enabling learning. Secondly, it supports seeing waste in the workflow, which potentially allows for addressing the generation of that waste.
+
 > **TRQ3:** How can we describe continuous improvement in practice in terms of activity theory?
 
 ## Empirical research questions {#empirical-research-questions}
