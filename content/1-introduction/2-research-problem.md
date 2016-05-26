@@ -3,7 +3,7 @@
 
 ## Problem statement
 
-In section \ref{motivation} we laid out an argument on how the practice of a daily can be taken to be in conflict with the lean principle of waste reduction, if we see the use of tools such as kanban alleviating the original need to have a daily in the first place. We may however consider other uses for a daily which would mesh with lean principles. As outlined in section \ref{what-next}, the daily might be an opportunity for learning and thus improving on the work; to continuously adapt to an unfolding reality. In lean terms, this is dubbed continuous improvement. Let us pose the following research problem statement:
+In section \ref{motivation} we laid out an argument on how the practice of a daily can be taken to be in conflict with the lean principle of waste reduction, if we see the use of tools such as kanban alleviating the original need to have a daily in the first place. We may however consider other uses for a daily which would mesh with lean principles. As outlined in section \ref{why-daily}, the daily might be an opportunity for learning and thus improving on the work; to continuously adapt to an unfolding reality. In lean terms, this is dubbed continuous improvement. Let us pose the following research problem statement:
 
 > **RP:** How can the practice of a daily support continuous improvement?
 
