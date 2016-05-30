@@ -1,7 +1,7 @@
 
 # Improvement in practice
 
-In what we have described so far, the theme of improvement has been most central. Practitioners of Scrum wished to discover a way of doing things better than plan-driven methods allowed for, and lean principles direct a practitioner not only towards one solution but a way of doing things such that change is not merely tolerated but enabled and supported. In knowledge work organisations there is often little to force one's hand about how a process is laid out, because it exists largely in peoples' minds and not as a manufacturing pipeline. In this vein we could go deeper and attempt to find out what it is that enables a practice to support continuous improvement. How can we describe such a process of improvement and the means by which it happens? In the following we will draw from the theoretical toolbox of the practice-based approach in an attempt to find the necessary means of description.
+In what we have described so far, the theme of improvement has been most central. Practitioners of Scrum wished to discover a way of doing things better than plan-driven methods allowed for, and lean principles direct a practitioner not only towards one solution but a way of doing things such that change is not merely tolerated but enabled and supported. In this vein we could go deeper and attempt to find out what it is that enables a practice to support continuous improvement. In the following we will draw from the theoretical toolbox of the practice-based approach in an attempt to find the necessary means of description for such a process and the means by which continuous improvement happens.
 
 ## Improvement as a social process of innovation {#process-of-innovation}
 
