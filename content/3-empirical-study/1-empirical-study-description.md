@@ -3,7 +3,7 @@
 
 ## Research context
 
-The research was conducted as a case study of a Helsinki-based software startup in the mobile B2B industry with a headcount of approximately 20 people and a development team consisting of at most 10 at the time of the research. The development team's habit of gathering around a collection of virtual kanban boards every morning was taken as an opportunity to learn about the practice of dailies as exercised within the context of a lean workflow. The researcher took part in the development team's dailies wearing two hats: the ordinary team member hat, which necessitated normal interaction with the team within the context of the daily, and a researcher hat which involved making observations and logging the proceedings.
+The research was conducted as a case study of a Helsinki-based software startup in the mobile B2B industry with a headcount of approximately 20 people and a development team consisting of at most 10 at the time of the research. The development team's habit of gathering around a collection of virtual kanban boards every morning was taken by the researcher as an opportunity to learn about the practice of dailies as exercised within the context of a lean workflow. The researcher took part in the development team's dailies wearing two hats: the ordinary team member hat, which necessitated normal interaction with the team within the context of the daily, and a researcher hat which involved recording the proceedings and logging observations directly after the event.
 
 ## Setting and participants
 
