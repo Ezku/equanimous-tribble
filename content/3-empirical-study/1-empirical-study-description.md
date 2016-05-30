@@ -13,7 +13,7 @@ The development team daily occurred every day after a short whole-company standu
 
 ### Roles {#daily-roles}
 
-The driver and the secretary are the only explicit roles defined in the context of the daily.
+The driver and the secretary are the only explicit roles defined in the context of the observed daily.
 
 The driver connects their laptop to the TV screen, enabling the team to view the virtual kanban boards and items therein. Throughout the daily the driver will switch between kanban boards and task items according to how the team's discussion proceeds.
 
