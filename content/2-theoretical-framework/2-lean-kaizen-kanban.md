@@ -15,7 +15,7 @@ What Schwaber is saying is that while he was able to put together a set of empir
 
 ## Lean and software development
 
-\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s \citep[see eg.][]{ohno1988toyota}, which they describe thusly:
+\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s \citep[see e.g.][]{ohno1988toyota}, which they describe thusly:
 
 > Don't make irreversible decisions in the first place; delay design decisions as long as possible, and when they are made, make them with the best available information to make them correctly.
 
