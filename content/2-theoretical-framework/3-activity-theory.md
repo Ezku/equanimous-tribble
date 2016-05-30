@@ -62,13 +62,13 @@ From this view, change in a practice amounts to the outcome of a pressure exerte
 In the interest of being able to see these different contradictions in the empirical data later on, we might wish to consider what an expression of them would look like. I suggest that the emotions involved with pressure and resistance expressed throughout the expansive learning cycle could be characterised, in exaggeration, like this:
 
 Primary
-:   "This thing that we're doing sucks."
+:   "This thing that we're doing does not work."
 Secondary
-:   "Yes, but there is a reason why it has to suck like that."
+:   "Yes, but there is a reason why it has to be done like that."
 Tertiary
-:   "We made it differently and look at what happened. We should have known it would suck."
+:   "We made it work in a different way and now we have to change the way these other things work, too."
 Quaternary
-:   "Now that we made it work, the others think this sucks for them."
+:   "Now that we made it work, the others think this does not work for them."
 
 Expansive learning is thus to be understood as a process of construction and resolution of contradictions that follow from each other. These actions don't, however, need to follow each other in temporal order, and they don't all need to be present for learning to occur. Also noteworthy is the fact that it is not *individuals* who change, but instead the object of collective activity and thus the components of the activity system linked to it. \citep{engestrom2010studies}
 
