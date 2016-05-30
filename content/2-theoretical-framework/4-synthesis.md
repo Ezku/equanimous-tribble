@@ -36,7 +36,7 @@ Activity theory may be used to observe continuous improvement in practice by see
 
 The following research questions are posed to the empirical research data.
 
-> **ERQ1**: How does the observed daily practice  compare to theoretical representations of daily Scrum and Kanban systems?
+> **ERQ1**: How is the observed daily positioned with regard to descriptions of Scrum daily and kanban systems in the theory?
 
 > **ERQ2**: How do contradictions and their transformations manifest in a daily?
 
