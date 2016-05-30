@@ -9,7 +9,7 @@ The research was conducted as a case study of a Helsinki-based software startup 
 
 ### Environment
 
-The chronological context of the development team daily was after a short whole-company standup meeting scheduled to start at 10 in the morning every day. The discussion from the standup meeting would sometimes anecdotally have an impact on the content of the development team daily, but expanding on this relation was not part of the research objectives.
+The development team daily occurred every day after a short whole-company standup meeting scheduled to start at 10 in the morning. The discussion from the standup meeting would sometimes anecdotally have an impact on the content of the development team daily, but expanding on this relation was not part of the research objectives.
 
 The daily meetings were invariably held in a meeting room equipped with a table, a couch, a TV screen to which laptop computers could be plugged to, and two whiteboards. Attendees would customarily be seated for the duration of the daily. There was not enough room for more than 8 people to sit, so in the case of meetings which more than that amount attended, some would be forced to stand or choose to sit on the floor. On the table, two people would have their laptops open: the *driver* and the *secretary*.
 
