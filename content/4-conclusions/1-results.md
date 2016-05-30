@@ -11,7 +11,7 @@ The observed practice is a daily, but it is decidedly not a Scrum one. On the ve
 
 In terms of absolute time expenditure by segment, we can conclude that the daily has the following main functions: accounting for new information (in the `INBOX` segment), addressing urgent, non-planned work (`FIRES` segment), relating the general status of work, scheduling and impediments (`INTRO`), and keeping track of "discussions", such as improvement of workflows (`OUTBOX`).  Secondary functions, which occurred more rarely but on which significant time was spent per occurrence, consist of development cycle reviews and planning (`BOARD OVERVIEW`, `CYCLES`). Auxiliary functions would include keeping track of non-software-development work, work required for customer relations, and urgent but non-critical work.
 
-In the literature, kanban systems are a visual work coordination device which allow for inspecting the workflow, or the process through which work items pass through the system. Its purpose is to allow those completing the work to identify the work to be done and act on this information swiftly. This speeds up delivery and enhances learning, while allowing identification of waste throughout the process. A kanban system is intended to be improved upon in a process of continuous improvement, which is collaborative in nature to avoid suboptimization.
+In the literature, kanban systems are a visual work coordination device which allow for inspecting the workflow, or the process through which work items pass through the system. Its purpose is to allow those completing the work to identify the work to be done and act on this information swiftly. This speeds up delivery and enhances learning, while allowing identification of waste throughout the process. A kanban system is intended to be improved upon in a process of continuous improvement, which is collaborative in nature to avoid suboptimization. The use of kanban requires supporting practices, such as those from agile methodologies.
 
 <!--
 Kanban system
@@ -23,5 +23,7 @@ Kanban system
 - not a standalone practice but requires support
 - supports ability to see waste
 -->
+
+Outside the daily, the team members use the work items represented in their virtual kanban boards to determine what they should be working on at any given time. In section \ref{segments-in-depth} we observed that the kanban boards encode relevant workflows when they are understood, such as software development work. As we saw in section \ref{relation-between-daily-and-boards}, the layout and structure of the boards is linked to how the daily plays out and is adjusted in the daily. Critically, the members' understanding of *how* the boards are used to communicate what there is to be done is shaped during the daily. The team applies the agile practice of a daily to support their collaborative use of a kanban system.
 
 ## Answer to the research problem
