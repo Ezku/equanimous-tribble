@@ -11,5 +11,17 @@ The observed practice is a daily, but it is decidedly not a Scrum one. On the ve
 
 In terms of absolute time expenditure by segment, we can conclude that the daily has the following main functions: accounting for new information (in the `INBOX` segment), addressing urgent, non-planned work (`FIRES` segment), relating the general status of work, scheduling and impediments (`INTRO`), and keeping track of "discussions", such as improvement of workflows (`OUTBOX`).  Secondary functions, which occurred more rarely but on which significant time was spent per occurrence, consist of development cycle reviews and planning (`BOARD OVERVIEW`, `CYCLES`). Auxiliary functions would include keeping track of non-software-development work, work required for customer relations, and urgent but non-critical work.
 
+In the literature, kanban systems are a visual work coordination device which allow for inspecting the workflow, or the process through which work items pass through the system. Its purpose is to allow those completing the work to identify the work to be done and act on this information swiftly. This speeds up delivery and enhances learning, while allowing identification of waste throughout the process. A kanban system is intended to be improved upon in a process of continuous improvement, which is collaborative in nature to avoid suboptimization.
+
+<!--
+Kanban system
+- Visualize the workflow
+- Limit work in progress
+- measure and manage flow
+- make process policies explicit
+- improve collaboratively
+- not a standalone practice but requires support
+- supports ability to see waste
+-->
 
 ## Answer to the research problem
