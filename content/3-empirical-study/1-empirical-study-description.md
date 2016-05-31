@@ -15,7 +15,7 @@ The development team daily occurred every day after a short whole-company standu
 
 The driver and the secretary are the only explicit roles defined in the context of the observed daily.
 
-The driver connects their laptop to the TV screen, enabling the team to view the virtual kanban boards and items therein. Throughout the daily the driver will switch between kanban boards and task items according to how the team's discussion proceeds.
+The driver connects their laptop to the TV screen, enabling the team to view the virtual kanban boards and items therein. Throughout the daily the driver will switch between kanban boards and task items according to how the team's discussion proceeds. Usually, the driver will walk the team through boards and their work items in the order that they appear in. The team might make callouts and request that the driver deviate from this, and if the team's discussion diverges to a work item not currently shown the driver will attempt to accommodate.
 
 The secretary affects decisions made by the team. This can take the form of manipulating tasks on the boards, making modifications to board structure, and making meeting notes.
 
