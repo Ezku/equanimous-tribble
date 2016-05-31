@@ -3,6 +3,9 @@
 
 The goal of the study is broadly to understand a specific practice situated within the field of software development and to understand how the practice may contribute positively to activities outside the practice itself. This premise necessitates a qualitative approach to analysis \citep{jonassen2012theoretical}. \citet{lethbridge2005studying} claim that to truly understand the process of creating software, it is essential to study it in real environments. Perhaps owing to this fact, even while qualitative studies of software practice appear relatively rare \citep{robinson2007ethnographically}, the agile discourse has a history with ethnographically-inspired studies of agile practices \citep{robinson2007ethnographically,marchenko2008scrum}.
 
+\citet{lecompte1982problems} have characterised the ethnographical approach with emphasising observation, focusing on natural settings, using participant constructs for structuring research, and avoidance of manipulation of study variables by investigators. \citet{robinson2007ethnographically} add that the ethnographically inclined researcher attempts to understand practice on its own terms, studying the totality of it with all its messy characteristics, and aspires not to disturb the practice. Ethnography is suited for situations where unique processes of change may be observed \citep{lecompte1982problems}, which also implies that the situation or practice should be observed over a period of time \citep{jonassen2012theoretical}. The research strategy that focuses on understanding dynamics present within a single setting is called case study, which may be conducted over single or multiple cases \citep{eisenhardt1989building}.
+
+
 
 - Qualitative study
 - Case study
