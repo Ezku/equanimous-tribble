@@ -12,3 +12,38 @@ The context of the study is an organisation where the software development team 
 \citet{lethbridge2005studying} describe three degrees of data collection techniques suitable for field studies of software engineering. First degree techniques are observational and provide a real-time view of the phenomena, but is difficult to analyse both due to its density and the knowledge required to interpret it correctly. Second degree techniques involve the researcher having access to the participant's environment, but do not require direct contact between research and participant while data is collected, and are appropriate for longitudinal studies. Techniques of the third degree attempt to gain information by inspecting artefacts produced by workers, which are often easily accessible and require no commitment from participants but are removed from the actual process being observed. Third degree techniques must normally be supplemented by other ones for research goals to be achieved, because they are difficult to interpret successfully out of their context.
 
 The researcher taking part in the observed practice is a first degree data collection technique called "Participant Observation", while capturing the state of the kanban system may be considered to constitute a third degree technique that \citet{lethbridge2005studying} call "Analysis of Electronic Databases of Work Performed". \citet{lethbridge2005studying} place audio recordings on a spectrum of record-keeping options, noting that videotape would be most complete but also most intrusive and time-intensive, while manual record keeping the least complete and intensive; audio is situated in the middle of the spectrum, being fairly complete but losing details of the physical environment. The use of audio recordings as a primary source of data was found to be a reasonable compromise for this study by having reasonable completeness, low intrusivity for participants, and moderate time-intensity with regards to analysis. The primary data also serves as means of contextualizing and interpreting the secondary data captured by third degree techniques.
+
+
+
+Analysis in iterations:
+
+1. overview of data based on field notes and audio, creation of a content log and outline of events, logging anything "out of the ordinary"
+2. refining the content log into identified "segments"
+3. comparing and contrasting the identified segments with observations from secondary data
+4. identifying and cataloguing episodes of disturbance from the audio recordings with the aid of the content log from 1
+5. identifying related episodes of disturbance based on the catalogue from 4
+
+### \citet{lethbridge2005studying} 4.2 Coding and Analyzing the Data
+
+Field study techniques produce enormous amounts of data
+- To meet this goal, the body of data must be reduced to a comprehensible format. Traditionally, this is done through a process of coding
+- That is, using the goals of the research as a guide, a scheme is developed to categorize the data. These schemes can be quite high level.
+
+## \citep{dubois2002systematic}
+
+- preliminary analytical framework consists of 'preconceptions'
+=> these preconceptions allowed the initial coding to focus on two things: segmentation through the use of different kanban boards as facilitating different functions, and questioning or "out of the ordinary" episodes being somehow of interest because they do not belong to the "core" practice
+
+## \citep{lecompte1982problems}
+
+- use of participant constructs to structure the research
+=> the kanban boards were taken as a construct around which to structure the analysis because that was something the participants themselves had
+- this choice was made after the data had been collected and when it needed to be coded for understanding
+
+## jonassen2012theoretical
+
+- Analysts should pay attention first to broad patterns of activity before considering narrow episodic fragments that do not reveal the overall direction and importance of the activity
+=> the "broad pattern of activity" was understood to be the use of kanban boards to structure the action and guide the daily
+
+- Analysts should use varied data collection methods and points of view
+=> first and third degree techniques of data collection are used to corroborate each other
