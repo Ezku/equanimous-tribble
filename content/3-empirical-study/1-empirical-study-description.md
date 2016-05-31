@@ -13,11 +13,11 @@ The development team daily occurred every day after a short whole-company standu
 
 ### Roles {#daily-roles}
 
-The driver and the secretary are the only explicit roles defined in the context of the observed daily.
+The driver and the secretary are the only explicit roles defined in the context of the observed daily. Both may be seen as facilitators for the daily, in that the driver presents a de facto agenda and the secretary ensures that items on the agenda, or any emerging ones, reach an outcome satisfactory for the team.
 
-The driver connects their laptop to the TV screen, enabling the team to view the virtual kanban boards and items therein. Throughout the daily the driver will switch between kanban boards and task items according to how the team's discussion proceeds. Usually, the driver will walk the team through boards and their work items in the order that they appear in. The team might make callouts and request that the driver deviate from this, and if the team's discussion diverges to a work item not currently shown the driver will attempt to accommodate.
+The driver connects their laptop to the TV screen, enabling the team to view their virtual kanban system and work items. Throughout the daily the driver will work through the kanban system and work items according to how the team's discussion proceeds. Usually, the driver will walk the team through boards and their work items in the order that they appear in. The team might make callouts and request that the driver deviate from this, and if the team's discussion diverges to a work item not currently shown the driver will attempt to accommodate.
 
-The secretary affects decisions made by the team. This can take the form of manipulating tasks on the boards, making modifications to board structure, and making meeting notes.
+The secretary affects decisions made by the team. This can take the form of manipulating tasks on the boards, making modifications to board structure, and making meeting notes. Functioning in the role of the secretary necessitates that either the team make their decisions explicit or that the secretary intervene to clarify the outcomes from any discussion.
 
 ### Tools used {#daily-tools}
 
