@@ -23,6 +23,6 @@ The secretary affects decisions made by the team. This can take the form of mani
 
 The most important tool made use of was Asana, a web-based task management application in which the team had encoded their workflow. It views work as *projects*, which consist of *tasks* in a linear list, which can be delineated into segments with *labels*. Tasks consist of a title and a description, may be assigned to individuals, may be given tags, and may be commented on. The workflow was modelled with the use of projects and labels, which allowed the team to delineate different kinds of sub-workflows and the process steps that the workflows entailed.
 
-In addition, meeting minutes were published through Flowdock, a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, under which participants may converse textually. One of these flows was dedicated for meeting minutes, so that there was usually no other discussion besides what was logged by the secretary.
+In addition, meeting minutes were published through Flowdock, a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, persistent message logs with a certain topic. One of these flows was dedicated for meeting minutes from dailies and used by the secretary during the daily.
 
 Tools for sharing knowledge in the physical environment, such as post-its or the whiteboard present in the room, were seldom touched.
