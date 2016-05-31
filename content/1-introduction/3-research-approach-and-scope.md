@@ -1,6 +1,9 @@
 
 # Research approach and scope
 
+The goal of the study is broadly to understand a specific practice situated within the field of software development and to understand how the practice may contribute positively to activities outside the practice itself. This premise necessitates a qualitative approach to analysis \citep{jonassen2012theoretical}. \citet{lethbridge2005studying} claim that to truly understand the process of creating software, it is essential to study it in real environments. Perhaps owing to this fact, even while qualitative studies of software practice appear relatively rare \citep{robinson2007ethnographically}, the agile discourse has a history with ethnographically-inspired studies of agile practices \citep{robinson2007ethnographically,marchenko2008scrum}.
+
+
 - Qualitative study
 - Case study
 - Ethnographical approach
