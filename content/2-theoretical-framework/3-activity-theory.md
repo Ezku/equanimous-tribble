@@ -68,7 +68,7 @@ Secondary
 Tertiary
 :   "We made it work in a different way and now we have to change the way these other things work, too."
 Quaternary
-:   "Now that we made it work, the others think this does not work for them."
+:   "Now that we made this work, the others think it does not work for them."
 
 Expansive learning is thus to be understood as a process of construction and resolution of contradictions that follow from each other. These actions don't, however, need to follow each other in temporal order, and they don't all need to be present for learning to occur. Also noteworthy is the fact that it is not *individuals* who change, but instead the object of collective activity and thus the components of the activity system linked to it. \citep{engestrom2010studies}
 
