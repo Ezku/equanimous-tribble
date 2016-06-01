@@ -5,6 +5,25 @@ The following section discusses the implications of this study. Implications are
 
 ## Practical implications
 
+- The dailies were an arena for expansive learning to take place
+- The research suggests that expansive learning may occur over days in a continuous process
+  - this is in contrast to what is suggested by the agile literature: that new input to the development process and improvement of the ways of work would optimally happen in "interventions" every couple of weeks
+  - if such interventionary measure *are* wanted, perhaps their design may be aided by leveraging existing research in the field of activity theory, such as Engestrom's ChangeLab methodology
+
+
+Suggestions:
+
+- **Focus on the journey of improvement.** Design for mechanisms which support change and learning, not enforcing static structures. There is no one right way to do things.
+- **Provide an arena for collaboratively inspecting a workflow.** This serves the dual purpose of facilitating collaborative understanding of the work in practice and enabling identification of contradictions. Modelling of transformations on the practice benefits from an intersubjective understanding of the current state of practice.
+- **Embrace disturbances as indicative of change potential.** Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
+- **Expect further contradictions.** Resistance to change is a real thing and is exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation.
+
+<!--
+
+How could the observed daily be improved with these guidelines?
+
+-->
+
 ### The daily reflect's the team's understanding of the process of software development
 
 <!--
@@ -44,6 +63,11 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 -->
 
 ## Theoretical implications
+
+### Investigating software development from an activity theoretical perspective
+
+- The research suggests that the use of activity theory to describe practices in the field of software development has explanatory power
+-
 
 ### Overcoming tensions vs extending knowledge objects
 
