@@ -13,37 +13,12 @@ The context of the study is an organisation where the software development team 
 
 The researcher taking part in the observed practice is a first degree data collection technique called "Participant Observation", while capturing the state of the kanban system may be considered to constitute a third degree technique that \citet{lethbridge2005studying} call "Analysis of Electronic Databases of Work Performed". \citet{lethbridge2005studying} place audio recordings on a spectrum of record-keeping options, noting that videotape would be most complete but also most intrusive and time-intensive, while manual record keeping the least complete and intensive; audio is situated in the middle of the spectrum, being fairly complete but losing details of the physical environment. The use of audio recordings as a primary source of data was found to be a reasonable compromise for this study by having reasonable completeness, low intrusivity for participants, and moderate time-intensity with regards to analysis. The primary data also serves as means of contextualizing and interpreting the secondary data captured by third degree techniques.
 
+\citet{jonassen2012theoretical} suggest that practice researchers first study broad patterns of activity before considering narrow episodic fragments, while \citet{lecompte1982problems} advise upon using participant constructs to structure the research. The large bodies of data produced in field studies must also be reduced to a more comprehensible format in a process of coding used to categorize the data according to a schema, which can be high level but must be guided by the goals of the research \citep{lethbridge2005studying}. The analysis in this study progressed in the following structure, starting out with preliminary analytic 'preconceptions' \citep{dubois2002systematic} and refining understanding in iterative rounds:
 
+1. Overview of data based on field notes and audio, creation of a daily content log and outline of activities. Based on preconceptions, attention was paid on fragments that stood out as unusual.
+2. A structure for the dailies was identified using the team's own constructs as a basis, with secondary and primary data corroborating each other.
+3. Segments in the content log were coded according to the identified structure and catalogued for analysis.
+4. Episodes of particular interest were reviewed from the audio recordings with the aid of the content log based on newly gained theoretical understanding.
+5. A subset of episodes was further sampled such that the researcher was able to thematically link episodes from different dailies together.
 
-Analysis in iterations:
-
-1. overview of data based on field notes and audio, creation of a content log and outline of events, logging anything "out of the ordinary"
-2. refining the content log into identified "segments"
-3. comparing and contrasting the identified segments with observations from secondary data
-4. identifying and cataloguing episodes of disturbance from the audio recordings with the aid of the content log from 1
-5. identifying related episodes of disturbance based on the catalogue from 4
-
-### \citet{lethbridge2005studying} 4.2 Coding and Analyzing the Data
-
-Field study techniques produce enormous amounts of data
-- To meet this goal, the body of data must be reduced to a comprehensible format. Traditionally, this is done through a process of coding
-- That is, using the goals of the research as a guide, a scheme is developed to categorize the data. These schemes can be quite high level.
-
-## \citep{dubois2002systematic}
-
-- preliminary analytical framework consists of 'preconceptions'
-=> these preconceptions allowed the initial coding to focus on two things: segmentation through the use of different kanban boards as facilitating different functions, and questioning or "out of the ordinary" episodes being somehow of interest because they do not belong to the "core" practice
-
-## \citep{lecompte1982problems}
-
-- use of participant constructs to structure the research
-=> the kanban boards were taken as a construct around which to structure the analysis because that was something the participants themselves had
-- this choice was made after the data had been collected and when it needed to be coded for understanding
-
-## jonassen2012theoretical
-
-- Analysts should pay attention first to broad patterns of activity before considering narrow episodic fragments that do not reveal the overall direction and importance of the activity
-=> the "broad pattern of activity" was understood to be the use of kanban boards to structure the action and guide the daily
-
-- Analysts should use varied data collection methods and points of view
-=> first and third degree techniques of data collection are used to corroborate each other
+In summary, the research follows an abductive process of inference to the best explanation in search of a theory that would explain the data, as is typical of ethnographical research. Such research has been done on agile practices before, and the approach is applicable for looking into processes of change and learning. The research studies that which occurs naturally and attempts not to control the research context, which means that instead of testing hypotheses on the efficacy of different measures we instead attempt to provide a rich, translatable account of the findings and process of reasoning such that the applicability of the resulting theoretical constructs used may be evaluated by the receiver.
