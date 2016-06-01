@@ -34,6 +34,17 @@ In summary, the use of a kanban system with the practice of a daily allows the t
 
 > **RP:** How can the practice of a daily in conjunction with a kanban system support continuous improvement?
 
-The practice of a daily in conjunction with a kanban system supports continuous improvement in a software development team by providing a structure in which the kanban system is observed and waste may be identified collaboratively, and by serving as a context in which failures in the practice may be brought up and through a process of expansive learning help the team transform the practice.
+The practice of a daily in conjunction with a kanban system supports continuous improvement in a software development team by providing a structure in which the kanban system is observed, new input can be considered and waste may be identified collaboratively, and by serving as a context in which failures in the practice may be brought up and through a process of expansive learning help the team transform the practice.
 
 The theoretical framework describes continuous improvement in practice as a process of collaborative and continuous innovation. Innovation is understood as successive surfacing and resolution of contradictions in a practice by transforming the team's object of activity and thus the practice itself. In the empirical study, the practice of a daily was established and disturbances in the practice were observed, linking them to transformations in the object of activity that the team encoded as changes to the kanban system.
+
+## Conclusions
+
+- The objective of the thesis was x y z
+  - the theoretical object was a b c
+  - the empirical study was crafted to support the above
+- kanban provides a structure for the daily practice
+  - allows collaboratively determining how new input affects the system
+- in this thesis the activity theoretical perspective of expansive learning is offered as an explanatory model for how continuous improvement occurs
+  - suggests that practices supporting continuous improvement may benefit from analysis of how they enable the surfacing of *disturbances* and their transformation
+- the analysis in this thesis contributes to analyzing and developing lean software development practices which aspire for continuous improvement
