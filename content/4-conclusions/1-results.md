@@ -31,3 +31,9 @@ The team is careful to limit their work in progress as much as they can, but rea
 In summary, the use of a kanban system with the practice of a daily allows the team to apply virtually all of the kanban principles, which taken together support the lean goal of continuous improvement. The daily also allows the team to accept feedback and adjust their priorities on work to be completed on a day-to-day basis. This distinction from the Scrum daily may be seen as significant, redefining the object of activity from "progress of predefined work items" to "redefining work and its priorities". It comes at a cost, however, in that the observed dailies were a significantly larger expenditure in terms of the development team's time.
 
 ## Answer to the research problem
+
+> **RP:** How can the practice of a daily in conjunction with a kanban system support continuous improvement?
+
+The practice of a daily in conjunction with a kanban system supports continuous improvement in a software development team by providing a structure in which the kanban system is observed and waste may be identified collaboratively, and by serving as a context in which failures in the practice may be brought up and through a process of expansive learning help the team transform the practice.
+
+The theoretical framework describes continuous improvement in practice as a process of collaborative and continuous innovation. Innovation is understood as successive surfacing and resolution of contradictions in a practice by transforming the team's object of activity and thus the practice itself. In the empirical study, the practice of a daily was established and disturbances in the practice were observed, linking them to transformations in the object of activity that the team encoded as changes to the kanban system.
