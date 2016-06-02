@@ -11,20 +11,7 @@ Credibility is the quality of truthfulness and persuasiveness in causalities and
 
 Transferability is the degree to which findings can be generalized, or whether the findings can be applied in other contexts and to other research subjects. \citep{lincoln1985naturalistic} In qualitative research, transferability cannot be determined by the evaluator, but by the receiver. \citep{eisenhardt1989building,guba1989fourth} In ethnography this determination is supported by the research goals of comparability and translatability. \citep{lecompte1982problems} As suggested by \citet{lecompte1982problems}, in this study comparability is supported by delineating the characteristics of the group under observation and the constructs generated in the study such that there exists a basis for comparison for other groups, whereas confident translation is likewise supported by describing research methods, analysis and characteristics of phenomena and groups as explicitly as possible. This is compatible with the requirement by \citet{lincoln1985naturalistic} that the receiver be able to assess applicability to other context by thick description of the research context, theory, methods and findings of the study.
 
-Dependability:
-- the consistency of the study with the aim of providing results independent from the researcher’s identity \citep{guba1989fourth}
-- \citet{lecompte1982problems} discuss this as the problem of reliability:
-  - external reliability: would independent researchers discover the same phenomena
-  - internal reliability: degree to which other researchers would match data with previously generated constructs in the same way
-  - external reliability
-    - reports must clearly identify the researcher's role and status within the group
-    - threats to reliability by informant bias are handled by careful description of those who provided the data
-    - delineation of physical, social and interpersonal contexts enhance replicability of ethnographic studies
-    - outlining theoretical premises that inform and shape the research facilitates replication
-    - Identify and describe strategies used to collect data
-  - internal reliability
-    - Low-inference descriptors: - As concrete and precises as possible
-    - Mechanically recorded data: - Use of observational techniques that record as much as possible
+Dependability is defined as the consistency of the study with the capability to provide results independent from the researcher's identity. \citep{guba1989fourth} In ethnographical studies, this is taken by \citet{lecompte1982problems} to be a herculean problem, as the observed phenomena are often unique and the fact of whether the results could be replicated is difficult to establish satisfactorily. \citet{lecompte1982problems} recommend that the problem be addressed in terms of external and internal reliability. According to the suggestion, this study reports on the researcher's role within the group, delineates the physical context of the study, outlines theoretical premises that shaped the research, and describes data collection strategies used. Internal reliability is enhanced by means of low-inference descriptors, or being as concrete and precise in description and presenting verbatim quotes when possible, which is aided by the use of mechanically recorded data, in this case audio recordings.
 
 Confirmability \citep{guba1989fourth}
 - the neutrality of the study
