@@ -9,29 +9,7 @@ The research in this thesis encompasses a qualitative \citep{creswell2009researc
 
 Credibility is the quality of truthfulness and persuasiveness in causalities and relationships inferred in a study. \citep{lincoln1985naturalistic} The reasoning in this study followed an abductive inference to the best explanation \citep{dubois2002systematic}, in which an iterative interplay between theoretical framework and empirical analysis affords the search of a theory with suitable explanatory power. This is consistent with descriptions of case study research process in general \citep{eisenhardt1989building} and ethnographical studies specifically \citep{lecompte1982problems}.
 
-
-- the extent to which conclusions represent reality is called validity by \citet{lecompte1982problems}, who divide it into categories of internal and external validity
-  - whether constructs devised by researchers represent categories of human experience that occur
-  - internal validity is the extent to which observations are authentic representations
-  - external validity is the degree to which representations may be compared legitimately across groups
-
-
-Transferability \citep{lincoln1985naturalistic}
-- the generalizability of the findings,
-- i.e. whether the findings can be applied in other contexts and to other research subjects
-
-in ethnographical research this is supported by - \citet{lecompte1982problems}
-- Comparability (requires that the ethnographer delineate the characteristics of the group studied or constructs generated so that they can serve as a basis for comparison with other groups)
-- translatability (assumes that research methods, analytic categories, and characteristics of phenomena and groups are identified so explicitly that comparisons can be conducted confidently)
-
-
-
-Transferability of findings in qualitative research
-- cannot be determined by the evaluator of the study that is transferred
-- instead by the receiver of the evaluation \citep{eisenhardt1989building,guba1989fourth}
-
-\citep{lincoln1985naturalistic}
-- enabling receiver of the evaluation to assess applicability to other context requires thick description of the research context, theory, methods and findings of the study
+Transferability is the degree to which findings can be generalized, or whether the findings can be applied in other contexts and to other research subjects. \citep{lincoln1985naturalistic} In qualitative research, transferability cannot be determined by the evaluator, but by the receiver. \citep{eisenhardt1989building,guba1989fourth} In ethnography this determination is supported by the research goals of comparability and translatability. \citep{lecompte1982problems} As suggested by \citet{lecompte1982problems}, in this study comparability is supported by delineating the characteristics of the group under observation and the constructs generated in the study such that there exists a basis for comparison for other groups, whereas confident translation is likewise supported by describing research methods, analysis and characteristics of phenomena and groups as explicitly as possible. This is compatible with the requirement by \citet{lincoln1985naturalistic} that the receiver be able to assess applicability to other context by thick description of the research context, theory, methods and findings of the study.
 
 Dependability:
 - the consistency of the study with the aim of providing results independent from the researcher’s identity \citep{guba1989fourth}
@@ -55,6 +33,13 @@ Confirmability \citep{guba1989fourth}
   - ensuring that the findings can be traced to the data: audit trail of inference \citep{lincoln1985naturalistic}
   - this is afforded by the rich description of the empirical study results
 
+
+According to \citet{lecompte1982problems}, credibility is dependent on an ethnographical study's capability to resolve external and internal design problems
+
+- the extent to which conclusions represent reality is called validity by \citet{lecompte1982problems}, who divide it into categories of internal and external validity
+  - whether constructs devised by researchers represent categories of human experience that occur
+  - internal validity is the extent to which observations are authentic representations
+  - external validity is the degree to which representations may be compared legitimately across groups
 
 
 
