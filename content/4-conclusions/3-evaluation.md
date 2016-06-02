@@ -1,7 +1,73 @@
 
 # Evaluation
 
-## Limitations of the study
+The form of this study is a literature review combined with an empirical case study. This section evaluates the study from perspectives of credibility (\ref{credibility}) and inherent limitations (\ref{limitations}).
+
+## Credibility, transferability, dependability and confirmability {#credibility}
+
+- This is a qualitative \citep{creswell2009research} case study \citep{eisenhardt1989building} with an ethnographic approach \citep{lecompte1982problems}.
+- \citet{lincoln1985naturalistic} suggest that qualitative studies in general be evaluated on criterias of credibility, transferability, dependability and confirmability.
+- \citet{lecompte1982problems} define the problems of ethnographic research specifically to lie in the capability to establish credibility through reliability and validity.
+
+- \citet{lincoln1985naturalistic} take credibility to be the truthfulness and persuasiveness of the causalities and relationships inferred.
+- reasoning in this study: abductive \citep{dubois2002systematic}
+  - theoretical framework and empirical analysis inform one another over the course of the research
+  - the theoretical framework is chosen based on its ability to explain the empirical data
+- the extent to which conclusions represent reality is called validity by \citet{lecompte1982problems}, who divide it into categories of internal and external validity
+  - whether constructs devised by researchers represent categories of human experience that occur
+  - internal validity is the extent to which observations are authentic representations
+  - external validity is the degree to which representations may be compared legitimately across groups
+
+
+Transferability \citep{lincoln1985naturalistic}
+- the generalizability of the findings,
+- i.e. whether the findings can be applied in other contexts and to other research subjects
+
+in ethnographical research this is supported by - \citet{lecompte1982problems}
+- Comparability (requires that the ethnographer delineate the characteristics of the group studied or constructs generated so that they can serve as a basis for comparison with other groups)
+- translatability (assumes that research methods, analytic categories, and characteristics of phenomena and groups are identified so explicitly that comparisons can be conducted confidently)
+
+
+
+Transferability of findings in qualitative research
+- cannot be determined by the evaluator of the study that is transferred
+- instead by the receiver of the evaluation \citep{eisenhardt1989building,guba1989fourth}
+
+\citep{lincoln1985naturalistic}
+- enabling receiver of the evaluation to assess applicability to other context requires thick description of the research context, theory, methods and findings of the study
+
+Dependability:
+- the consistency of the study with the aim of providing results independent from the researcher’s identity \citep{guba1989fourth}
+- \citet{lecompte1982problems} discuss this as the problem of reliability:
+  - external reliability: would independent researchers discover the same phenomena
+  - internal reliability: degree to which other researchers would match data with previously generated constructs in the same way
+  - external reliability
+    - reports must clearly identify the researcher's role and status within the group
+    - threats to reliability by informant bias are handled by careful description of those who provided the data
+    - delineation of physical, social and interpersonal contexts enhance replicability of ethnographic studies
+    - outlining theoretical premises that inform and shape the research facilitates replication
+    - Identify and describe strategies used to collect data
+  - internal reliability
+    - Low-inference descriptors: - As concrete and precises as possible
+    - Mechanically recorded data: - Use of observational techniques that record as much as possible
+
+Confirmability \citep{guba1989fourth}
+- the neutrality of the study
+- freedom from bias, values and prejudice
+- Justification of confirmability
+  - ensuring that the findings can be traced to the data: audit trail of inference \citep{lincoln1985naturalistic}
+  - this is afforded by the rich description of the empirical study results
+
+
+
+
+
+
+
+
+
+
+## Limitations of the study {#limitations}
 
 - This is an ethnographical study
   - What does that imply for limitations?
