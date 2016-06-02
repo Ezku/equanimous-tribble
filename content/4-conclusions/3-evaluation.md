@@ -5,14 +5,11 @@ The form of this study is a literature review combined with an empirical case st
 
 ## Credibility, transferability, dependability and confirmability {#credibility}
 
-- This is a qualitative \citep{creswell2009research} case study \citep{eisenhardt1989building} with an ethnographic approach \citep{lecompte1982problems}.
-- \citet{lincoln1985naturalistic} suggest that qualitative studies in general be evaluated on criterias of credibility, transferability, dependability and confirmability.
-- \citet{lecompte1982problems} define the problems of ethnographic research specifically to lie in the capability to establish credibility through reliability and validity.
+The research in this thesis encompasses a qualitative \citep{creswell2009research} case study \citep{eisenhardt1989building} with an ethnographic approach \citep{lecompte1982problems}.  \citet{lincoln1985naturalistic} suggest that qualitative studies in general be evaluated on criterias of credibility, transferability, dependability and confirmability. \citet{lecompte1982problems} define the problems of ethnographic research specifically to lie in the capability to establish properties of reliability and validity, which will be linked to the four aforementioned properties in this section.
 
-- \citet{lincoln1985naturalistic} take credibility to be the truthfulness and persuasiveness of the causalities and relationships inferred.
-- reasoning in this study: abductive \citep{dubois2002systematic}
-  - theoretical framework and empirical analysis inform one another over the course of the research
-  - the theoretical framework is chosen based on its ability to explain the empirical data
+Credibility is the quality of truthfulness and persuasiveness in causalities and relationships inferred in a study. \citep{lincoln1985naturalistic} The reasoning in this study followed an abductive inference to the best explanation \citep{dubois2002systematic}, in which an iterative interplay between theoretical framework and empirical analysis affords the search of a theory with suitable explanatory power. This is consistent with descriptions of case study research process in general \citep{eisenhardt1989building} and ethnographical studies specifically \citep{lecompte1982problems}.
+
+
 - the extent to which conclusions represent reality is called validity by \citet{lecompte1982problems}, who divide it into categories of internal and external validity
   - whether constructs devised by researchers represent categories of human experience that occur
   - internal validity is the extent to which observations are authentic representations
