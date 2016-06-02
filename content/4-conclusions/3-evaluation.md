@@ -13,20 +13,7 @@ Transferability is the degree to which findings can be generalized, or whether t
 
 Dependability is defined as the consistency of the study with the capability to provide results independent from the researcher's identity. \citep{guba1989fourth} In ethnographical studies, this is taken by \citet{lecompte1982problems} to be a herculean problem, as the observed phenomena are often unique and the fact of whether the results could be replicated is difficult to establish satisfactorily. \citet{lecompte1982problems} recommend that the problem be addressed in terms of external and internal reliability. According to the suggestion, this study reports on the researcher's role within the group, delineates the physical context of the study, outlines theoretical premises that shaped the research, and describes data collection strategies used. Internal reliability is enhanced by means of low-inference descriptors, or being as concrete and precise in description and presenting verbatim quotes when possible, which is aided by the use of mechanically recorded data, in this case audio recordings.
 
-Confirmability refers to qualities of neutrality and freedom from bias, values and prejudice. \citep{guba1989fourth} Confirmability is justified by ensuring that findings in the study can be traced to the underlying data through an audit trail of inference. \citep{lincoln1985naturalistic} In this study, confirmability is afforded by the rich description of empirical study data and findings.
-
-<!--
-
-TODO: Are these relevant?
-
-According to \citet{lecompte1982problems}, credibility is dependent on an ethnographical study's capability to resolve external and internal design problems
-
-- the extent to which conclusions represent reality is called validity by \citet{lecompte1982problems}, who divide it into categories of internal and external validity
-  - whether constructs devised by researchers represent categories of human experience that occur
-  - internal validity is the extent to which observations are authentic representations
-  - external validity is the degree to which representations may be compared legitimately across groups
-
--->
+Confirmability refers to qualities of neutrality and freedom from bias, values and prejudice. \citep{guba1989fourth} Confirmability is justified by ensuring that findings in the study can be traced to the underlying data through an audit trail of inference. \citep{lincoln1985naturalistic} In this study, confirmability is afforded by the rich description of empirical study data and findings. The researcher links this property to what \citet{lecompte1982problems} define as validity, or the the extent to which conclusions represent reality. For purposes of establishing internal validity, this research establishes data that remains stable over the observation period, uses theoretical sampling as a purposive strategy, and accounts for changing group membership and presence over time. External validity is considered by the use of theory to present the observed group's constructs such that they are comparable, and alleviates construct effects with the use of first and third degree data collection methods to validate the understanding of those constructs as being applicable for the group.
 
 
 ## Limitations of the study {#limitations}
