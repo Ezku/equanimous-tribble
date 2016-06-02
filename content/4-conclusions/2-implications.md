@@ -64,11 +64,4 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 
 ## Theoretical implications
 
-### Investigating software development from an activity theoretical perspective
-
-- The research suggests that the use of activity theory to describe practices in the field of software development has explanatory power
--
-
-### Overcoming tensions vs extending knowledge objects
-
-In \ref{process-of-innovation} we delimited the scope of this study to the activity theoretical perspective, in which we consider the process of innovation as that of collaborative contradiction resolution. This was a choice fitting for the investigation of the daily practice as the focal element, but there is another option. Consider the possibility where we wanted to instead investigate the specific way the team uses the kanban boards as a knowledge object and to refine their understanding of the activities which are placed outside the daily but modelled within. In this case we could've done well by picking the *conceptual artefact* based model of knowledge building by \citet{bereiter2002education}, contrasted to Engeström's model we used here by \citet{hakkarainen2004communities}. A study where the conceptual artefacts are taken in focus could, for instance, look deeper into the team's use of their tools and how they reflect the conceptual models in use.
+The theoretical objective of this study was to gain an understanding of how specific practices in software development may be seen as contributive to a process of continuous and collaborative improvement. An activity theoretical perspective of practices was applied to further this goal such that it could not only explain empirical data but serve as a unifying measure in evaluating practices described in the agile and lean discourses of software development.
