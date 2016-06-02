@@ -65,3 +65,23 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 ## Theoretical implications
 
 The theoretical objective of this study was to gain an understanding of how specific practices in software development may be seen as contributive to a process of continuous and collaborative improvement. An activity theoretical perspective of practices was applied to further this goal such that it could not only explain empirical data but serve as a unifying measure in evaluating practices described in the agile and lean discourses of software development.
+
+
+- The research suggests that the use of activity theory to describe practices in the field of software development has explanatory power
+  - we found that the degree to which a practice supported collaborative learning could be analysed by identifying episodes of disturbance which reflected steps in the expansive learning cycle
+
+- what was described is the means by which the practice of a daily may support a team's self-directed change of its own practices
+- this was linked to innovation and further to continuous improvement by a theoretical construction
+- however, the linkage provided is only theoretical and, hopefully, plausible for the receiver: a causal link to *waste reduction* in the process of software development was not the objective of this study
+- during the observation theory we found *fragments* of different expansive learning cycles in different phases which suggests that over time, some of these cycles run to completion while some may not
+  - a more longitudinal research could reveal more
+- the research took as a central construct the kanban system used by the team and the empirical data was interpreted in a way that supports the claim that the system's malleability was an affordance for the team's ability to affect transformations on their practices
+  - the theoretical framework also conceptualised the daily practice as it exists in agile as a significantly more constrained and rules-delineated event, such that it would be unlikely to exhibit the kinds of qualities we fpund in the observed dailies
+  - an idea of the degree to which it is the use of a kanban system that enables a team to have a qualitatively different kind of daily, with a different objective, and thus to learn like this could be reached by investigating occurrence of disturbances in a more traditionally *Scrum* kind of daily
+
+
+- In \ref{process-of-innovation} we delimited the scope of this study to the activity theoretical perspective, in which we consider the process of innovation as that of collaborative contradiction resolution.
+- This was a choice fitting for the investigation of the daily practice as the focal element, but there is another option.
+- Consider the possibility where we wanted to instead investigate the specific way the team uses the kanban boards as a knowledge object.
+- In this case we could've done well by picking the *conceptual artefact* based model of knowledge building by \citet{bereiter2002education}, contrasted to Engeström's model by \citet{hakkarainen2004communities}.
+- A study where the conceptual artefacts are taken in focus could, for instance, look deeper into the team's use of their tools and how they reflect the conceptual models in use.
