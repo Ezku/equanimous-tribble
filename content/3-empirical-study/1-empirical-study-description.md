@@ -26,3 +26,5 @@ The most important tool made use of was Asana, a web-based task management appli
 In addition, meeting minutes were published through Flowdock, a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, persistent message logs with a certain topic. One of these flows was dedicated for meeting minutes from dailies and used by the secretary during the daily.
 
 Tools for sharing knowledge in the physical environment, such as post-its or the whiteboard present in the room, were available but seldom touched.
+
+<!-- TODO: Screencap / graph of asana here -->
