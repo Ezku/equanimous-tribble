@@ -22,6 +22,8 @@ Timestamp for next set of actions
 
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. The web software Asana described in \ref{daily-tools} presents what the researcher understood as kanban boards as a linear list. The contents of this list were extracted and are presented as indexes in appendix section \ref{kanban-board-lists}. The individual kanban boards' structure, expressed likewise as a linear list of labels or 'states', was extracted in a similar fashion and presented fully in appendix section \ref{kanban-board-structure}.
 
+<!-- TODO: Visualisation of the two different kinds of structural data captured -->
+
 
 ## Overview of collected data
 
