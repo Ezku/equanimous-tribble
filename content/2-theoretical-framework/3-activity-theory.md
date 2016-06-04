@@ -59,16 +59,16 @@ Expressing contradictions alone is not sufficient for change. In activity system
 
 From this view, change in a practice amounts to the outcome of a pressure exerted by the existence of a primary contradiction. This pressure is resisted by the other contradictions. There may not be an evident transformation of the situation such that the contradiction would be resolved acceptably. Attempting to implement such a transformation might require adjustment to other parts of practice, so the group needs to undertake effort not initially visioned. Finally, even if this group of practitioners finds something that works for them, the surrounding network of activity systems will need to deal with the effects too.
 
-In the interest of being able to see these different contradictions in the empirical data later on, we might wish to consider what an expression of them would look like. I suggest that the emotions involved with pressure and resistance expressed throughout the expansive learning cycle could be characterised, in exaggeration, like this:
+The different levels of contradiction present a way of mapping arising disturbances and contradictions to a typology where they can be distinguished as being connected to different stages in the expansive learning process. In the empirical analysis section we will be leveraging the following characterisation of the manifestation of contradictions in practice, adapted from \citet{yamagata2009using}:
 
 Primary
-:   "This thing that we're doing does not work."
+:   Participants encounter contradictory demands attached to an element of activity.
 Secondary
-:   "Yes, but there is a reason why it has to be done like that."
+:   Participants encounter a new element of activity, and the process of assimilating the new element into the activity generates conflict.
 Tertiary
-:   "We made it work in a different way and now we have to change the way these other things work, too."
+:   Participants encounter a newly advanced method for achieving the object of an activity which is in conflict with the existing state of practice.
 Quaternary
-:   "Now that we made this work, the others think it does not work for them."
+:   Participants encounter changes to the activity that are in conflict with neighboring activities.
 
 Expansive learning is thus to be understood as a process of construction and resolution of contradictions that follow from each other. These actions don't, however, need to follow each other in temporal order, and they don't all need to be present for learning to occur. Also noteworthy is the fact that it is not *individuals* who change, but instead the object of collective activity and thus the components of the activity system linked to it. \citep{engestrom2010studies}
 
