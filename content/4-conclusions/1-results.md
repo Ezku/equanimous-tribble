@@ -40,11 +40,8 @@ The theoretical framework describes continuous improvement in practice as a proc
 
 ## Conclusions
 
-- The objective of the thesis was x y z
-  - the theoretical object was a b c
-  - the empirical study was crafted to support the above
-- kanban provides a structure for the daily practice
-  - allows collaboratively determining how new input affects the system
-- in this thesis the activity theoretical perspective of expansive learning is offered as an explanatory model for how continuous improvement occurs
-  - suggests that practices supporting continuous improvement may benefit from analysis of how they enable the surfacing of *disturbances* and their transformation
-- the analysis in this thesis contributes to analyzing and developing lean software development practices which aspire for continuous improvement
+The objective of the thesis was to describe the use of a daily practice in conjunction with the use of a kanban system such that the concept of a daily itself might be expanded upon from dictates of agile software methodology. This was done by searching for evidence that such a use of the daily would support the lean goal of continuous improvement, as the use of a kanban system also does. The theoretical objective was to find a way to describe the daily in such a way as to make possible the identification of mechanisms supporting continuous improvement, which was served by the use of an activity theoretical framing of the daily activities. The empirical study was conducted to further this line of argumentation.
+
+The use of a kanban system could be observed to provide a structure for the daily practice. The object of the daily activity was a visualization of work in the kanban system, with the objective of grooming new input and collaboratively responding to changing situations and priorities by manipulating kanban tokens. An activity theoretical model of expansive learning was offered as an explanatory model for how continuous improvement occurs. Disturbances that reflect different levels of contradictions in the practice were identified as necessary for the process of improvement.
+
+The analysis in this thesis contributes to efforts of devising and implementing practices based on lean software development, which have the goal of continuous improvement. The results suggest that such practices may benefit from analysis on how they enable the surfacing of disturbances and transformations of the contradictions implied by them.
