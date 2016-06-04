@@ -20,8 +20,7 @@ Confirmability refers to qualities of neutrality and freedom from bias, values a
 
 This study being ethnographical, the goal was not to generate results generalizable outside the study, rather than to describe the observed phenomena systematically and relate the findings in comparable and translatable fashion \citep{lecompte1982problems}. Considering also the activity theoretical perspective taken, \citet{jonassen2012theoretical} warns about the tool being descriptive rather than prescriptive and recommends care to be taken in generalizing the descriptions.
 
-
-
+The researcher was an established member of the community of practice under investigation, which provided benefits in that the observation situation was less intrusive \citep{lethbridge2005studying} and the researcher could draw on more background to make his interpretations of ongoings \citep{robinson2007ethnographically}. Such a position also carries inherent tension  \citep{robinson2007ethnographically}: if the researcher is part of the community of practice, how do would they be able to consider anything 'strange'? The possibility of an effect by this tension on the research may only be mitigated, not altogether removed.
 
 - This is an ethnographical study
   - What does that imply for limitations?
@@ -33,13 +32,7 @@ This study being ethnographical, the goal was not to generate results generaliza
 - We could not show a causal link to waste reduction
 - The audio recordings were not sufficient to show how manipulations of the shared artefacts were done or how they affected the ongoings
 
-- the researcher was an established member of the community of practice under investigation, which provided benefits in that the observation situation was more natural and the researcher could draw on more background to make his interpretations of ongoings
-  - there are drawbacks, however
-  - f the researcher is part of the community of practice, how do would they be able to consider anything 'strange'? Both challenges and advantages. \cite{robinson2007ethnographically}
-    - Tension involved in moving between two worlds: understanding, yet considering strange
-    - Benefits
-      + acceptance by 'tribe'
-      + not getting overwhelmed when following activity
+-
 
 Nature of findings: \cite{robinson2007ethnographically}
 - Problems and solutions
