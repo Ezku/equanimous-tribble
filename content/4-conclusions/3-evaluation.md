@@ -18,6 +18,11 @@ Confirmability refers to qualities of neutrality and freedom from bias, values a
 
 ## Limitations of the study {#limitations}
 
+This study being ethnographical, the goal was not to generate results generalizable outside the study, rather than to describe the observed phenomena systematically and relate the findings in comparable and translatable fashion \citep{lecompte1982problems}. Considering also the activity theoretical perspective taken, \citet{jonassen2012theoretical} warns about the tool being descriptive rather than prescriptive and recommends care to be taken in generalizing the descriptions.
+
+
+
+
 - This is an ethnographical study
   - What does that imply for limitations?
   - What did we not get when we did things this way?
@@ -77,9 +82,3 @@ Experimental research
 #### Application of results
 
 - the aim in application is for comparability and translatability of findings
-
-
-## jonassen2012theoretical Theoretical foundations of learning environments
-
-- Descriptive tool rather than prescriptive
-- Care must be taken in generalizing the descriptions
