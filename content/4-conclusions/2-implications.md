@@ -5,10 +5,10 @@ The following section discusses the implications of this study. Implications are
 
 ## Practical implications
 
-- The dailies were an arena for expansive learning to take place
-- The research suggests that expansive learning may occur over days in a continuous process
-  - this is in contrast to what is suggested by the agile literature: that new input to the development process and improvement of the ways of work would optimally happen in "interventions" every couple of weeks
-  - if such interventionary measure *are* wanted, perhaps their design may be aided by leveraging existing research in the field of activity theory, such as Engestrom's ChangeLab methodology
+- \cite{robinson2007ethnographically} Nature of findings: "Challenging received views can inform and improve practice."
+- The researcher hopes that the account given may challenge the standard, received view of both the usefulness of a daily
+- It may be considered unlikely that a receiver would wish to imitate the practice directly, especially with its recognized downsides such as length.
+- Perhaps a receiver will be able to draw inspiration from the claimed benefits of a different kind of daily and be able to use this to structure their own practice
 
 
 Suggestions:
@@ -61,6 +61,12 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 ## Theoretical implications
 
 The theoretical objective of this study was to gain an understanding of how specific practices in software development may be seen as contributive to a process of continuous and collaborative improvement. An activity theoretical perspective of practices was applied to further this goal such that it could not only explain empirical data but serve as a unifying measure in evaluating practices described in the agile and lean discourses of software development.
+
+
+- The dailies were an arena for expansive learning to take place
+- The research suggests that expansive learning may occur over days in a continuous process
+  - this is in contrast to what is suggested by the agile literature: that new input to the development process and improvement of the ways of work would optimally happen in "interventions" every couple of weeks
+  - if such interventionary measure *are* wanted, perhaps their design may be aided by leveraging existing research in the field of activity theory, such as Engestrom's ChangeLab methodology
 
 
 - The research suggests that the use of activity theory to describe practices in the field of software development has explanatory power
