@@ -37,6 +37,11 @@ Not all primary contradictions afford such easy resolution. In the following fra
 The very existence of work items categorised as fires is contradictory to the team's goals, as they call for attention and effort to be redirected. However, switching tasks from a feature under development represents a big cost, and apparently in this scenario a developer judged the cost too high. The other developer has no alternative but to accept the existence of these contradictory demands. In this case, there is no transformation to be suggested.
 
 
+
+In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted.
+
+The observations go to show that disturbances indeed do occur, and that they may be linked to transformations. However, we might collect and catalogue all of the individual disturbances but still not be much better off in our capability to understand the usefulness of them to the team. As described in section \ref{contradictions}, the fundamental usefulness lies in expansive transformations which happen on longer scales of time and over multiple episodes.
+
 ### Journeys of transformation
 
 In the introductory section the usefulness of a daily was set to question by the fact that it is not a software development activity in itself. To reiterate, no features are delivered, no bugs fixed and no customer served. Therefore, if a use for the daily is to be found, in that it somehow aids software development activities, the use must lie in the relation between the daily and other practices that _do_ constitute software development. From the episodes delineated in \ref{episodes-of-contradiction}, a set was chosen such that their orientation is *not* toward the daily and what happens within but impactful on the outside world. The most important 'story arcs', if you will, were extracted from their original context and presented here compressed form such that we may observe the structural tensions reflected and their resolution via a process of transformation.
