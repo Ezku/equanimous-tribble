@@ -60,7 +60,7 @@ The team's way of working through the inbox items is unsatisfactory at the face 
 The manager concedes that the situation does not have an ambiguous resolution. No transformation follows despite the earlier suggestion which was considered valid by part of the team.
 
 
-In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted.
+In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted. Furthermore, some of the disturbances were clearly linked to how things are *done*, but others merely on how the doing is *modelled*.
 
 The observations go to show that disturbances indeed do occur, and that they may be linked to transformations. However, we might collect and catalogue all of the individual disturbances but still not be much better off in our capability to understand the usefulness of them to the team. As described in section \ref{contradictions}, the fundamental usefulness lies in expansive transformations which happen on longer scales of time and over multiple episodes.
 
