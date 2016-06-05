@@ -41,7 +41,7 @@ Activity theory concerns the analysis of activity systems which are oriented tow
 
 An activity system has a few interesting features in terms of change, learning and innovation. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
 
-### Contradictions as a source of innovation
+### Contradictions as a source of innovation {#contradictions}
 
 Innovation tends to occur when there is pressure to change. Within practices, this pressure may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning,engestrom2001expansive} describes these situations as developmental contradictions in the practice that generate disturbances. Disturbances are episodes of deviation from standard script <!-- FIXME: Sources --> (Engestrom 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
 

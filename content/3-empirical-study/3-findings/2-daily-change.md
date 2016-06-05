@@ -7,15 +7,25 @@ Our inquiry will be twofold. First we will check the material for episodes of qu
 
 ### Episodes of contradiction {#episodes-of-contradiction}
 
+In section \ref{contradictions} we identified four different kinds of contradictions. In this section, occurrences the different contradictions are exemplified through individual episodes.
+
+The first episode represents a primary contradiction with an immediate transformation.
+
+#### Daily 04, `NON-FUNCTIONAL`
+
+> 30:40
+> :   "If we are skipping modules all the time, then we need to move non-functional on top of modules" (`M`)
+> 30:46
+> :   "Makes sense" (`D`)
+> 30:47
+> :   "Nice" (`M`)
+
+A manager observes that the team's kanban boards are ordered such that the driver would be inclined to direct the team to the module continuum board at this point of the daily. However, going through that board is not seen to be of value for the team. The manager suggests that the board be moved out of the way, which the team accepts.
+
+
 ### Journeys of transformation
 
 In the introductory section the usefulness of a daily was set to question by the fact that it is not a software development activity in itself. To reiterate, no features are delivered, no bugs fixed and no customer served. Therefore, if a use for the daily is to be found, in that it somehow aids software development activities, the use must lie in the relation between the daily and other practices that _do_ constitute software development. From the episodes delineated in \ref{episodes-of-contradiction}, a set was chosen such that their orientation is *not* toward the daily and what happens within but impactful on the outside world. The most important 'story arcs', if you will, were extracted from their original context and presented here compressed form such that we may observe the structural tensions reflected and their resolution via a process of transformation.
-
-
-
-#### We are swamped with fires, but are they really all equally important?
-
-#### Minor change requests get in the way of overall progress, yet they're important
 
 #### There is more than one kind of wishlist
 
