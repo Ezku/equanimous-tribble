@@ -22,7 +22,7 @@ The first episode represents a primary contradiction with an immediate transform
 
 A manager observes that the team's kanban boards are ordered such that the driver would be inclined to direct the team to the module continuum board at this point of the daily. However, going through that board is not seen to be of value for the team. The manager suggests that the board be moved out of the way, which the team accepts.
 
-Not all primary contradictions afford such easy resolution. In the following fragment, two developers have an exchange reflecting a more fundamental tension.
+In the previous simple scenario a new modelling of the situation was apparent. Not all primary contradictions afford such easy resolution. In the following fragment, two developers have an exchange reflecting a more fundamental tension.
 
 #### Daily 14, `FIRES`
 
