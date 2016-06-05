@@ -22,6 +22,20 @@ The first episode represents a primary contradiction with an immediate transform
 
 A manager observes that the team's kanban boards are ordered such that the driver would be inclined to direct the team to the module continuum board at this point of the daily. However, going through that board is not seen to be of value for the team. The manager suggests that the board be moved out of the way, which the team accepts.
 
+Not all primary contradictions afford such easy resolution. In the following fragment, two developers have an exchange reflecting a more fundamental tension.
+
+#### Daily 14, `FIRES`
+
+> 14:05
+> :   "`D1`, this was here yesterday. Did you do anything about this?" (`D2`)
+> :   "No" (`D1`)
+> :   "Why not? Fires go always first." (`D2`)
+> :   "Yeah, but I was also working on this [feature]" (`D1`)
+> :   "But that's not a fire" (`D2`)
+> :   "But it was in a stage [where] I didn't want to cut the work" (`D1`)
+
+The very existence of work items categorised as fires is contradictory to the team's goals, as they call for attention and effort to be redirected. However, switching tasks from a feature under development represents a big cost, and apparently in this scenario a developer judged the cost too high. The other developer has no alternative but to accept the existence of these contradictory demands. In this case, there is no transformation to be suggested.
+
 
 ### Journeys of transformation
 
