@@ -59,6 +59,23 @@ The team's way of working through the inbox items is unsatisfactory at the face 
 
 The manager concedes that the situation does not have an ambiguous resolution. No transformation follows despite the earlier suggestion which was considered valid by part of the team.
 
+The next fragment is familiar from daily `03`, presented earlier in section \ref{segments-in-depth}. A developer is explaining a failure discovered in production. Previous to this point in the discussion, the developer has taken measures to address a concern by a product owner and announced to the team that work items that are *fires* but related to *modules* shall be presented in the "module continuum" board. This new method conflicts with the way the team has previously modelled the timeliness requirements of fires as opposed to other tasks, and represents a tertiary contradiction.
+
+#### Daily 03, `PRIORITY LANE`
+
+> 18:00
+> :   "But isn't that kind of a *fire*?" (`M`)
+> 18:03
+> :   "[..] I'm doing everything I can, I have the one other fire first. [..]" (`D`)
+> 18:13
+> :   "[..] where is this kind of task?" (`M`)
+> 18:16
+> :   "It's in the module continuum. [..]"  (`D`)
+> 18:23
+> :   "Okay... but wouldn't it make sense to promote them as a fires also? And not leave them in the module continuum." (`M`)
+
+The developer has, while applying a new approach suggested by the PO and presented earlier, neglected to account for existing practices. The resolution suggested as is to adhere to the existing convention of visualizing fires while also applying the new one.
+
 
 In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted. Furthermore, some of the disturbances were clearly linked to how things are *done*, but others merely on how the doing is *modelled*.
 
