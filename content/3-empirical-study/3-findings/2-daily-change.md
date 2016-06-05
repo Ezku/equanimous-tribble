@@ -74,7 +74,7 @@ The next fragment is familiar from daily `03`, presented earlier in section \ref
 > 18:23
 > :   "Okay... but wouldn't it make sense to promote them as a fires also? And not leave them in the module continuum." (`M`)
 
-The developer has, while applying a new approach suggested by the PO and presented earlier, neglected to account for existing practices. The resolution suggested as is to adhere to the existing convention of visualizing fires while also applying the new one.
+The developer has, while applying a new approach suggested by the PO and presented earlier, neglected to account for existing practices. The resolution suggested is to adhere to the existing convention of visualizing fires while also applying the new one.
 
 The final disturbance presented here will feature a quaternary contradiction, one that represents a challenge in aligning the practices of this team and another. The team is in the process of shipping a bundle of features, which would require the cooperation from a team that is seen to be difficult to reach out to.
 
