@@ -1,7 +1,7 @@
 
 # The lean perspective
 
-In section \ref{agile} we described how agile took off after the prominent failure of plan-driven methods to help with software development, and how Scrum and dailies relate to the picture in terms of everyday software development activities. In this section we're going to cover the field of *lean software development*, see where it diverges from agile and what kind of principles we can discover.
+In section \ref{agile} we described how agile took off after the prominent failure of plan-driven methods to help with software development, and how Scrum and dailies relate to the picture in terms of everyday software development activities. In this section we're going to cover the field of *lean software development*. First, we'll see how lean has a shared heritage with agile. Secondly, we'll find out about how lean principles are applicable to software development, which will finally lead us to kanban systems as a software development practice.
 
 ## Agile's lean heritage
 
@@ -15,7 +15,7 @@ What Schwaber is saying is that while he was able to put together a set of empir
 
 ## Lean and software development
 
-\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s \citep[see eg.][]{ohno1988toyota}, which they describe thusly:
+\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s \citep[see e.g.][]{ohno1988toyota}, which they describe thusly:
 
 > Don't make irreversible decisions in the first place; delay design decisions as long as possible, and when they are made, make them with the best available information to make them correctly.
 
@@ -37,7 +37,7 @@ Of these principles, the first is declared most important and the rest can be se
 
 \citet{poppendieck2003lean} motivate pull systems as a way to address principle 4, *deliver as fast as possible*. The argumentation is profoundly simple: people showing up for work need a way to tell what to do. The alternatives are for you to order them to do something, or give them a way to discover that for themselves. In a fast-moving and complex environment, they argue, only the second option for work coordination is viable. This is attributed to the fact that in a chain of connected events, any variation is amplified, making any predefined scheduling invalid in short order. A pull system, therefore, is devised to make work items visible and enable self-direction such that team members may make the most productive use of their time. The name *kanban* for such a practice derives from Japanese for "card" or "placard" and refers to the tokens which stand in for work items.
 
-The conceptualization of kanban presented by \citet{poppendieck2003lean} could be argued to have little more to it than simply allowing developers themselves pick items from a backlog of work items (described in \ref{scrum-overview}). A literature review by \citet{ahmad2013kanban} points at the current conceptualization of kanban in the context of software development having been born in 2004. The following may be considered the kanban principles \citep{anderson2010kanban}, found to be congruent with the lean ones \citep{ahmad2013kanban}:
+In software development, \citet{poppendieck2003lean} suggest, kanban may take the form of a board on which work item cards flow through a procession of steps defined by the team. This conceptualization of kanban could be argued to have little more to it than simply allowing developers themselves pick items from a backlog of work items (described in \ref{scrum-overview}). A literature review by \citet{ahmad2013kanban} points at the current conceptualization of kanban in the context of software development having been born in 2004. The following may be considered the kanban principles \citep{anderson2010kanban}, found to be congruent with the lean ones \citep{ahmad2013kanban}:
 
 1. Visualize the workflow.
 2. Limit work in progress.
@@ -47,7 +47,7 @@ The conceptualization of kanban presented by \citet{poppendieck2003lean} could b
 
 The clearest benefits \citet{ahmad2013kanban} can find attributed to use of kanban in the literature are better understanding of whole process, improved software quality and improved customer satisfaction. Challenges, on the other hand, include the fact that kanban is not a standalone measure but requires supporting practices (eg. agile ones) and that it necessitates a difficult change in organisational culture. The potential for better understanding of the whole software development process is especially interesting, as \citet{ikonen2010exploring} suggest that kanban supports the ability to *see waste in the process*.
 
-What happens when we take lean principles and find tools to implement them in practice can be described in more general terms. The drive for a collaborative and continuous elimination of waste may be taken as the defining characteristic of a process of *continuous improvement*. That definition is posed by \citet{bhuiyan2005overview}, who in their literature review place lean manufacturing in a whole class of methodologies sharing the characteristic (six sigma, balanced scorecard, and lean six sigma being the others). It would take little imagination to claim that when lean methods are applied in software development, what they serve to enable is likewise continuous improvement.
+What happens when we take lean principles and find tools to implement them in practice can be described in more general terms. The drive for a collaborative and continuous elimination of waste may be taken as the defining characteristic of a process of *continuous improvement* (CI). That definition is posed by \citet{bhuiyan2005overview}, who in their literature review place lean manufacturing in a whole class of methodologies sharing the characteristic (six sigma, balanced scorecard, and lean six sigma being the others). It would take little imagination to claim that when lean methods are applied in software development, what they serve to enable is likewise continuous improvement.
 
 \citet{boer2003continuous} go further to define that when the CI from manufacturing context is overlaid with learning and innovation, it instead becomes *continuous innovation*. We see how, given the view by \citet{poppendieck2003lean} that software development is inherently a learning activity, it could be argued that lean software development is by necessity an exercise in continuous innovation. On the other hand, the distinction can be seen as meaningless in the context of software development. In favor of staying within the lean discourse we will opt for the term continuous improvement to characterise this process.
 

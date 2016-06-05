@@ -3,7 +3,7 @@
 
 ## Discovering Scrum
 
-"Traditional" models of software developments, well-researched and mature \citep{huo2004software}, are heavy. They assume that requirements may be discovered beforehand, that they will not undergo significant change through the duration of a project and that fundamentally, the process of developing software is predictable and repeatable \citep{sutherland2001agile}. By these qualities they can be called *plan-driven* \citep{abrahamsson2002agile}. The quintessential example of a traditional methodology[^methodology] would be the *waterfall*[^waterfall]: gather requirements, devise a solution, program the solution, bring it to customers \citep{sutherland2001agile,huo2004software}. Rinse and repeat.
+There exists a category of software development models called *plan-driven*. \citep{abrahamsson2002agile} These models are well-researched and mature \citep{huo2004software}, but heavy. They assume that requirements may be discovered beforehand, that they will not undergo significant change through the duration of a project and that fundamentally, the process of developing software is predictable and repeatable \citep{sutherland2001agile}. The quintessential example of a plan-driven methodology[^methodology] would be the *waterfall*[^waterfall]: gather requirements, devise a solution, program the solution, bring it to customers \citep{sutherland2001agile,huo2004software}. Rinse and repeat.
 
 [^methodology]: *Methodology* is an ascriptive description of techniques: what to do, how, when, by whom and so on.
 
@@ -66,4 +66,4 @@ During this time, the team members address three questions. The rules may change
 
 As the reader might agree, dailies are very simple to describe. Indeed, that is part of their allure as part of the agile practice toolkit, second in uptake only to iterations \citep{west2010agile}. We have thus described the essential constituents of a daily scrum, daily stand-up, daily meeting or henceforth just *daily*: discussing progress with everyone every day to focus and empower the team. We have also provided some clarification on how the daily relates to the texture of agile software development activities as a whole.
 
-Due to its popularity, Scrum-inspired agile is reality to many in the industry. But we can imagine that you're not content with adhering to a pre-bundled set of methods. Is there somewhere else to go from here? In the next section we'll take a dive to the industrial heritage of agile and see if, instead of ascribed, empirically discovered methods, we can find something more fundamental.
+Due to its popularity, Scrum-inspired agile is reality to many in the industry. However, being a methodology, Scrum may leave you without direction should you wish to adapt its practices to suit your own context. In the next section we'll take a dive to the industrial heritage of agile and see if, instead of ascribed, empirically discovered methods, we can find something more fundamental.

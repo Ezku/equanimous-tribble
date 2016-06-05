@@ -5,14 +5,9 @@
 
 > **TRQ1:** How does a daily in agile software development support the development team?
 
-Agile software development refers to a class of software development methodologies, which may be seen as belonging to a particular culture or perhaps even ideological movement. Agile may be characterised by incremental software delivery, cooperativity between developers and clients, straightforwardness and adaptability, and adaptivity to changing circumstances.
+Agile software development refers to a class of software development methodologies, which may be seen as belonging to a particular culture or perhaps even ideological movement. Agile may be characterised by incremental software delivery, cooperativity between developers and clients, straightforwardness and adaptability, and adaptivity to changing circumstances. The daily belongs among the most popular of agile practices. It was coined by early practitioners of the Scrum methodology, also belonging to the strongest influencers in the industry.
 
-The daily belongs among the most popular of agile practices. It was coined by early practitioners of the Scrum methodology, also belonging to the strongest influencers in the industry. The daily is a short, all-hands meeting held every day.
-
-Dailies occur in the context of sprints, development cycles which last for a preset time on the order of weeks. A sprint has a predefined list of work items assigned to it, representing the most important requirements to be satisfied.
-In the daily, participants discuss the progress of work items and whether help is needed to resolve impediments to progress.
-
-An agile daily supports the development team by providing a daily ritual which empowers the team members to aid each other and helps them focus on the essential in the context of a sprint with defined goals.
+The daily is a short, all-hands meeting held every day. Dailies occur in the context of sprints, development cycles which last for a preset time on the order of weeks. A sprint has a predefined list of work items assigned to it, representing the most important requirements to be satisfied. In the daily, participants discuss the progress of work items and whether help is needed to resolve impediments to progress. An agile daily thus supports the development team by providing a daily ritual which empowers the team members to aid each other and helps them focus on the essential in the context of a sprint with defined goals.
 
 > **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
@@ -22,7 +17,7 @@ In rapidly changing and complex environments, work coordination is a difficult p
 
 The use of a kanban system in lean software development supports continuous improvement in two ways. Firstly, it directly supports faster value delivery, which contributes to continuous improvement by enabling learning. Secondly, it supports seeing waste in the workflow, which potentially allows for addressing the generation of that waste.
 
-> **TRQ3:** How can activity theory be used to observe continuous improvement in practice?
+> **TRQ3:** How can the practice based approach be used to observe continuous improvement in practices?
 
 Improvement in general may be seen as a social process of innovation, which can apply to practices. Innovation in social interactions has been studied in innovative knowledge communities. Activity theory is a practice-based approach with which we can look into innovation.
 
@@ -36,7 +31,7 @@ Activity theory may be used to observe continuous improvement in practice by see
 
 The following research questions are posed to the empirical research data.
 
-> **ERQ1**: How does the observed daily practice  compare to theoretical representations of daily Scrum and Kanban systems?
+> **ERQ1**: How is the observed daily positioned with regard to descriptions of Scrum daily and kanban systems in the theory?
 
 > **ERQ2**: How do contradictions and their transformations manifest in a daily?
 
