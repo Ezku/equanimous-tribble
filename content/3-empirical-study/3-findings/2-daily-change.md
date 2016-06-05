@@ -49,8 +49,6 @@ The following fragment exemplifies a secondary contradiction. The team has encou
 
 The team's way of working through the inbox items is unsatisfactory at the face of these specific items. A manager suggests an immediate resolution such that the inbox be split in two, which would allow the team not to spend time on attending to work items that they "know" they cannot address. A developer suggests that parties external to the team would need to readjust and learn how to perform this splitting, which would represent a quaternary contradiction, should the suggested transformation take place. However, the rest of the discussion reveals that this new influx of work items is desirable by part of the team.
 
-> 24:12
-> :   "Which one of the module tasks that we have shovelled had some information?" (`M`)
 > 24:19
 > :   "I think it's nice for everyone to see how broken modules are or are not" (`D`)
 > :   *laughter* (`M`)
