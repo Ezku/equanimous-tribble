@@ -27,7 +27,7 @@ Not all primary contradictions afford such easy resolution. In the following fra
 #### Daily 14, `FIRES`
 
 > 14:05
-> :   "`D1`, this was here yesterday. Did you do anything about this?" (`D2`)
+> :   "`D1`, this [fire] was here yesterday. Did you do anything about this?" (`D2`)
 > :   "No" (`D1`)
 > :   "Why not? Fires go always first." (`D2`)
 > :   "Yeah, but I was also working on this [feature]" (`D1`)
