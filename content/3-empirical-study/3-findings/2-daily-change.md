@@ -76,6 +76,26 @@ The next fragment is familiar from daily `03`, presented earlier in section \ref
 
 The developer has, while applying a new approach suggested by the PO and presented earlier, neglected to account for existing practices. The resolution suggested as is to adhere to the existing convention of visualizing fires while also applying the new one.
 
+The final disturbance presented here will feature a quaternary contradiction, one that represents a challenge in aligning the practices of this team and another. The team is in the process of shipping a bundle of features, which would require the cooperation from a team that is seen to be difficult to reach out to.
+
+#### Daily 16, `OUTBOX`
+
+> 14:10
+> :   "'[Other team] is almost but not quite [..] hard to reach'" (`D1` reading out item)
+> 14:48
+> :   "It was [..] hard for me to go these through with [representative from other team] because we had to go really deep .. into .. _whose_ responsibility it is to discuss with `M1` and everything. [..]" (`M2`)
+> 15:08
+> :   "And are we getting our modules released and stuff like that?" (`D1`)
+> :   "No [..] we're getting [entirely unrelated things]" (`M2`)
+> 15:16
+> :   "We're getting modules released by bypassing [the other team]" (`D2`)
+> :   "So they're still [..] hard to reach?" (`D1`)
+> :   "Yes. But we've actually agreed to a weekly meeting regarding modules with [the other team]" (`D2`)
+> 15:35
+> :   "Until that has worked for twelve weeks in a row... we have a counter." (`M2`)
+> :   "So how about putting that to longstanding?" (`D1`)
+
+The situation appears to be tentatively resolved by a scheduled coming-together of the two teams. Whether or not the realignment is successful is to be decided, however, and the team decides to leave a reminder in the longstanding section of the outbox for tracking the outcome.
 
 In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted. Furthermore, some of the disturbances were clearly linked to how things are *done*, but others merely on how the doing is *modelled*.
 
