@@ -1,7 +1,7 @@
 
 ## Episodes of contradiction {#episodes-of-contradiction}
 
-In section \ref{typical-segment} we looked into how a daily happens and what kinds of activities a daily constitutes. Section \ref{structural-change} linked structural change in a daily to change in kanban boards, but the question of how that change happens was left open. Ground will be laid for answering **ERQ2** by investigating contradictions as the source of change. In section \ref{contradictions} we identified four different kinds of contradictions, and in this section, occurrences of the different contradictions are exemplified through individual episodes.
+In section \ref{typical-segments} we looked into how a daily happens and what kinds of activities a daily constitutes. Section \ref{structural-change} linked structural change in a daily to change in kanban boards, but the question of how that change happens was left open. Ground will be laid for answering **ERQ2** by investigating contradictions as the source of change. In section \ref{contradictions} we identified four different kinds of contradictions, and in this section, occurrences of the different contradictions are exemplified through individual episodes.
 
 The first episode represents a primary contradiction with an immediate transformation.
 
@@ -53,7 +53,7 @@ The team's way of working through the inbox items is unsatisfactory at the face 
 
 The manager concedes that the situation does not have an ambiguous resolution. No transformation follows despite the earlier suggestion which was considered valid by part of the team.
 
-The next fragment is familiar from daily `03`, presented earlier in section \ref{segments-in-depth}. A developer is explaining a failure discovered in production. Previous to this point in the discussion, the developer has taken measures to address a concern by a product owner and announced to the team that work items that are *fires* but related to *modules* shall be presented in the "module continuum" board. This new method conflicts with the way the team has previously modelled the timeliness requirements of fires as opposed to other tasks, and represents a tertiary contradiction.
+The next fragment is familiar from daily `03`, presented earlier in section \ref{typical-segments}. A developer is explaining a failure discovered in production. Previous to this point in the discussion, the developer has taken measures to address a concern by a product owner and announced to the team that work items that are *fires* but related to *modules* shall be presented in the "module continuum" board. This new method conflicts with the way the team has previously modelled the timeliness requirements of fires as opposed to other tasks, and represents a tertiary contradiction.
 
 #### Daily 03, `PRIORITY LANE`
 
