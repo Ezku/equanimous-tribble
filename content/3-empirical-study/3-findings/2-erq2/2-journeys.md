@@ -11,14 +11,16 @@ From the episodes found in the empirical data, a set was chosen such that their 
 
 > 05:10
 > :   "Let's put this [new work item] on the 'required' list" (`D1`)
-> 05:11
+<!-- > 05:11
 > :   "Okay, so... wishlist?" (`D2`)
 > 05:16
-> :   "Well..." (`D3`)
+> :   "Well..." (`D3`) -->
 > 05:18
 > :   "This is a funny thing to be putting on a wishlist" (`D2`)
 > 05:18
 > :   "But at least it's not a fire" (`D1`)
+
+This is the first time that the team can be observed to identify a problem with the way they handle inbox items. So far, standard procedure has been to differentiate between fire and wishlist items. Here, they come across a work item that does not fit their conception of either. The item is simultaneously less urgent than a fire yet more important than a wishlist item, which allows a latent primary contradiction to be surfaced.
 
 #### Daily 14, `OUTBOX`
 
