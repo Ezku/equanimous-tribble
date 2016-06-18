@@ -88,3 +88,6 @@ The theoretical objective of this study was to gain an understanding of how spec
 - Consider the possibility where we wanted to instead investigate the specific way the team uses the kanban boards as a knowledge object.
 - In this case we could've done well by picking the *conceptual artefact* based model of knowledge building by \citet{bereiter2002education}, contrasted to Engeström's model by \citet{hakkarainen2004communities}.
 - A study where the conceptual artefacts are taken in focus could, for instance, look deeper into the team's use of their tools and how they reflect the conceptual models in use.
+
+- Further study would be required to gain insight into how a daily-like event should be used and structured to optimal benefit and which situational factors affect choices around structuring.
+- Open directions of questioning include the assumption of a *daily* event, or whether an alternate pacing should be considered, along with whether this choice affects the ways in which disturbances and transformations crop up.
