@@ -18,6 +18,8 @@ Suggestions:
 - **Embrace disturbances as indicative of change potential.** Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
 - **Expect further contradictions.** Resistance to change is a real thing and is exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation.
 
+The observed daily reflected all of these suggested qualities at least to a degree; yet it would be false to claim the practice as an unqualified success. The study showed that there is value in spending time on a daily, but perhaps the observed daily was still too long, too unfocused, and too neglecting of the value of its participants' time. The fact that participants were observed anxious to move forward from segment to segment could be interpreted as an indicator of boredom or dissatisfaction. The actions taken in dailies also did not have an especially democratic nature, with manager participants taking a large degree of the initiative.
+
 <!--
 
 How could the observed daily be improved with these guidelines?
