@@ -15,11 +15,13 @@ It would be false to claim the observed daily practice as an unqualified success
 Considering the mentioned drawbacks and the obvious situated nature of a specific practice, recommending any of the concrete methods in use in the observed daily would be folly. However, the research points out specific qualities and aims which the observed daily reflected at least to a degree and which would be beneficial for those applying lean principles to keep in mind. The researcher humbly submits the following suggestions for consideration.
 
 - Focus on the journey of improvement.
-- **Provide an arena for collaboratively inspecting a workflow.** This serves the dual purpose of facilitating collaborative understanding of the work in practice and enabling identification of contradictions. Modelling of transformations on the practice benefits from an intersubjective understanding of the current state of practice.
+- Provide an arena for collaboratively inspecting a workflow.
 - **Embrace disturbances as indicative of change potential.** Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
 - **Expect further contradictions.** Resistance to change is a real thing and is exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation.
 
 Focus on the ability to change and the collaborative journey to improvement. Because there is no one right way to do things, the important thing is not to determine such a way and monitor whether your execution is on target. Instead, it is beneficial to design for mechanisms which support change and learning, not enforcing static structures.
+
+A modelling of your team's workflow does little to help the team improve if there is no time and place to interpret and react to what the modelling is telling you. Provide an arena for workflow to be inspected collaboratively. Such an arena serves the dual purpose of facilitating the creation of collaborative understanding of the work in practice and enabling identification of contradictions. A resulting intersubjective understanding of the current state of practice should help out in being able to collaboratively model transformations of the practice.
 
 <!--
 
