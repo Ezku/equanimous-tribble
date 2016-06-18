@@ -27,6 +27,8 @@ Improvement feeds on disturbances. Foster a culture in which failures, mistakes 
 
 There will be resistance to change. It manifests through contradictions exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation. Yielding at the first sign of opposition is not a recipe for affecting change. Instead, leverage collaborative capability to transform ways of doing and thinking – this is how effective change is achieved, not through a process of imposition which will leave latent contradictions unresolved.
 
+These suggestions are a detachment from the way agile software development might be taught to practitioners. They caution against cargo cult and dogma, asking that a practitioner understand why they are doing what they do and how to go about changing their ways of operating. Yet they also communicate that directions of improvement are fundamentally found in collaborative action, and that the acts of improvement also need to be taken collaboratively. The suggestions offer lean practitioners reminders on constraints and realities which may support development of ways of working.
+
 <!--
 
 How could the observed daily be improved with these guidelines?
