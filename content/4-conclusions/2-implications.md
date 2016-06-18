@@ -10,15 +10,14 @@ The following section discusses the implications of this study. Implications are
 - It may be considered unlikely that a receiver would wish to imitate the practice directly, especially with its recognized downsides such as length.
 - Perhaps a receiver will be able to draw inspiration from the claimed benefits of a different kind of daily and be able to use this to structure their own practice
 
+It would be false to claim the observed daily practice as an unqualified success. The study showed that there is value in spending time on a daily, but perhaps the observed daily was still too long, too unfocused, and too neglecting of the value of its participants' time. The fact that participants were observed anxious to move forward from segment to segment could be interpreted as an indicator of boredom or dissatisfaction. The actions taken in dailies also did not have an especially democratic nature, with manager participants taking a large degree of the initiative, which again might be taken antithetical to aims of self-directed action espoused in lean.
 
-Suggestions:
+Considering the mentioned drawbacks and the obvious situated nature of a specific practice, recommending any of the concrete methods in use in the observed daily would be folly. However, the research points out specific qualities and aims which the observed daily reflected at least to a degree and which would be beneficial for those applying lean principles to keep in mind. The researcher humbly submits the following suggestions for consideration:
 
 - **Focus on the journey of improvement.** Design for mechanisms which support change and learning, not enforcing static structures. There is no one right way to do things.
 - **Provide an arena for collaboratively inspecting a workflow.** This serves the dual purpose of facilitating collaborative understanding of the work in practice and enabling identification of contradictions. Modelling of transformations on the practice benefits from an intersubjective understanding of the current state of practice.
 - **Embrace disturbances as indicative of change potential.** Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
 - **Expect further contradictions.** Resistance to change is a real thing and is exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation.
-
-The observed daily reflected all of these suggested qualities at least to a degree; yet it would be false to claim the practice as an unqualified success. The study showed that there is value in spending time on a daily, but perhaps the observed daily was still too long, too unfocused, and too neglecting of the value of its participants' time. The fact that participants were observed anxious to move forward from segment to segment could be interpreted as an indicator of boredom or dissatisfaction. The actions taken in dailies also did not have an especially democratic nature, with manager participants taking a large degree of the initiative.
 
 <!--
 
