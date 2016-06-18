@@ -23,7 +23,7 @@ Focus on the ability to change and the collaborative journey to improvement. Bec
 
 A modelling of your team's workflow does little to help the team improve if there is no time and place to interpret and react to what the modelling is telling you. Provide an arena for workflow to be inspected collaboratively. Such an arena serves the dual purpose of facilitating the creation of collaborative understanding of the work in practice and enabling identification of contradictions. A resulting intersubjective understanding of the current state of practice should help out in being able to collaboratively model transformations of the practice.
 
-Improvement feeds on disturbances. Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
+Improvement feeds on disturbances. Foster a culture in which failures, mistakes and contradictory demands may be brought to light as they occur. Structure practices in such a way that they do not break down in the presence of disturbances, so that the disturbances do not need to be extinguished and may instead serve as fuel for collaborative learning.
 
 There will be resistance to change. It manifests through contradictions exerted by the part of practice you are trying to change, different parts of the same practice, and other interacting practices. Expect these sources of friction and be ready to address them in order to continue with a fruitful process of transformation.
 
