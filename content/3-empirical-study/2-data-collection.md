@@ -108,7 +108,7 @@ Most boards used in dailies were ones of persistent nature. They are not explici
 
 *Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of this is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work done here can generally be shipped to production immediately after completion.
 
-The use and concrete nature of these segments is described more in depth in section \ref{daily-structure}. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}.
+The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}.
 
 \csvautolongtable[
   table head={
