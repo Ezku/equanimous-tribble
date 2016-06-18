@@ -70,11 +70,7 @@ The daily is a crisscross network of interdependencies to activities and thus pr
 
 The theoretical objective of this study was to gain an understanding of how specific practices in software development may be seen as contributive to a process of continuous and collaborative improvement. An activity theoretical perspective of practices was applied to further this goal such that it could not only explain empirical data but serve as a unifying measure in evaluating practices described in the agile and lean discourses of software development.
 
-
-- The dailies were an arena for expansive learning to take place
-- The research suggests that expansive learning may occur over days in a continuous process
-  - this is in contrast to what is suggested by the agile literature: that new input to the development process and improvement of the ways of work would optimally happen in "interventions" every couple of weeks
-  - if such interventionary measure *are* wanted, perhaps their design may be aided by leveraging existing research in the field of activity theory, such as Engestrom's ChangeLab methodology
+The dailies were seen as an arena for expansive learning to take place. The research suggests that expansive learning within lean software development may occur over a time span of days in a continuous process. This is in contrast to the timeboxed "sprint" approach from agile literature, which implies that new input to the process and improvement of the ways of work should happen in interventionary reflection sessions every couple of weeks. If such measures *are* wanted, perhaps their design may be aided by leveraging existing research on interventions from the field of activity theory, such as the ChangeLab method by \citet{engestrom1996change}.
 
 
 - The research suggests that the use of activity theory to describe practices in the field of software development has explanatory power
