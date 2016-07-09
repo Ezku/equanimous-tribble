@@ -58,20 +58,23 @@ The scope of possible options is further expanded in the next daily. A work item
 
 Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in, thus giving rise to `MONEYBOX`. The secondary contradiction is resolved by the conceptualisation of a new kind of category, allowing the model to better reflect the team's understanding and intent. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
 
+The next fragment presents the team in the act of creating another new place for work items. In doing so, the team frames itself as a stakeholder in the equation of work organisation, and as being capable of declaring things being worthy of doing, of collecting work items to backlogs. Compared to the previous state of affairs this is an empowerment and an expansion of the team's capabilities. The team is beginning to graduate from yes/no, now/never classifier of input to a more nuance-capable actor.
 
 #### Daily 16, `OUTBOX`
 
 > 37:50
-> :   "Do we some kind of list or ability to make a list of stuff that's not in supersonic but should be? Because that's a project"
-> :   "No"
-> :   "But do we have the ability to make a list? Do we even know what these things are?"
+<!-- > :   "Do we some kind of list or ability to make a list of stuff that's not in [part of the platform] but should be? Because that's a project"
+> :   "No" -->
+> :   "But do we have the ability to make a list? Do we even know what these things [that are not part of the platform but should be] are?"
 > 39:20
 > :   "Where's the project?"
 > :   "Would you like me to make one now?"
 > :   "Wouldn't it make sense?"
 > 39:35
-> :   "What's the theme called?"
+<!-- > :   "What's the theme called?" -->
 > :   "Couldn't we have like 'module core' or something?"
+
+We notice that in this interaction the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team.
 
 #### Daily 17, `MONEYBOX`
 
