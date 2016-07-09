@@ -5,20 +5,22 @@ In the introductory section the usefulness of a daily was set to question by the
 
 From the episodes found in the empirical data, a set was chosen such that their orientation is *not* toward the daily and what happens within but impactful on the outside world. They were curated into journeys, episodes which appeared related through their contradictions and their transformations. In this section, we follow one of those journeys in depth. We're going to find out about what was discussed in \ref{structural-change}, segments which prominently appeared and then vanished at the latter part of the observation period.
 
+The journey starts with the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item.
+
 #### Daily 09, `INBOX`
 
 > 05:10
 > :   "Let's put this [new work item] on the 'required' list" (`D1`)
-<!-- > 05:11
+> 05:11
 > :   "Okay, so... wishlist?" (`D2`)
-> 05:16
+<!-- > 05:16
 > :   "Well..." (`D3`) -->
 > 05:18
 > :   "This is a funny thing to be putting on a wishlist" (`D2`)
 > 05:18
 > :   "But at least it's not a fire" (`D1`)
 
-This is the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item. The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, no attempt at transformation follows: the resolution seems to be simply inaction, with the item left in the inbox for later. <!-- Is this true? -->
+The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, no attempt at transformation follows: the resolution seems to be simply inaction, with the item left in the inbox for later. <!-- Is this true? -->
 
 It takes a while for the issue to brew and mature. Five dailies later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
 
