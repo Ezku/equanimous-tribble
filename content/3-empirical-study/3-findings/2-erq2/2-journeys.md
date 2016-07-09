@@ -56,7 +56,7 @@ The scope of possible options is further expanded in the next daily. A work item
 > 31:20
 > :   "We should have a box, let's call it 'moneybox'"
 
-Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in. The secondary contradiction is thus resolved by the conceptualisation of a new kind of category. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
+Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in, thus giving rise to `MONEYBOX`. The secondary contradiction is resolved by the conceptualisation of a new kind of category, allowing the model to better reflect the team's understanding and intent. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
 
 
 #### Daily 16, `OUTBOX`
