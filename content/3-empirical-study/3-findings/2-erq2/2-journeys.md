@@ -18,20 +18,24 @@ From the episodes found in the empirical data, a set was chosen such that their 
 > 05:18
 > :   "But at least it's not a fire" (`D1`)
 
-This is the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item. The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, no attempt at transformation follows: the resolution is simply inaction, and the item is left in the inbox for later.
+This is the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item. The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, no attempt at transformation follows: the resolution seems to be simply inaction, with the item left in the inbox for later. <!-- Is this true? -->
+
+It takes a while for the issue to brew and mature. Five dailies later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
 
 #### Daily 14, `OUTBOX`
 
 > 21:33
-> :   "I guess wishlist or something would be appropriate?"
+> :   "I guess wishlist or something would be appropriate?" (The presented alternative is rejected by silence.<!-- Is this true? -->)
 > 22:05
 > :   "Has it been through inbox?"
 > :   "No. It's because that doesn't need to be done."
 
 > 27:15
 > :   "-- it's pending a project.. There's no case"
-> :   "Can we throw this to [release cycle] #23?"
+> :   "Can we throw this to [a release cycle]?"
 > :   "No, we won't be doing it"
+
+This time, instead of being satisfied with their declaration of an item being unfit for the apparent categories, the team does attempt to model the situation such that a suitable place could be found. The team's action demonstrates the existence and attempted resolution of a secondary contradiction, which however goes as unresolved as the previous primary contradiction.
 
 #### Daily 15, `FIRES`
 
