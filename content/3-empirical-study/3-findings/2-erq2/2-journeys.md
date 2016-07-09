@@ -5,8 +5,6 @@ In the introductory section the usefulness of a daily was set to question by the
 
 From the episodes found in the empirical data, a set was chosen such that their orientation is *not* toward the daily and what happens within but impactful on the outside world. They were curated into journeys, episodes which appeared related through their contradictions and their transformations. In this section, we follow one of those journeys in depth. We're going to find out about what was discussed in \ref{structural-change}, segments which prominently appeared and then vanished at the latter part of the observation period.
 
-<!-- The focus here is the transformation we observed earlier: where did moneybox, marketing box et al come from -->
-
 #### Daily 09, `INBOX`
 
 > 05:10
@@ -20,7 +18,7 @@ From the episodes found in the empirical data, a set was chosen such that their 
 > 05:18
 > :   "But at least it's not a fire" (`D1`)
 
-This is the first time that the team can be observed to identify a problem with the way they handle inbox items. So far, standard procedure has been to differentiate between fire and wishlist items. Here, they come across a work item that does not fit their conception of either. The item is simultaneously less urgent than a fire yet more important than a wishlist item, which allows a latent primary contradiction to be surfaced.
+This is the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item. The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, no attempt at transformation follows: the resolution is simply inaction, and the item is left in the inbox for later.
 
 #### Daily 14, `OUTBOX`
 
