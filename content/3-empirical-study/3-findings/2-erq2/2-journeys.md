@@ -37,7 +37,9 @@ It takes a while for the issue to brew and mature. Five dailies later we find th
 > :   "Can we throw this to [a release cycle]?"
 > :   "No, we won't be doing it"
 
-This time, instead of being satisfied with their declaration of an item being unfit for the apparent categories, the team does attempt to model the situation such that a suitable place could be found. The team's action demonstrates the existence and attempted resolution of a secondary contradiction, which however goes as unresolved as the previous primary contradiction.
+This time, instead of being satisfied with their declaration of an item being unfit for the apparent categories, the team does attempt to model the situation such that a suitable place could be found. The team's action demonstrates the existence and attempted resolution of a secondary contradiction, which goes as unresolved as the previous primary contradiction. Wherever the item is placed after this interaction, it's apparent the team isn't going to be satisfied. However, the team does clear one hurdle: now that the context of the discussion is `OUTBOX`, options other than wishlist and fire present themselves, and handling the work item as part of a release cycle is discussed.
+
+The scope of possible options is further expanded in the next daily. A work item that was initially processed as a fire is identified as actually not requiring action. Reference is made to the item's similarity with the one from the previous fragment. The work item depends on an external party, but is not impeded. It is done for a client but the scope is the whole product platform, and it's a technical customer need, but doesn't need to be resolved immediately.
 
 #### Daily 15, `FIRES`
 
@@ -46,7 +48,7 @@ This time, instead of being satisfied with their declaration of an item being un
 > 29:13
 > :   "Is this like a non-core, pending for project thing?"
 > 29:28
-> :   "Why not move this to one of the releases for composer? [..]"
+> :   "Why not move this to [a release cycle]?"
 > 29:50
 > :   "Do we have a project for [client]? Can it be there?"
 > 30:40
@@ -54,7 +56,8 @@ This time, instead of being satisfied with their declaration of an item being un
 > 31:20
 > :   "We should have a box, let's call it 'moneybox'"
 
-The work item depends on an external party, but is not impeded. It is done for a client but the scope is the whole product platform. And it's a technical customer need, but doesn't need to be resolved immediately.
+Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in. The secondary contradiction is thus resolved by the conceptualisation of a new kind of category. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
+
 
 #### Daily 16, `OUTBOX`
 
