@@ -133,19 +133,16 @@ The mere existence of a board affords the act of putting work items on it. That 
 
 The contradiction is a secondary one, having to do with a recently introduced board and whether a new the work item under discussion fits there. A transformation of the concept of `MONEYBOX` takes place, as a rationalization is presented and accepted – the situation is resolved by the work item becoming an example of an acceptable thing to be placing in the `MONEYBOX`.
 
+A lot of noteworthy interactions happen in this very same daily. Next we'll find the team coming to grips with the use of a `MARKETING BOX`, introduced from the outside. The introduction bears relation to the previous agency-taking behavior of this team observed in daily `16`. The board itself belongs to a category of boards where stakeholdership of a work item is the determining factor: who is it that cares about the completion of this item?
 
-Marketing has a new board on which they want to reflect their own priority for product improvements.
-Tracking the use of MARKETING BOX gets its own longstanding outbox item
-Tertiary: reconciliation of new “MARKETING BOX” practice vs existing OUTBOX practice. Quaternary: realignment with practices of another team.
-
-
-+ there's a new MARKETING (inbox?) where they will shovel and prioritize their top 10 things instead of having them hang around in wishlist where we can't act on them appropriately anyways
-
+#### Daily 19, `INBOX`
 > 19:45
-> :   "Marketing will read all the items in the wishlist and put them in... marketing?"
-> :   "Yes, we have this very very long wishlist. I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [marketing]... they'll get a top 10 priority and the rest is still wishlist... when there's top10 we can maybe take one off [the top]"
-> :   "So, outbox, longstanding"
-> :   "yeah, we need to see that this is ... [done]"
+> :   "Marketing will read all the items in the wishlist and put them in... [`MARKETING BOX`]?"
+> :   "Yes, we have this very very long wishlist. [...] <!-- I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [`MARKETING BOX`]... --> [Items in the wishlist] get a top 10 priority and the rest is still wishlist... when there's top 10 we can maybe take one off [the top]"
+> :   "So, `OUTBOX`, longstanding"
+> :   "Yeah, we need to see that this is ... [done]"
+
+From the perspective of the other team, this interaction could reflect a quaternary contradiction between their new practice and this team's existing ones. We see that the team cares about whether the new practice starts working, and reflects this intent by modelling the situation as a work item in `OUTBOX`. The latter act may be taken as a step toward realigning the team's orientation and thus resolving the quaternary contradiction.
 
 
 
