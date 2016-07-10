@@ -102,30 +102,23 @@ The next fragment finds the team rejecting a work item as reflecting an overly s
 <!-- > :   "I don't think so" -->
 <!-- > :   "I don't know what we should do but I don't think we should do a task like that" -->
 > 26:25
-> :   "Hey, this is a module core thing, right?"
+> :   "Hey, this is a `MODULE CORE` thing, right?"
 
-The situation surfaces a primary contradiction in that there appears to be a conflict between the need for holistic, long-term thinking and quick, one-off fixes. This is resolved by rejecting the initial plan of a one-off fix and rephrasing the related work item. A secondary contradiction also appears when the team is unable to find a place for the rephrased work item. The previously created `MODULE CORE` board is appropriated for this purpose, reconceptualizing it as being capable of admitting the work item, thus allowing the team to continue satisfied with the outcome.
+The situation surfaces a primary contradiction in that there appears to be a conflict between the need for holistic, long-term thinking and quick, one-off fixes. This is resolved by rejecting the initial plan of a one-off fix and rephrasing the related work item. A secondary contradiction also appears when the team is unable to find a place for the rephrased work item. The previously created `MODULE CORE` board is appropriated for this purpose, reconceptualizing it as being capable of admitting the work item. With this transformation in place the team continues satisfied with the outcome.
 
-
-
-
-
-The team identifies a work item that they identify as needing attention but which is not critical and which may not be taken action with at the moment.
+Another need related to longer term thinking presents itself in the same daily. The team identifies a work item that they identify as needing attention but which is not critical and which may not be taken action with at the moment. This time, the discussion takes a quick leap to the pattern of solutions applied before: would a new box be needed?
 
 #### Daily 18, `OUTBOX`
 
 > 35:45
 > :   "So this is done?"
 > :   "This is still an issue for this single app"
-> :   "Should we have some kind of what-the-fuck box? Or do we have a project called what the fuck?"
+> :   "Should we have some kind of [..] box? Or do we have a project [..]?"
 > 36:15
-> :   "Should we have a WATBOX? Because we have so many things that are not..."
-> :   "That we can leave there and go them through like once a month. Watbox goes next to moneybox."
+> :   "Should we have a `WATBOX`? Because we have so many things that [..]"
+> :   "That we can leave there and go them through like once a month. `WATBOX` goes next to `MONEYBOX`."
 
-WATBOX created
-
-Primary. Secondary.
-
+The double bind of this situation can be described as follows: There's a need for following up on certain work items after an indeterminate amount of time. But if these items are left in `OUTBOX`, the team has to deal with them (e.g. by skipping) in every daily, which is undesirable. Proceeding to a secondary contradiction – on the other hand, if the items are not seen during the course of a daily, how would action ever be taken? The resolution is to not only have a `WATBOX`, but do decide on what is evidently a different treatment of that box as opposed to others so far.
 
 The team receives a new work item which could represent a customer need but likely does not at the moment, or at least it would not bring in paying customers.
 
