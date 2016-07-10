@@ -19,6 +19,18 @@ The team is careful to limit their work in progress as much as they can, but rea
 
 In summary, the use of a kanban system with the practice of a daily allows the team to apply virtually all of the kanban principles, which taken together support the lean goal of continuous improvement. The daily also allows the team to accept feedback and adjust their priorities on work to be completed on a day-to-day basis. This distinction from the Scrum daily may be seen as significant, expanding the scope of activity from "progress of predefined work items" to "redefining work and its priorities". It comes at a cost, however, in that the observed dailies were a significant expenditure in terms of the development team's time.
 
+> **ERQ2**: How do contradictions and their transformations manifest in a daily?
+
+- Define the daily as a practice
+- Delineate disturbances
+- Define contradictions
+- Define transformations
+- How did these manifest in the daily
+- What does this mean
+  - What kind of things characterised as learning, growing and changing did we find?
+
+The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
+
 ## Answer to the research problem
 
 > **RP:** How can the practice of a daily in conjunction with a kanban system support continuous improvement?
