@@ -76,7 +76,7 @@ The next fragment presents the team in the act of creating another new place for
 
 We notice in this interaction that the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team. The contradiction resolved is the fact of being unable to reflect that state of need in the model, and the resolution is to use the team's newfound powers to extend the model accordingly and create `MODULE CORE`.
 
-It is at this point that the team needs to face the practical effects of creating new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily.
+It is at this point that the team needs to face the practical effects of having created new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily.
 
 #### Daily 17, `MONEYBOX`
 
