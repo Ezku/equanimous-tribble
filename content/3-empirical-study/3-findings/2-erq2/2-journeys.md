@@ -89,19 +89,30 @@ It is at this point that the team needs to face the practical effects of creatin
 
 It's found that the `MONEYBOX` needs to be further refined to support the team's use of it in the daily. Recognizing this tertiary contradiction between the new part of practice and the existing practice of effectively going through work items, the team promptly resolves the problem by suggesting that new status labels be applied.
 
+A work item is rejected as having the wrong approach. The team again doesn't seem to have a right kind of place for the rephrased work item. The solution from before is suggested.
+
 #### Daily 18, `INBOX`
 
 > 25:45
-> :   "You know better what needs to be done, but we need to be building a platform"
+<!-- > :   "You know better what needs to be done, but we need to be building a platform" -->
 > :   "So we put this in the module backlog, but under a different description... or, wishlist, or..?"
-> :   "What?"
+<!-- > :   "What?" -->
 > :   "What do we do?"
-> :   "If there's a supersonic-and-frontend backlog"
-> :   "I don't think so"
-> :   "I don't know what we should do but I don't think we should do a task like that"
+<!-- > :   "If there's a supersonic-and-frontend backlog" -->
+<!-- > :   "I don't think so" -->
+<!-- > :   "I don't know what we should do but I don't think we should do a task like that" -->
 > 26:25
 > :   "Hey, this is a module core thing, right?"
 
+More work items are identified as belonging to MODULE CORE. The practice gradually starts to set in: team members see the new boxes as an option to take for inbox items. The MODULE CORE box is reconceptualized to admit this kind of item.
+
+Primary: need for holistic thinking contradicts tendency for quick, one-off fixes Secondary: When bouncing possible resolutions, none seem applicable.
+
+
+
+
+
+The team identifies a work item that they identify as needing attention but which is not critical and which may not be taken action with at the moment.
 
 #### Daily 18, `OUTBOX`
 
@@ -113,6 +124,13 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 > :   "Should we have a WATBOX? Because we have so many things that are not..."
 > :   "That we can leave there and go them through like once a month. Watbox goes next to moneybox."
 
+WATBOX created
+
+Primary. Secondary.
+
+
+The team receives a new work item which could represent a customer need but likely does not at the moment, or at least it would not bring in paying customers.
+
 #### Daily 19, `INBOX`
 
 > 15:00
@@ -122,6 +140,14 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 > :   "I thought the moneybox function is that ... there are cases already"
 > :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'we will pay x amount'..."
 
+MONEYBOX used for work item. Secondary: the MONEYBOX model is refined to fit new kinds of work items
+
+
+Marketing has a new board on which they want to reflect their own priority for product improvements.
+Tracking the use of MARKETING BOX gets its own longstanding outbox item
+Tertiary: reconciliation of new “MARKETING BOX” practice vs existing OUTBOX practice. Quaternary: realignment with practices of another team.
+
+
 + there's a new MARKETING (inbox?) where they will shovel and prioritize their top 10 things instead of having them hang around in wishlist where we can't act on them appropriately anyways
 
 > 19:45
@@ -129,6 +155,14 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 > :   "Yes, we have this very very long wishlist. I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [marketing]... they'll get a top 10 priority and the rest is still wishlist... when there's top10 we can maybe take one off [the top]"
 > :   "So, outbox, longstanding"
 > :   "yeah, we need to see that this is ... [done]"
+
+
+
+
+
+The team encounters a work item that describes an improvement which they do not think is a fire but that they themselves consider more important than a product owner prioritising the wishlist would.
+TECH WISHING WELL created
+Primary: conflicting needs of different stakeholders. Secondary: existing model does not allow reflecting stakeholders.
 
 > 23:05
 > :   "What if we implement that users can actually remove their accounts?... No they cannot and it's a huge overhead that we mail them back to verify"
@@ -150,6 +184,12 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 > :   "Ok, this was a good improvement"
 => creation of tech wishing well
 
+
+
+The team encounters another work item which they think is more important than wishlist.
+TECH WISHING WELL gets more things assigned
+Tertiary, secondary, even primary?
+
 > 26:10
 > :   "And: this is horrible, so instead of shoveling this to wishlist, put this to the newly created wishing well? Just to try this out."
 > 27:40
@@ -163,29 +203,37 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 > :   "I think everything we create is going to wishing well"
 > :   "Exactly ... this is how the world works"
 
-#### Daily 19, `MONEYBOX`
 
-> 45:33
+
+The MONEYBOX comes up in the daily, but there is nothing to inspect
+The WATBOX comes up in the daily, but the team does not feel it is a thing that should be encountered
+The MARKETING BOX comes up in the daily, but there's nothing to act upon
+The secretary takes pre-emptive action to move the TECH WISHING WELL out of the team's way before that segment would occur
+
+Boxes moved out of the way
+
+Tertiary
+
+#### Daily 19
+
+> 45:33, `MONEYBOX`
 > :   "Nothing new."
-
-#### Daily 19, `WATBOX`
-
-> 45:37
+> 45:37, `WATBOX`
 > :   "Watbox doesn't need to [be gone] through"
 > :   "Nothing. Maybe we should move watbox out"
-> :   "Exactly"
-> :   "I'm moving it next to 'hard and scary'"
-
-#### Daily 19, `MARKETING BOX`
-
-> 46:20
+<!-- > :   "Exactly"
+> :   "I'm moving it next to 'hard and scary'" -->
+> 46:20, `MARKETING BOX`
 > :   "Is marketing already updated? Yep, it's just my placeholders..."
+> 46:33, `NON-CORE MODULE CONTINUUM`
+> :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here.<!-- Moving it next to WATBOX. -->"
 
-#### Daily 19, `NON-CORE MODULE CONTINUUM`
 
-> 46:33
-> :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here. Moving it next to WATBOX."
+Two new work items are processed which are considered to belong to the new TECH WISHING WELL board. The team discussesthe criteria for such items: “middle stage between wishlist and fire” and “no business value”
 
+TECH WISHING WELL gets more things assigned
+
+Secondary: the TECH WISHING WELL model is refined to fit new kinds of work items
 
 #### Daily 20, `INBOX`
 
