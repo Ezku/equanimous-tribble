@@ -89,12 +89,12 @@ It is at this point that the team needs to face the practical effects of creatin
 
 It's found that the `MONEYBOX` needs to be further refined to support the team's use of it in the daily. Recognizing this tertiary contradiction between the new part of practice and the existing practice of effectively going through work items, the team promptly resolves the problem by suggesting that new status labels be applied.
 
-A work item is rejected as having the wrong approach. The team again doesn't seem to have a right kind of place for the rephrased work item. The solution from before is suggested.
+The next fragment finds the team rejecting a work item as reflecting an overly short-sighted approach. The team again doesn't seem to feel they have the right kind of board at hand for the work item. The 'new rules' of problem solving introduced in daily `16` also gradually start to set in: team members see new boxes as an option to take for inbox items.
 
 #### Daily 18, `INBOX`
 
 > 25:45
-<!-- > :   "You know better what needs to be done, but we need to be building a platform" -->
+> :   "You know better what needs to be done, but we need to be building a platform"
 > :   "So we put this in the module backlog, but under a different description... or, wishlist, or..?"
 <!-- > :   "What?" -->
 > :   "What do we do?"
@@ -104,9 +104,7 @@ A work item is rejected as having the wrong approach. The team again doesn't see
 > 26:25
 > :   "Hey, this is a module core thing, right?"
 
-More work items are identified as belonging to MODULE CORE. The practice gradually starts to set in: team members see the new boxes as an option to take for inbox items. The MODULE CORE box is reconceptualized to admit this kind of item.
-
-Primary: need for holistic thinking contradicts tendency for quick, one-off fixes Secondary: When bouncing possible resolutions, none seem applicable.
+The situation surfaces a primary contradiction in that there appears to be a conflict between the need for holistic, long-term thinking and quick, one-off fixes. This is resolved by rejecting the initial plan of a one-off fix and rephrasing the related work item. A secondary contradiction also appears when the team is unable to find a place for the rephrased work item. The previously created `MODULE CORE` board is appropriated for this purpose, reconceptualizing it as being capable of admitting the work item, thus allowing the team to continue satisfied with the outcome.
 
 
 
