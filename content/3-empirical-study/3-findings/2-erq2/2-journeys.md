@@ -202,20 +202,12 @@ At this point in time, the team has a total of four new boards to use as boxes t
 
 The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
 
-
-
-
-
-Two new work items are processed which are considered to belong to the new TECH WISHING WELL board. The team discussesthe criteria for such items: “middle stage between wishlist and fire” and “no business value”
-
-TECH WISHING WELL gets more things assigned
-
-Secondary: the TECH WISHING WELL model is refined to fit new kinds of work items
+The final step of the transformational journey occurs in daily `20`, when the `TECH WISHING WELL` gets more things assigned. We can observe that the team members are now prepared to argue for and rationalise their choice of `TECH WISHING WELL` as the category of choice for a specific work item.
 
 #### Daily 20, `INBOX`
 
 > 08:40
-> :   "This is the tech wishing well?"
+> :   "This [work item goes to] the tech wishing well?"
 > :   "Yeah, because it was the middle stage between wishlist and fire"
 
 > 19:35
@@ -224,6 +216,8 @@ Secondary: the TECH WISHING WELL model is refined to fit new kinds of work items
 > :   "Yes but there's no business value in web so this should go to wishlist..."
 > :   "Maybe this goes into the tech wishing well?"
 > :   "Yes"
+
+Two new work items are processed which are considered to belong to `TECH WISHING WELL` board. The team discusses criteria for such items: “middle stage between wishlist and fire” and “no business value”. With the presentation and acceptance of these rationale, the meaning of `TECH WISHING WELL` is collaboratively constructed and affirmed. The tertiary contradiction between the previous state of practice and this new one is thus resolved and the use of the board may be seen to have become part of accepted practice for the team.
 
 ### Transformation summary
 
