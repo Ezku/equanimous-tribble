@@ -167,26 +167,22 @@ The themes of long-term planning and wishlists segmented by different stakeholde
 
 The contradiction underlying this exchange lies in the conflicting needs of different stakeholders and the task of work item priority allocation to reconcile these differences. This is brought up through the identification of a wasteful process and the realisation of an inability to model the team's desire of completing the work item relating to improving that process. The team accepts that this might be resolved by improving their capability to model the situation, which may be taken as the idenficiation as a secondary contradiction. As a transformation step, the team constructs the concept of a `TECH WISHING WELL`, taking parallels from `MARKETING BOX`.
 
-
-
-
-The team encounters another work item which they think is more important than wishlist.
-TECH WISHING WELL gets more things assigned
-Tertiary, secondary, even primary?
+The new `TECH WISHING WELL` board is quickly transformed into an accepted part of practice. The team finds that there are other new work items that might best be placed there.
 
 > 26:10
-> :   "And: this is horrible, so instead of shoveling this to wishlist, put this to the newly created wishing well? Just to try this out."
+> :   "And: this [defect] is horrible, so instead of shoveling this to wishlist, put this to the newly created wishing well? Just to try this out."
 > 27:40
 > :   "So, when do we do this? Wishlist?"
 > :   "Wishing well, not wishlist"
 > :   "Isn't this a wishlist thing?"
-> :   "We are working on those right now, the push notifications"
+<!-- > :   "We are working on those right now, the push notifications" -->
 > 28:40
-> :   "It would be very very nice for testing."
-> :   "Yes, would be very very nice for testing, can we put this to wishing well? Let's see if everything gets put to wishing well, let's see how this works out!"
+<!-- > :   "It would be very very nice for testing." -->
+> :   "<!-- Yes, would be very very nice for testing,-->Can we put this to wishing well? Let's see if everything gets put to wishing well, let's see how this works out!"
 > :   "I think everything we create is going to wishing well"
 > :   "Exactly ... this is how the world works"
 
+The practice of placing work items in the `TECH WISHING WELL` during `INBOX` is clearly in conflict with the wishlist-fire dichotomy that still comes up in the team members' questions, presenting a tertiary contradiction. This contradictory state is seemingly surpassed by providing no other rationale besides desire to see what happens. Members remark that the lack of rationale will possibly lead to *everything* being placed in the `TECH WISHING WELL` as if it was the old wishlist by another name, with the implication that this would be an undesirable outcome. No explicit transformation follows, the contradiction remains unresolved.
 
 
 The MONEYBOX comes up in the daily, but there is nothing to inspect
