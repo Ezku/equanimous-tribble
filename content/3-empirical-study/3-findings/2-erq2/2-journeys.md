@@ -144,18 +144,12 @@ A lot of noteworthy interactions happen in this very same daily. Next we'll find
 
 From the perspective of the other team, this interaction could reflect a quaternary contradiction between their new practice and this team's existing ones. We see that the team cares about whether the new practice starts working, and reflects this intent by modelling the situation as a work item in `OUTBOX`. The latter act may be taken as a step toward realigning the team's orientation and thus resolving the quaternary contradiction.
 
-
-
-
-
-The team encounters a work item that describes an improvement which they do not think is a fire but that they themselves consider more important than a product owner prioritising the wishlist would.
-TECH WISHING WELL created
-Primary: conflicting needs of different stakeholders. Secondary: existing model does not allow reflecting stakeholders.
+The themes of long-term planning and wishlists segmented by different stakeholders come together in the following fragment. The team identifies a step in the company's service deliver process that results in significant overhead and thus waste. However, the issue is not so serious as to be a fire, and the team feels a product owner prioritising a wishlist would not rate the problem as high as the team. How should the situation be modelled, if the desire is nevertheless to get the issue solved at the opportune time? The marketing team has their own wishlist - perhaps the tech team deserves the same treatment!
 
 > 23:05
-> :   "What if we implement that users can actually remove their accounts?... No they cannot and it's a huge overhead that we mail them back to verify"
+> :   "What if we implement [improvement] [...] it's a huge overhead that we mail them back to verify"
 > :   "Yes, huge amounts of waste"
-> :   "But... if it's not a fire then what the fuck is it and it's done if ever..."
+> :   "But... if it's not a fire then what [..] is it and [when is it] done if ever..."
 > :   "Could we have a state between these cycles and fires? Because currently if it's not a fire and it's not..."
 > :   "We could have a cloud continuum but no-one would ever move anything"
 > :   "Exactly. This kind of state that would be like the top ten of our input"
@@ -170,7 +164,9 @@ Primary: conflicting needs of different stakeholders. Secondary: existing model 
 > :   "To where? The tech wishing well that is right below marketing"
 > 25:40
 > :   "Ok, this was a good improvement"
-=> creation of tech wishing well
+
+The primary contradiction lies in the conflicting needs of different stakeholders and the task of work item priority allocation to reconcile these differences. It is felt to be reflected in the inability to model the team's desire of completing the work item under discussion. The team accepts that this might be resolved by improving the model, and as a start to a process of reconciliation, the team constructs the concept of a `TECH WISHING WELL`, taking parallels from `MARKETING BOX`.
+
 
 
 
