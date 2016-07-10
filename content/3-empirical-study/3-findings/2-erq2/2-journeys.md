@@ -120,18 +120,18 @@ Another need related to longer term thinking presents itself in the same daily. 
 
 The double bind of this situation can be described as follows: There's a need for following up on certain work items after an indeterminate amount of time. But if these items are left in `OUTBOX`, the team has to deal with them (e.g. by skipping) in every daily, which is undesirable. Proceeding to a secondary contradiction – on the other hand, if the items are not seen during the course of a daily, how would action ever be taken? The resolution is to not only have a `WATBOX`, but do decide on what is evidently a different treatment of that box as opposed to others so far.
 
-The team receives a new work item which could represent a customer need but likely does not at the moment, or at least it would not bring in paying customers.
+The mere existence of a board affords the act of putting work items on it. That act, in the context of a daily, is collaborative and requires the development of a common understanding. The meaning of a board for the team comes into existence in a negotiation, where rationale for the use of a board is presented and either rejected or accepted. An example of such a negotiation occurs in daily `19`, when the placement of a work item in the `MONEYBOX` is challenged.
 
 #### Daily 19, `INBOX`
 
-> 15:00
-> :   "So it's missing a case"
+<!-- > 15:00
+> :   "So it's missing a case" -->
 > 16:50
 > :   "I don't think this is a moneybox issue"
 > :   "I thought the moneybox function is that ... there are cases already"
 > :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'we will pay x amount'..."
 
-MONEYBOX used for work item. Secondary: the MONEYBOX model is refined to fit new kinds of work items
+The contradiction is a secondary one, having to do with a recently introduced board and whether a new the work item under discussion fits there. A transformation of the concept of `MONEYBOX` takes place, as a rationalization is presented and accepted – the situation is resolved by the work item becoming an example of an acceptable thing to be placing in the `MONEYBOX`.
 
 
 Marketing has a new board on which they want to reflect their own priority for product improvements.
