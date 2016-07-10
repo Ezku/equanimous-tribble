@@ -184,15 +184,7 @@ The new `TECH WISHING WELL` board is quickly transformed into an accepted part o
 
 The practice of placing work items in the `TECH WISHING WELL` during `INBOX` is clearly in conflict with the wishlist-fire dichotomy that still comes up in the team members' questions, presenting a tertiary contradiction. This contradictory state is seemingly surpassed by providing no other rationale besides desire to see what happens. Members remark that the lack of rationale will possibly lead to *everything* being placed in the `TECH WISHING WELL` as if it was the old wishlist by another name, with the implication that this would be an undesirable outcome. No explicit transformation follows, the contradiction remains unresolved.
 
-
-The MONEYBOX comes up in the daily, but there is nothing to inspect
-The WATBOX comes up in the daily, but the team does not feel it is a thing that should be encountered
-The MARKETING BOX comes up in the daily, but there's nothing to act upon
-The secretary takes pre-emptive action to move the TECH WISHING WELL out of the team's way before that segment would occur
-
-Boxes moved out of the way
-
-Tertiary
+At this point in time, the team has a total of four new boards to use as boxes to shovel inbox items to: `MONEYBOX`, `WATBOX`, `MARKETING BOX` and `TECH WISHING WELL`. In daily `17`, the team found they needed more structure for `MONEYBOX` to use it more effectively. In the following, the team makes additional findings regarding all of the boxes.
 
 #### Daily 19
 
@@ -207,6 +199,11 @@ Tertiary
 > :   "Is marketing already updated? Yep, it's just my placeholders..."
 > 46:33, `NON-CORE MODULE CONTINUUM`
 > :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here.<!-- Moving it next to WATBOX. -->"
+
+The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
+
+
+
 
 
 Two new work items are processed which are considered to belong to the new TECH WISHING WELL board. The team discussesthe criteria for such items: “middle stage between wishlist and fire” and “no business value”
