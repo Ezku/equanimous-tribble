@@ -247,3 +247,9 @@ Secondary: the TECH WISHING WELL model is refined to fit new kinds of work items
 > :   "Yes but there's no business value in web so this should go to wishlist..."
 > :   "Maybe this goes into the tech wishing well?"
 > :   "Yes"
+
+### Transformation summary
+
+At the outset, the team had a way of dealing with `INBOX` items by segmenting them into urgent and non-urgent items. The first would be dealt with immediately, the latter shoveled to a wishlists which were to be handled ultimately with the means of a practice entirely separate from the daily. <!-- This division, although binary in the essential, was obscured to a degree by a separation of urgent items into technical and non-technical kinds (represented with `FIRES` and `PRIORITY LANE`) and a separation between wishlist items according to who would ostensibly be processing them later. --> It might be argued that the team was reluctant to make any kind of change due to these wishlists interfacing which other practices, which the daily and the team by themselves aren't empowered to change.
+
+During the transformational journey the team arrives at the understanding that there are different levels of urgencies; different sets of priorities between stakeholders, including themselves; and ways of modelling both of these which are distinct from what the current modelling agrees with or makes possible to express.
