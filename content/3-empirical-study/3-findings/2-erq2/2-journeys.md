@@ -131,7 +131,7 @@ The mere existence of a board affords the act of putting work items on it. That 
 > :   "I thought the moneybox function is that ... there are cases already"
 > :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'we will pay x amount'..."
 
-The contradiction is a secondary one, having to do with a recently introduced board and whether a new the work item under discussion fits there. A transformation of the concept of `MONEYBOX` takes place, as a rationalization is presented and accepted – the situation is resolved by the work item becoming an example of an acceptable thing to be placing in the `MONEYBOX`.
+The contradiction is a secondary one, having to do with a recently introduced board and whether a new work item under discussion fits there. A transformation of the concept of `MONEYBOX` takes place, as a rationalization is presented and accepted – the situation is resolved by the work item becoming an example of an acceptable thing to be placing in the `MONEYBOX`.
 
 A lot of noteworthy interactions happen in this very same daily. Next we'll find the team coming to grips with the use of a `MARKETING BOX`, introduced from the outside. The introduction bears relation to the previous agency-taking behavior of this team observed in daily `16`. The board itself belongs to a category of boards where stakeholdership of a work item is the determining factor: who is it that cares about the completion of this item?
 
@@ -144,7 +144,7 @@ A lot of noteworthy interactions happen in this very same daily. Next we'll find
 
 From the perspective of the other team, this interaction could reflect a quaternary contradiction between their new practice and this team's existing ones. We see that the team cares about whether the new practice starts working, and reflects this intent by modelling the situation as a work item in `OUTBOX`. The latter act may be taken as a step toward realigning the team's orientation and thus resolving the quaternary contradiction.
 
-The themes of long-term planning and wishlists segmented by different stakeholders come together in the following fragment. The team identifies a step in the company's service deliver process that results in significant overhead and thus waste. However, the issue is not so serious as to be a fire, and the team feels a product owner prioritising a wishlist would not rate the problem as high as the team. How should the situation be modelled, if the desire is nevertheless to get the issue solved at the opportune time? The marketing team has their own wishlist - perhaps the tech team deserves the same treatment!
+The themes of long-term planning and wishlists segmented by different stakeholders come together in the following fragment. The team identifies a step in the company's service delivery process that results in significant overhead and thus waste. However, the issue is not so serious as to be a fire, and the team feels a product owner prioritising a wishlist would not rate the problem as high as the team. How should the situation be modelled, if the desire is nevertheless to get the issue solved at the opportune time? The marketing team has their own wishlist - perhaps the tech team deserves the same treatment!
 
 > 23:05
 > :   "What if we implement [improvement] [...] it's a huge overhead that we mail them back to verify"
