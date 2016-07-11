@@ -165,7 +165,7 @@ The themes of long-term planning and wishlists segmented by different stakeholde
 > 25:40
 > :   "Ok, this was a good improvement"
 
-The contradiction underlying this exchange lies in the conflicting needs of different stakeholders and the task of work item priority allocation to reconcile these differences. This is brought up through the identification of a wasteful process and the realisation of an inability to model the team's desire of completing the work item relating to improving that process. The team accepts that this might be resolved by improving their capability to model the situation, which may be taken as the idenficiation as a secondary contradiction. As a transformation step, the team constructs the concept of a `TECH WISHING WELL`, taking parallels from `MARKETING BOX`.
+The contradiction underlying this exchange lies in the conflicting needs of different stakeholders and the task of work item priority allocation to reconcile these differences. This is brought up through the identification of a wasteful process and the realisation of an inability to model the team's desire of completing the work item relating to improving that process. The team accepts that this might be resolved by improving their capability to model the situation, which may be taken as the identificiation of a secondary contradiction. As a transformation step, the team constructs the concept of a `TECH WISHING WELL`, taking parallels from `MARKETING BOX`.
 
 The new `TECH WISHING WELL` board is quickly transformed into an accepted part of practice. The team finds that there are other new work items that might best be placed there.
 
