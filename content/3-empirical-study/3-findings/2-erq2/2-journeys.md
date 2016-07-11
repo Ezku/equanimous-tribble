@@ -198,11 +198,11 @@ At this point in time, the team has a total of four new boards to use as boxes t
 > 46:20, `MARKETING BOX`
 > :   "Is marketing already updated? Yep, it's just my placeholders..."
 > 46:33, `NON-CORE MODULE CONTINUUM`
-> :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here.<!-- Moving it next to WATBOX. -->"
+> :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here. Moving it next to WATBOX."
 
 The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
 
-The final step of the transformational journey occurs in daily `20`, when the `TECH WISHING WELL` gets more things assigned. We can observe that the team members are now prepared to argue for and rationalise their choice of `TECH WISHING WELL` as the category of choice for a specific work item.
+The final step of the transformational journey occurs in daily `20`, when the `TECH WISHING WELL` gets more things assigned. We can observe that the team members are now prepared to argue for and rationalise their choice of `TECH WISHING WELL` as the category for a specific work item.
 
 #### Daily 20, `INBOX`
 
