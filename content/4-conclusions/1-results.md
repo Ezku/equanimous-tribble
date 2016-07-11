@@ -17,7 +17,19 @@ Outside the daily, the team members use the work items represented in their virt
 
 The team is careful to limit their work in progress as much as they can, but realise that there is some work that is urgent enough to be expedited even at the cost of increasing the amount of things being worked on concurrently. The team's use of the `INBOX` is a mechanism for segregating possible work items into those that can be scheduled for later and those that must be reacted to immediately. Because the team continuously handles any urgent but unplanned work in the `FIRES` segment, they are well equipped for being able to see a category of waste that might be called "rework"; they are aware of their past mistakes and the costs incurred due to addressing them. Finally, the team has a habit of being explicit about their process and its collaborative improvement. The `OUTBOX` segment serves as a means of keeping track of drives for improvement as well as explicating any outcomes thereof.
 
-In summary, the use of a kanban system with the practice of a daily allows the team to apply virtually all of the kanban principles, which taken together support the lean goal of continuous improvement. The daily also allows the team to accept feedback and adjust their priorities on work to be completed on a day-to-day basis. This distinction from the Scrum daily may be seen as significant, redefining the object of activity from "progress of predefined work items" to "redefining work and its priorities". It comes at a cost, however, in that the observed dailies were a significantly larger expenditure in terms of the development team's time.
+In summary, the use of a kanban system with the practice of a daily allows the team to apply virtually all of the kanban principles, which taken together support the lean goal of continuous improvement. The daily also allows the team to accept feedback and adjust their priorities on work to be completed on a day-to-day basis. This distinction from the Scrum daily may be seen as significant, expanding the scope of activity from "progress of predefined work items" to "redefining work and its priorities". It comes at a cost, however, in that the observed dailies were a significant expenditure in terms of the development team's time.
+
+> **ERQ2**: How do contradictions and their transformations manifest in a daily?
+
+- Define the daily as a practice
+- Delineate disturbances
+- Define contradictions
+- Define transformations
+- How did these manifest in the daily
+- What does this mean
+  - What kind of things characterised as learning, growing and changing did we find?
+
+The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
 
 ## Answer to the research problem
 
