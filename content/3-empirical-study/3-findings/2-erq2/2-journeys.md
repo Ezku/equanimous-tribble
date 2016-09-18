@@ -27,15 +27,20 @@ It takes a while for the issue to brew and mature. Five dailies (more than three
 #### Daily 14, `OUTBOX`
 
 > 21:33
-> :   "I guess wishlist or something would be appropriate?" (The presented alternative is rejected by silence.<!-- Is this true? -->)
+> :   "I guess wishlist or something would be inappropriate?" (`M1`, presenting wishlist as a precluded option)
+> 21:50
+> :   "Does [stakeholder] need the feature? ... Where is that feature?" (`D1`)
+> :   "There's a follow-up feature request that doesn't need to be done." (`D2`)
 > 22:05
-> :   "Has it been through inbox?"
-> :   "No. It's because that doesn't need to be done."
+> :   "Has it been through inbox?" (`D1`)
+> :   "No. It's because that doesn't need to be done." (`D2`)
 
+> 27:00
+> :   "It says 'pending project, will be done when customer project requires'" (`D2`)
 > 27:15
-> :   "-- it's pending a project.. There's no case"
-> :   "Can we throw this to [a release cycle]?"
-> :   "No, we won't be doing it"
+> :   "It's pending a project. There's no ... case." (`M1`, restating the intent after attention on the item is called for again)
+> :   "Can we throw this to [a release cycle]?" (`D3`, providing a further option)
+> :   "No, no, we won't be doing it" (`D1` with what can be taken as a note of frustration)
 
 This time, instead of being satisfied with their declaration of an item being unfit for the apparent categories, the team does attempt to model the situation such that a suitable place could be found. The team's action demonstrates the existence and attempted resolution of a secondary contradiction, which goes as unresolved as the previous primary contradiction. Wherever the item is placed after this interaction, it's apparent the team isn't going to be satisfied. However, the team does clear one hurdle: now that the context of the discussion is `OUTBOX`, options other than wishlist and fire present themselves, and handling the work item as part of a release cycle is discussed.
 
