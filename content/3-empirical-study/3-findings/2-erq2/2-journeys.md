@@ -91,16 +91,23 @@ The next fragment presents the team in the act of creating another new place for
 
 We notice in this interaction that the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team. The contradiction resolved is the fact of being unable to reflect that state of need in the model, and the resolution is to use the team's newfound powers to extend the model accordingly and create `MODULE CORE`.
 
-It is after this point that the team needs to face the practical effects of having created new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily.
+It is after this point that the team needs to face the practical effects of having created new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily. The discussion is audibly confused, but uncharacteristically animated with people providing suggestions as almost interjections, as the team looks to interpret what it sees.
 
 #### Daily 17, `MONEYBOX`
 
-> 43:30
-> :   "These are old things"
-> :   "Let's shovel them somewhere so it says 'old things'"
-> :   "Can we put the label 'longstanding'?"
-> :   "Waiting for money? Money required?"
-> :   "We need an inbox here"
+> 43:35
+> :   "Moneybox!" (`D1`)
+> 43:43
+> :   "These are old things" (`M1`)
+> 43:46
+> :   "Let's shovel them somewhere [so] it says 'old things'" (`D2`)
+> 43:49
+> :   "Can we put the label..." (`D1`)
+> :   "'Longstanding'?" (`D2`)
+> 43:52
+> :   "Waiting for money? Money required?" (`D1`)
+> 44:05
+> :   "We need an inbox here" (`D2`)
 
 It's found that the `MONEYBOX` needs to be further refined to support the team's use of it in the daily. Recognizing this tertiary contradiction between the new part of practice and the existing practice of effectively going through work items, the team promptly resolves the problem by suggesting that new status labels be applied.
 
