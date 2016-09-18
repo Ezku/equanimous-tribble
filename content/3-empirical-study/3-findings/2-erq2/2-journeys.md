@@ -151,12 +151,20 @@ The mere existence of a board affords the act of putting work items on it. That 
 
 #### Daily 19, `INBOX`
 
-<!-- > 15:00
-> :   "So it's missing a case" -->
-> 16:50
-> :   "I don't think this is a moneybox issue"
-> :   "I thought the moneybox function is that ... there are cases already"
-> :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'we will pay x amount'..."
+<!-- > 15:40
+> :   "So it's missing a case" (`M1`) -->
+> 15:50
+> :   "We don't have a use case" (`M1`)
+> 15:55
+> :   "Let's discuss this later" (`D1`)
+> :   "Put it to the moneybox" (`D2`)
+> :   "Or outbox if you want to continue the discussion" (`D3`)
+> 16:02
+> :   "I don't think this is a moneybox issue either" (`M1`)
+> 16:07
+> :   "I thought the moneybox function was that ... [there] are cases already" (`QA`)
+> 16:13
+> :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'ok, we will pay x amount'–" (`M1`)
 
 The contradiction is a secondary one, having to do with a recently introduced board and whether a new work item under discussion fits there. A transformation of the concept of `MONEYBOX` takes place, as a rationalization is presented and accepted – the situation is resolved by the work item becoming an example of an acceptable thing to be placing in the `MONEYBOX`.
 
