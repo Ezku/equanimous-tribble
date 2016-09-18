@@ -116,15 +116,18 @@ The next fragment finds the team rejecting a work item as reflecting an overly s
 #### Daily 18, `INBOX`
 
 > 25:45
-> :   "You know better what needs to be done, but we need to be building a platform"
-> :   "So we put this in the module backlog, but under a different description... or, wishlist, or..?"
-<!-- > :   "What?" -->
-> :   "What do we do?"
-<!-- > :   "If there's a supersonic-and-frontend backlog" -->
+> :   "You know better what needs to be done, but we need to be building a platform" (`M1`)
+> 25:55
+> :   "So... we put this in the module backlog, but under a different description... or, wishlist, or..?" (`D1`, unsure which action to take as secretary)
+> 26:10
+<!-- > :   "What?" (`M1`) -->
+> :   "What do we do?" (`D1`)
+<!-- > :   "If there's a supersonic-and-frontend backlog" (`D2`)-->
 <!-- > :   "I don't think so" -->
-<!-- > :   "I don't know what we should do but I don't think we should do a task like that" -->
+:   "I don't know what we should do–" (`M1`)
+<!-- but I don't think we should do a task like that-->
 > 26:25
-> :   "Hey, this is a `MODULE CORE` thing, right?"
+> :   "Hey, this is a `MODULE CORE` thing, right?" (`D1`)
 
 The situation surfaces a primary contradiction in that there appears to be a conflict between the need for holistic, long-term thinking and quick, one-off fixes. This is resolved by rejecting the initial plan of a one-off fix and rephrasing the related work item. A secondary contradiction also appears when the team is unable to find a place for the rephrased work item. The previously created `MODULE CORE` board is appropriated for this purpose, reconceptualizing it as being capable of admitting the work item. With this transformation in place the team continues satisfied with the outcome.
 
