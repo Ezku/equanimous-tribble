@@ -171,11 +171,18 @@ The contradiction is a secondary one, having to do with a recently introduced bo
 A lot of noteworthy interactions happen in this very same daily. Next we'll find the team coming to grips with the use of a `MARKETING BOX`, introduced from the outside. The introduction bears relation to the previous agency-taking behavior of this team observed in daily `16`. The board itself belongs to a category of boards where stakeholdership of a work item is the determining factor: who is it that cares about the completion of this item?
 
 #### Daily 19, `INBOX`
-> 19:45
-> :   "Marketing will read all the items in the wishlist and put them in... [`MARKETING BOX`]?"
-> :   "Yes, we have this very very long wishlist. [...] <!-- I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [`MARKETING BOX`]... --> [Items in the wishlist] get a top 10 priority and the rest is still wishlist... when there's top 10 we can maybe take one off [the top]"
-> :   "So, `OUTBOX`, longstanding"
-> :   "Yeah, we need to see that this is ... [done]"
+
+> 19:36
+> :   "'Marketing will go through all the items in the wishlist and put them in... [`MARKETING BOX`]'?" (`D1` reading out loud)
+> 19:42
+> :   "Yes. So, we have this very very long wishlist. [...]" (`M1`)
+<!-- I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [`MARKETING BOX`]... -->
+> 20:05
+> :   "It's there, below `QUESTIONS`" (`M1`)
+> :   "[Items in the wishlist] get a top 10 priority and the rest is still wishlist. So, just an announcement. [...]" (`M1`)
+> 20:39
+> :   "So, `OUTBOX`, longstanding" (`D2`)
+> :   "Yeah, we need to see that this is ... [done]" (`M1`)
 
 From the perspective of the other team, this interaction could reflect a quaternary contradiction between their new practice and this team's existing ones. We see that the team cares about whether the new practice starts working, and reflects this intent by modelling the situation as a work item in `OUTBOX`. The latter act may be taken as a step toward realigning the team's orientation and thus resolving the quaternary contradiction.
 
