@@ -48,20 +48,27 @@ The scope of possible options is further expanded in the next daily. A work item
 
 #### Daily 15, `FIRES`
 
-> 29:05
-> :   "So how many weeks until we need this?"
-> 29:13
-> :   "Is this like a non-core, pending for project thing?"
+> 29:02
+> :   "So how many weeks until [the client] need this?" (`D1`)
+<!-- > :   "Impeded!" (`M1`) -->
+> 29:10
+> :   "Is this like a non-core, pending for project thing?" (`D1`)
+<!-- > :   "No, impeded!" (`M1`) -->
 > 29:28
-> :   "Why not move this to [a release cycle]?"
-> 29:50
-> :   "Do we have a project for [client]? Can it be there?"
+> :   "Why not move this to [a release cycle]?" (`D2`)
+> 29:48
+> :   "Do we have a project for [client]? Can it be there?" (`D3`)
+> 30:28
+> :   "We need a box where to put these things. What's the name of the new box?" (`M1`)
+> :   "'Moneybox'" (`D4`)
 > 30:40
-> :   "Isn't it kind of priority lane? It's a customer need"
+> :   "Isn't it kind of priority lane? It's customer needs" (`D5`)
+> 30:45
+> :   "How does this differ from any other feature request?" (`D2`)
 > 31:20
-> :   "We should have a box, let's call it 'moneybox'"
+> :   "We should have a box, let's call it 'moneybox'" (`M1`)
 
-Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in, thus giving rise to `MONEYBOX`. The secondary contradiction is resolved by the conceptualisation of a new kind of category, allowing the model to better reflect the team's understanding and intent. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
+Now, the direction of the discussion moves to not only rationalisation through existing conceptualisations, but also novel ones. A succession of alternatives are proffered for consideration and shot down with varying amounts of reasoning. Finally, a transformation is achieved by calling out the need for an entirely new place to be putting work items in, thus giving rise to `MONEYBOX`. The secondary contradiction is resolved by the conceptualisation of a new kind of category, allowing the model to better reflect the team's understanding and intent. The act of coming up with a new category itself also serves to redefine the rules of a daily, supporting the use of such a problem solving pattern in the future.
 
 The next fragment presents the team in the act of creating another new place for work items. In doing so, the team frames itself as a stakeholder in the equation of work organisation, and as being capable of declaring things being worthy of doing, of collecting work items to backlogs. Compared to the previous state of affairs this is an empowerment and an expansion of the team's capabilities. The team is beginning to graduate from yes/no, now/never classifier of input to a more nuance-capable actor.
 
