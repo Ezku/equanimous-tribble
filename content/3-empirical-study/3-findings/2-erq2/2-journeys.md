@@ -75,16 +75,19 @@ The next fragment presents the team in the act of creating another new place for
 #### Daily 16, `OUTBOX`
 
 > 37:50
-<!-- > :   "Do we some kind of list or ability to make a list of stuff that's not in [part of the platform] but should be? Because that's a project"
-> :   "No" -->
-> :   "But do we have the ability to make a list? Do we even know what these things [that are not part of the platform but should be] are?"
-> 39:20
-> :   "Where's the project?"
-> :   "Would you like me to make one now?"
-> :   "Wouldn't it make sense?"
+> :   "Do we some kind of list or ability to make a list of stuff that is not in [part of the platform] but should be?" (`M1`)
+> :   "No, we don't have a list" (`D1`, dejected?)
+<!-- > 38:03
+> :   "But do we have the ability to make a list?" (`M1`) -->
+> 38:06
+> :   "Do we even know what these things [that are not part of the platform but should be] are?" (`M1`)
+> 39:15
+> :   "So where's the project?" (`M1`)
+> :   "Would you like me to make one now?" (`D1`)
+> :   "Wouldn't it make sense?" (`M1`)
 > 39:35
 <!-- > :   "What's the theme called?" -->
-> :   "Couldn't we have like 'module core' or something?"
+> :   "Can we have like 'module core' or something like that?" (`D2`)
 
 We notice in this interaction that the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team. The contradiction resolved is the fact of being unable to reflect that state of need in the model, and the resolution is to use the team's newfound powers to extend the model accordingly and create `MODULE CORE`.
 
