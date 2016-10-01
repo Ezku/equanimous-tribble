@@ -31,12 +31,9 @@ Section \ref{episodes-of-contradiction} identified contradictions exemplifying t
 
 Transformations tended to be *additive* in nature, not subtractive; the tendency was towards more work items on the boards, more boards for work items and more finely grained process states for items. Subtractive transformations were seen when time constraints for the daily clashed with requirements of modelling, in which case whole segments were discarded from the daily. In these cases, the boards corresponding to those segments would still be in the model.
 
+Some observed contradictions and transformations could be understood as belonging to sequences of actions in the expansive learning cycle. Section \ref{journey-of-transformation} describes one cycle where the team identifies a problem with work item categorisation, and creates new boards for reflecting different work item urgencies and stakeholders. As a result, incoming work items are not considered on a binary "fire or not" basis, but a larger spectrum of potential reactions is admitted.
 
 
-
-
-- Define contradictions
-- Define transformations
 - How did these manifest in the daily
 - What does this mean
   - What kind of things characterised as learning, growing and changing did we find?
