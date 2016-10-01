@@ -33,7 +33,7 @@ The following research questions are posed to the empirical research data.
 
 > **ERQ1**: How is the observed daily positioned with regard to descriptions of Scrum daily and kanban systems in the theory?
 
-> **ERQ2**: How do contradictions and their transformations manifest in a daily?
+> **ERQ2**: How do contradictions and their transformations manifest in the observed dailies?
 
 With ERQ1 we will establish the observed daily practice, which will allow us to position the practice in relation to the theory of Scrum dailies and kanban systems. We will elucidate the aspects by which the observed practice exemplifies what the theory says should occur, and the aspects by which the practice differs from theory. The practice will be described in terms of being an activity system, especially by the definition of its object of activity. Finally, we will be left with hints on what *is not* static in this practice and what we should thus pay attention to when looking for clues of continuous improvement.
 
