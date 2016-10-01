@@ -188,24 +188,36 @@ From the perspective of the other team, this interaction could reflect a quatern
 
 The themes of long-term planning and wishlists segmented by different stakeholders come together in the following fragment. The team identifies a step in the company's service delivery process that results in significant overhead and thus waste. However, the issue is not so serious as to be a fire, and the team believes a product owner prioritising a wishlist would not rate the problem as high as the team. How should the situation be modelled, if the desire is nevertheless to get the issue solved at the opportune time? The marketing team has their own wishlist - perhaps the tech team deserves the same treatment!
 
+#### Daily 19, `INBOX`
+
 > 23:05
-> :   "What if we implement [improvement] [...] it's a huge overhead that we mail them back to verify"
-> :   "Yes, huge amounts of waste"
-> :   "But... if it's not a fire then what [..] is it and [when is it] done if ever..."
-> :   "Could we have a state between these cycles and fires? Because currently if it's not a fire and it's not..."
-> :   "We could have a cloud continuum but no-one would ever move anything"
-> :   "Exactly. This kind of state that would be like the top ten of our input"
-> :   "Isn't priority lane..."
-> :   "Yeah but priotity lane means we are doing it"
-> :   "So let's make a tech lane then"
-> :   "I think we should have this. Each group has their own wishlist, top 10"
-> :   "We see that this is a huge waste. But we can't go and blindly implement everything."
-> :   "Wouldn't this actually go to the marketing top ten?"
+> :   "What if we implement [improvement] [...] it's a huge overhead [having to do without]" (`M1`)
+> 23:19
+> :   "Yes, huge amounts of waste" (`D1`)
+> 23:44
+> :   "If it's not a fire then what [..] is it and [when is it] done if ever..?" (`M1`)
+> 23:56
+> :   "Could we have a state between these cycles and fires?" (`M1`)
+> :   "No..! *(laughter)* No." (`D2`)
+> :   "Because currently if it's not a fire and it's not-" (`M1`)
+> 24:08
+> :   "We could have a cloud continuum. But no-one would ever move anything in there." (`D3`)
+> :   "Exactly. This kind of state that would be... It would be like the top ten of [our] input. Like marketing [..]" (`M1`)
+> 24:27
+> :   "Isn't priority lane..?" (`QA`)
+> :   "Sure, but priotity lane means that we are doing it" (`M1`)
+> :   "So let's make a tech 'top ten'" (`D3`)
+> :   "I think we should have this. Each group has their own wishlist, top 10" (`D4`)
+> 24:45
+> :   "We see that this is a huge waste. But we can't go and blindly implement everything." (`M1`)
+> 24:54
+> :   "Wouldn't this actually go to the *marketing* top ten?" (`D3`)
 > 25:00
-> :   "I made a wishing well for us and this can go there."
-> :   "To where? The tech wishing well that is right below marketing"
-> 25:40
-> :   "Ok, this was a good improvement"
+> :   "I made a wishing well for us, and ... this can go there." (`D1`)
+> :   "To.. where?" (`M1`)
+> :   "The tech wishing well that is right below marketing" (`M1`)
+> 25:42
+> :   "Ok, this was a good improvement." (`M1`)
 
 The contradiction underlying this exchange lies in the conflicting needs of different stakeholders and the task of work item priority allocation to reconcile these differences. This is brought up through the identification of a wasteful process and the realisation of an inability to model the team's desire of completing the work item relating to improving that process. The team accepts that this might be resolved by improving their capability to model the situation, which may be taken as the identificiation of a secondary contradiction. As a transformation step, the team constructs the concept of a `TECH WISHING WELL`, taking parallels from `MARKETING BOX`.
 
