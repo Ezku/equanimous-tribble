@@ -243,21 +243,24 @@ The new `TECH WISHING WELL` board is quickly transformed into an accepted part o
 
 The practice of placing work items in the `TECH WISHING WELL` during `INBOX` is clearly in conflict with the wishlist-fire dichotomy that still comes up in the team members' questions, presenting a tertiary contradiction. This contradictory state is seemingly accepted with no other rationale besides desire to see what happens. Members remark that the lack of rationale will possibly lead to *everything* being placed in the `TECH WISHING WELL` as if it was the old wishlist by another name, with the implication that this would be an undesirable outcome. No explicit transformation follows, the contradiction remains unresolved.
 
-At this point in time, the team has a total of four new boards to use as boxes to shovel inbox items to: `MONEYBOX`, `WATBOX`, `MARKETING BOX` and `TECH WISHING WELL`. In daily `17`, the team found they needed more structure for `MONEYBOX` to use it more effectively. In the following, the team makes additional findings regarding all of the boxes.
+At this point in time, the team has a total of four new boards to use as boxes to shovel inbox items to: `MONEYBOX`, `WATBOX`, `MARKETING BOX` and `TECH WISHING WELL`. In daily `17`, the team found they needed more structure for `MONEYBOX` to use it more effectively. In the following, the team makes additional findings regarding all of these mentioned boxes during a short "drive-through" by the driver and secretary.
 
 #### Daily 19
 
-> 45:33, `MONEYBOX`
-> :   "Nothing new."
+> 45:33
+> :   "Moneybox! ... Nothing new." (`D1`, as secretary)
 > 45:37, `WATBOX`
-> :   "Watbox doesn't need to [be gone] through"
-> :   "Nothing. Maybe we should move watbox out"
+> :   "Watbox!" (`D1`)
+> :   "Watbox doesn't need to [be gone] through" (`M1`)
+> 45:44
+> :   "Maybe we should move watbox out" (`D1`)
 <!-- > :   "Exactly"
 > :   "I'm moving it next to 'hard and scary'" -->
 > 46:20, `MARKETING BOX`
-> :   "Is marketing already updated? Yep, it's just my placeholders..."
+> :   "Is marketing already updated?" (`M1` rhetorically to driver)"
+> :   "Yep, it's just my placeholders..." (`M1` pointing out there's no action to take)
 > 46:33, `NON-CORE MODULE CONTINUUM`
-> :   "Should we move tech wishing well elsewhere as well? If we don't want to go through it here. Moving it next to WATBOX."
+> :   "Should we move tech wishing well elsewhere as well, if we don't want to go through it here? ... Moving it next to watbox." (`D1`)
 
 The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
 
