@@ -22,7 +22,7 @@ The journey starts with the first time that the team can be observed to identify
 
 The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, it is seen as merely a disturbance and no attempt at explanation or transformation follows: the resolution seems to be simply inaction, with the item left in the inbox for later. <!-- Is this true? -->
 
-It takes a while for the issue to brew and mature. Five dailies (more than three weeks of calendar time) later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
+It takes a while for the issue to brew and mature. Five observed dailies (more than three weeks of calendar time) later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
 
 #### Daily 14, `OUTBOX`
 
