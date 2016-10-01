@@ -29,6 +29,9 @@ Disturbances, according to section \ref{contradictions}, are deviations from sta
 
 Section \ref{episodes-of-contradiction} identified contradictions exemplifying the daily as relating to effective use of collective time in the daily or outside (primary contradiction), matching work items to suitable boards (secondary), coming to agreement on the implications of a modelling (tertiary), and cross-team coordination (quaternary). Typical to the analysed disturbances was discontent with the modelling: either the model of the situation was experienced as misleading from reality, or the intended course of action was not readily apparent from the model. Addressing the discontent tended to take the form of modifying the boards' structure, deciding on new ways of making work items flow through them or making novel distinctions based on existing constructs.
 
+Transformations tended to be *additive* in nature, not subtractive; the tendency was towards more work items on the boards, more boards for work items and more finely grained process states for items. Subtractive transformations were seen when time constraints for the daily clashed with requirements of modelling, in which case whole segments were discarded from the daily. In these cases, the boards corresponding to those segments would still be in the model.
+
+
 
 
 
