@@ -191,27 +191,27 @@ The themes of long-term planning and wishlists segmented by different stakeholde
 #### Daily 19, `INBOX`
 
 > 23:05
-> :   "What if we implement [improvement] [...] it's a huge overhead [having to do without]" (`M1`)
+> :   "What if we implement [improvement] [...] it's a huge overhead [having to do without]" (`M1`, motivates desire to act on problem)
 > 23:19
-> :   "Yes, huge amounts of waste" (`D1`)
+> :   "Yes, huge amounts of waste" (`D1`, agreeing that there's a problem)
 > 23:44
-> :   "If it's not a fire then what [..] is it and [when is it] done if ever..?" (`M1`)
+> :   "If it's not a fire then what [..] is it and [when is it] done if ever..?" (`M1`, putting to question how the development of a solution could be modelled)
 > 23:56
-> :   "Could we have a state between these cycles and fires?" (`M1`)
+> :   "Could we have a state between these cycles and fires?" (`M1`, suggesting a direction of improvement)
 > :   "No..! *(laughter)* No." (`D2`)
-> :   "Because currently if it's not a fire and it's not-" (`M1`)
+> :   "Because currently if it's not a fire and it's not-" (`M1`, restating dichotomy in current model)
 > 24:08
-> :   "We could have a cloud continuum. But no-one would ever move anything in there." (`D3`)
-> :   "Exactly. This kind of state that would be... It would be like the top ten of [our] input. Like marketing [..]" (`M1`)
+> :   "We could have a cloud continuum. But no-one would ever move anything in there." (`D3`, pointing out the need for a new kind of modelling)
+> :   "Exactly. This kind of state that would be... It would be like the top ten of [our] input. Like marketing [..]" (`M1`, drawing parallel to marketing box)
 > 24:27
-> :   "Isn't priority lane..?" (`QA`)
-> :   "Sure, but priotity lane means that we are doing it" (`M1`)
-> :   "So let's make a tech 'top ten'" (`D3`)
-> :   "I think we should have this. Each group has their own wishlist, top 10" (`D4`)
-> 24:45
-> :   "We see that this is a huge waste. But we can't go and blindly implement everything." (`M1`)
-> 24:54
-> :   "Wouldn't this actually go to the *marketing* top ten?" (`D3`)
+> :   "Isn't priority lane..?" (`QA`, invoking another parallel)
+> :   "Sure, but priotity lane means that we are doing it" (`M1`, motivating difference)
+<!-- > :   "So let's make a tech 'top ten'" (`D3`, drawing from marketing box)
+> :   "I think we should have this. Each group has their own wishlist, top 10" (`D4`) -->
+<!-- > 24:45
+> :   "We see that this is a huge waste. But we can't go and blindly implement everything." (`M1`) -->
+<!-- > 24:54
+> :   "Wouldn't this actually go to the *marketing* top ten?" (`D3`) -->
 > 25:00
 > :   "I made a wishing well for us, and ... this can go there." (`D1`)
 > :   "To.. where?" (`M1`)
