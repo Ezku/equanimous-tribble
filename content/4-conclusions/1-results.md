@@ -39,6 +39,10 @@ The practice of a daily in conjunction with a kanban system supports continuous 
 
 The theoretical framework describes continuous improvement in practice as a process of collaborative and continuous innovation. Innovation is understood as successive surfacing and resolution of contradictions in a practice by transforming the team's object of activity and thus the practice itself. In the empirical study, the practice of a daily was established and disturbances in the practice were observed, linking them to transformations in the object of activity that the team encoded as changes to the kanban system.
 
+## Discussion
+
+- TBD
+
 ## Conclusions
 
 The objective of the thesis was to describe the use of a daily practice in conjunction with the use of a kanban system such that the concept of a daily itself might be expanded upon from dictates of agile software methodology. This was done by searching for evidence that such a use of the daily would support the lean goal of continuous improvement, as the use of a kanban system also does. The theoretical objective was to find a way to describe the daily in such a way as to make possible the identification of mechanisms supporting continuous improvement, which was served by the use of an activity theoretical framing of the daily activities. The empirical study was conducted to further this line of argumentation.
