@@ -21,6 +21,10 @@ In summary, the use of a kanban system with the practice of a daily allows the t
 
 > **ERQ2**: How do contradictions and their transformations manifest in the observed dailies?
 
+<!-- How did continuous improvement manifest in the observed daily practice? -->
+
+Activity theory was presented in section \ref{improvement-in-practice} as a way to study innovation in social interactions. According to the activity theoretical viewpoint, innovation happens in practices described as activity systems. Activity systems inherently feature structural tensions that may be resolved through a process of expansive learning. Expansive learning may be taken as a progression of constructing contradictory conditions in a practice and resolving them through transformations of that practice.
+
 - Define the daily as a practice
 - Delineate disturbances
 - Define contradictions
