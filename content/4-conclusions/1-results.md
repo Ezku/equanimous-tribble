@@ -25,7 +25,12 @@ Activity theory was presented in section \ref{improvement-in-practice} as a way 
 
 Deriving from the answer to **ERQ1**, the observed daily may be described as an activity system which exists to make sense of the work that is to be done. The object of activity is the collection of kanban boards and work items therein, and thus the sense-making is achieved by means of inspecting and manipulating the boards and the items. The daily is multi-voiced in terms of bringing together manager, developer and quality assurance perspectives. Historicity is featured in both the participants' understanding of what happens in a daily carrying over from one daily to the next, as well as in hints of the daily structure being encoded in the boards.
 
-- Delineate disturbances
+Disturbances, according to section \ref{contradictions}, are deviations from standard script or breaks of habit and indicate change potential in an activity system. By paying attention to apparent disturbances in the dailies, expressions of contradictions in the activity system could be found and analyzed. In some cases the team could take advantage of these expressions and make changes to the daily so that the contradictions were resolved. An unaddressed contradiction means that the team could not harness the change potential and improve; it could also be interpreted to result from a change that has been found not to be an improvement after all. Changes to the practice that propagate through four tiers of contradiction form an expansive learning cycle and become part of new accepted practice.
+
+
+
+
+
 - Define contradictions
 - Define transformations
 - How did these manifest in the daily
