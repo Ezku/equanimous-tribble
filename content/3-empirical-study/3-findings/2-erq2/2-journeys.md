@@ -269,15 +269,15 @@ The final step of the transformational journey occurs in daily `20`, when the `T
 #### Daily 20, `INBOX`
 
 > 08:40
-> :   "This [work item goes to] the tech wishing well?"
-> :   "Yeah, because it was the middle stage between wishlist and fire"
+> :   "This [work item goes to the] tech wishing well?" (`D1`)
+> :   "Yeah, because that was the middle stage between wishlist and fire" (`M1`)
 
-> 19:35
-> :   "So this goes to wishlist I guess"
-> :   "Isn't this about having centralized signout or something?"
-> :   "Yes but there's no business value in web so this should go to wishlist..."
-> :   "Maybe this goes into the tech wishing well?"
-> :   "Yes"
+> 19:27
+> :   "So... this goes into wishlist I guess?" (`D2`, accompanied by collective sighing)
+> 19:38
+> :   "But isn't this about having centralized signout or something?" (`M1`, providing rationale against wishlist placement)
+> :   "Yes but there's no business value [for implementing this in a specific way] so this should go to wishlist..." (`D2`, providing counter-rationale and restating suggestion)
+> :   "Maybe this goes somewhere like the tech wishing well?" (`D3`, suggesting a better solution given the rationale)
 
 Two new work items are processed which are considered to belong to `TECH WISHING WELL` board. The team discusses criteria for such items: “middle stage between wishlist and fire” and “no business value”. With the presentation and acceptance of these rationale, the meaning of `TECH WISHING WELL` is collaboratively constructed and affirmed. The tertiary contradiction between the previous state of practice and this new one is thus resolved and the use of the board may be seen to have become part of accepted practice for the team.
 
