@@ -1,5 +1,5 @@
 
-# The lean perspective
+# The lean perspective {#lean-perspective}
 
 In section \ref{agile} we described how agile took off after the prominent failure of plan-driven methods to help with software development, and how Scrum and dailies relate to the picture in terms of everyday software development activities. In this section we're going to cover the field of *lean software development*. First, we'll see how lean has a shared heritage with agile. Secondly, we'll find out about how lean principles are applicable to software development, which will finally lead us to kanban systems as a software development practice.
 
