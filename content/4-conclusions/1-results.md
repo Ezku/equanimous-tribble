@@ -48,7 +48,8 @@ The theoretical framework describes continuous improvement in practice as a proc
 
 ## Discussion
 
-- TBD
+The results of this thesis lie at the intersection of the agile and lean software development discourses. Agile models are described as well documented and readily adaptable \citep{abrahamsson2002agile}, but being empirically derived it is difficult to say why they work and to modify them successfully \citep[p. xiii-xvi]{poppendieck2003lean}. Lean software development consists of principles that serve as guiding ideas and insights, but are not easy to apply situationally \citep{poppendieck2003lean}, and even when concrete methods such as kanban are suggested they require supporting practices and significant effort to take up \citep{ahmad2013kanban}.
+
 
 The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
 
