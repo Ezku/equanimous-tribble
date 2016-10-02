@@ -35,12 +35,8 @@ Some observed contradictions and transformations could be understood as belongin
 
 The progression of disturbances bubbling up, contradictions being expressed, transformations getting suggested and being tried out was continuous. Rare was the daily where not a single transformation step played out. Multiple threads of interrelated transformations could be observed, meaning there were many overlapping cycles of expansive learning ongoing at any time.
 
+In the observed dailies, discovering latent contradictions relating to the kanban model and its use, accompanied with transformations to the same, were identified as the engine to improving the practice. The daily practice allowed these actions to be taken in a manner that can most aptly be described as continuous. Contradictions and transformations therefore manifested as the social mechanism enabling continuous improvement to take place.
 
-- How did these manifest in the daily
-- What does this mean
-  - What kind of things characterised as learning, growing and changing did we find?
-
-The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
 
 ## Answer to the research problem
 
@@ -53,6 +49,9 @@ The theoretical framework describes continuous improvement in practice as a proc
 ## Discussion
 
 - TBD
+
+The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
+
 
 ## Conclusions
 
