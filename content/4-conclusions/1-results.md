@@ -33,6 +33,8 @@ Transformations tended to be *additive* in nature, not subtractive; the tendency
 
 Some observed contradictions and transformations could be understood as belonging to sequences of actions in the expansive learning cycle. Section \ref{journey-of-transformation} describes one cycle where the team identifies a problem with work item categorisation, and creates new boards for reflecting different work item urgencies and stakeholders. As a result, incoming work items are not considered on a binary "fire or not" basis, but a larger spectrum of potential reactions is admitted.
 
+The progression of disturbances bubbling up, contradictions being expressed, transformations getting suggested and being tried out was continuous. Rare was the daily where not a single transformation step played out. Multiple threads of interrelated transformations could be observed, meaning there were many overlapping cycles of expansive learning ongoing at any time.
+
 
 - How did these manifest in the daily
 - What does this mean
