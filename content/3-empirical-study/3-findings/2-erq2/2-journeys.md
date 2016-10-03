@@ -5,6 +5,8 @@ In the introductory section the usefulness of a daily was set to question by the
 
 From the episodes found in the empirical data, a set was chosen such that their orientation is *not* toward the daily and what happens within but impactful on the outside world. They were curated into journeys, episodes which appeared related through their contradictions and their transformations. In this section, we follow one of those journeys in depth. We're going to find out about what was discussed in \ref{structural-change}, segments which prominently appeared and then vanished at the latter part of the observation period.
 
+### Trouble with work item categorization {#categorization-trouble}
+
 The journey starts with the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item.
 
 #### Daily 09, `INBOX`
@@ -43,6 +45,8 @@ It takes a while for the issue to brew and mature. Five observed dailies (more t
 > :   "No, no, we won't be doing it" (`D1` with what can be taken as a note of frustration)
 
 This time, instead of being satisfied with their declaration of an item being unfit for the apparent categories, the team does attempt to model the situation such that a suitable place could be found. The team's action demonstrates the existence and attempted resolution of a secondary contradiction, which goes as unresolved as the previous primary contradiction. Wherever the item is placed after this interaction, it's apparent the team isn't going to be satisfied. However, the team does clear one hurdle: now that the context of the discussion is `OUTBOX`, options other than wishlist and fire present themselves, and handling the work item as part of a release cycle is discussed.
+
+### Addition of new boards as a transformation {#new-boards-as-transformation}
 
 The scope of possible options is further expanded in the next daily. A work item that was initially processed as a fire is identified as actually not requiring action. Reference is made to the item's similarity with the one from the previous fragment. The work item depends on an external party, but is not impeded. It is done for a client but the scope is the whole product platform, and it's a technical customer need, but doesn't need to be resolved immediately.
 
@@ -90,6 +94,8 @@ The next fragment presents the team in the act of creating another new place for
 > :   "Can we have like 'module core' or something like that?" (`D2`)
 
 We notice in this interaction that the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team. The contradiction resolved is the fact of being unable to reflect that state of need in the model, and the resolution is to use the team's newfound powers to extend the model accordingly and create `MODULE CORE`.
+
+### Facing the effects of new boards {#effects-of-new-boards}
 
 It is after this point that the team needs to face the practical effects of having created new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily. The discussion is audibly confused, but uncharacteristically animated with people providing suggestions as almost interjections, as the team looks to interpret what it sees.
 
@@ -146,6 +152,8 @@ Another need related to longer term thinking presents itself in the same daily. 
 > :   "That we can leave there and go them through like once a month. `WATBOX`, next to `MONEYBOX`." (`M1`)
 
 The double bind of this situation can be described as follows: There's a need for following up on certain work items after an indeterminate amount of time. But if these items are left in `OUTBOX`, the team has to deal with them (e.g. by skipping) in every daily, which is undesirable. Proceeding to a secondary contradiction – on the other hand, if the items are not seen during the course of a daily, how would action ever be taken? The resolution is to not only have a `WATBOX`, but do decide on what is evidently a different treatment of that box as opposed to others so far.
+
+### Newly created boards solidify as accepted practice {#new-boards-accepted}
 
 The mere existence of a board affords the act of putting work items on it. That act, in the context of a daily, is collaborative and requires the development of a common understanding. The meaning of a board for the team comes into existence in a negotiation, where rationale for the use of a board is presented and either rejected or accepted. An example of such a negotiation occurs in daily `19`, when the placement of a work item in the `MONEYBOX` is challenged.
 
