@@ -56,9 +56,9 @@ This thesis suggests the activity theoretical perspective \citep{engestrom1999pe
 
 The use of activity theory allowed pointing out *specific features* of the observed daily practice as enabling continuous improvement. Disturbances were felt by team members in social interaction, which allowed surfacing contradictions in the practice. Identifying contradictions afforded transformation of the practice. Transformations didn't always work out to yield direct improvements, but progressions of identified contradictions and attempted transformations could do so. These are ingredients of the social process of innovation underlying continuous improvement.
 
-An activity theoretical perspective and vocabulary may be appropriated as a tool in the software development process improvement toolkit. To evaluate the effectiveness of a concrete practice which aims at continuous improvement, practitioners may therefore ask questions relating to how the practice affords these actions to take place. Such implications are discussed in section \ref{practical-implications}.
+The activity theoretical perspective and vocabulary may be appropriated as a tool in the software development process improvement toolkit. To evaluate the effectiveness of a concrete practice which aims at continuous improvement, practitioners may therefore ask questions relating to how the practice affords these actions to take place. Such implications are discussed further in section \ref{practical-implications}.
 
-The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
+The daily is a part of everyday life, not an out-of-ordinary interventionary measure. It is the recurrent nature of a daily which avails it as a means of continuous improvement.
 
 
 ## Conclusions
