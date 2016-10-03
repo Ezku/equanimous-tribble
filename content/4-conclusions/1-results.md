@@ -54,6 +54,8 @@ The results of this thesis lie at the intersection of the agile and lean softwar
 
 This thesis suggests the activity theoretical perspective \citep{engestrom1999perspectives} as complementing the agile and lean discourses. In summarization by \citet{hakkarainen2004communities}, activity theory holds that the source of innovation is overcoming tensions inherent in the activity. A method leveraging this feature is offered by which the daily, a concrete practice at the heart of the agile Scrum methodology \citep{west2010agile}, can be observed as supporting continuous improvement, a tenet of lean following from the principle of waste reduction \citep{bhuiyan2005overview}.
 
+The use of activity theory allowed pointing out *specific features* of the observed daily practice as enabling continuous improvement. Disturbances were felt by team members in social interaction, which allowed surfacing contradictions in the practice. Identifying contradictions afforded transformation of the practice. Transformations don't always work out to yield direct improvements, but progressions of identified contradictions and attempted transformations may do so. To evaluate the effectiveness of a concrete practice which aims at continuous improvement, an agile or lean practitioner may therefore ask of themselves questions relating to how the practice affords these actions to take place. In conclusion, an activity theoretical perspective and vocabulary may be appropriated as one more tool in the software development process improvement toolkit.
+
 The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
 
 
