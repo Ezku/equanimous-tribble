@@ -48,10 +48,9 @@ The theoretical framework describes continuous improvement in practice as a proc
 
 ## Discussion
 
-The results of this thesis lie at the intersection of the agile and lean software development discourses. Agile models are described as well documented and readily adaptable \citep{abrahamsson2002agile}, but being empirically derived it is difficult to say why they work and to modify them successfully \citep[p. xiii-xvi]{poppendieck2003lean}. Lean software development consists of principles that serve as guiding ideas and insights, but are not easy to apply situationally \citep{poppendieck2003lean}, and even when concrete methods such as kanban are suggested they require supporting practices and significant effort to take up \citep{ahmad2013kanban}.
+The results of this thesis lie at the intersection of the agile and lean software development discourses. Agile models are described as well documented and readily adaptable \citep{abrahamsson2002agile}, but with them being empirically derived it is difficult to say why they work or to modify them successfully \citep[p. xiii-xvi]{poppendieck2003lean}. Lean software development consists of principles that serve as guiding ideas and insights, but are not easy to apply situationally \citep{poppendieck2003lean}, and even when concrete methods such as kanban are suggested they require supporting methods and significant effort to take up \citep{ahmad2013kanban}.
 
-This thesis suggests the activity theoretical perspective by \citet[e.g.][]{engestrom1999perspectives} as a way to unify part of the two discourses relating to practices. A method is suggested by which the daily, a concrete practice stemming from the agile Scrum methodology, can be observed to implement the principle of continuous improvement, a fundamental lean principle.
-
+This thesis suggests the activity theoretical perspective by \citet[e.g.][]{engestrom1999perspectives} as a way to unify part of the two discourses relating to practices. A method is suggested by which the daily, a concrete practice at the heart of the agile Scrum methodology \citep{west2010agile}, can be observed to implement continuous improvement, a tenet of lean following from the pricinple of waste reduction \citep{bhuiyan2005overview}.
 
 The daily is a part of everyday life, not interventionary. It is the recurrent nature of a daily which avails it as a means for continuous transformation.
 
