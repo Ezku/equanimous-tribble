@@ -31,7 +31,16 @@ The final part of the empirical analysis was enabled by a joining of the theoret
 
 ## Overview of collected data
 
-This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. When specific dailies are discussed, their index number (from `01` to `20`) will be used.
+This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. <!-- When specific dailies are discussed, their index number (from `01` to `20`) will be used. --> The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
+
+\pagebreak{}
+
+<!-- | Metric      |   | Effective |
+|-------------|---|----------:|
+| **Total**   |   |  11:33:21 |
+| **Average** |   |  00:34:40 |
+
+Table: Aggregate metrics of effective daily durations. -->
 
 | Daily index | Date       | Recorded | Effective | Language | Attendance |
 |-------------|------------|---------:|----------:|----------|-----------:|
@@ -57,15 +66,6 @@ This section presents an outline on the data and its salient features. Table \re
 | 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
 
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
-
-The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. 
-
-| Metric      |   | Effective |
-|-------------|---|----------:|
-| **Total**   |   |  11:33:21 |
-| **Average** |   |  00:34:40 |
-
-Table: Aggregate metrics of effective daily durations.
 
 ### Attendance and language
 
