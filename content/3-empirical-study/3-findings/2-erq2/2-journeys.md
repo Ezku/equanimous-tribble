@@ -126,12 +126,8 @@ The next fragment finds the team rejecting a work item as reflecting an overly s
 > 25:55
 > :   "So... we put this in the module backlog, but under a different description... or, wishlist, or..?" (`D1`, unsure which action to take as secretary)
 > 26:10
-<!-- > :   "What?" (`M1`) -->
 > :   "What do we do?" (`D1`)
-<!-- > :   "If there's a supersonic-and-frontend backlog" (`D2`)-->
-<!-- > :   "I don't think so" -->
-:   "I don't know what we should do–" (`M1`)
-<!-- but I don't think we should do a task like that-->
+> :   "I don't know what we should do–" (`M1`)
 > 26:25
 > :   "Hey, this is a `MODULE CORE` thing, right?" (`D1`)
 
@@ -262,8 +258,6 @@ At this point in time, the team has a total of four new boards to use as boxes t
 > :   "Watbox doesn't need to [be gone] through" (`M1`)
 > 45:44
 > :   "Maybe we should move watbox out" (`D1`)
-<!-- > :   "Exactly"
-> :   "I'm moving it next to 'hard and scary'" -->
 > 46:20, `MARKETING BOX`
 > :   "Is marketing already updated?" (`M1` rhetorically to driver)"
 > :   "Yep, it's just my placeholders..." (`M1` pointing out there's no action to take)
