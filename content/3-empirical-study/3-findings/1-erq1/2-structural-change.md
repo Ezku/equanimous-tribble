@@ -33,9 +33,7 @@ Table \ref{segment-deltas} details occurrences of daily segments. The segments `
   respect all
 ]{data/processed/segment-deltas.csv}
 
-Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards' layout, or are the boards merely arranged in imitation of the daily? To answer this question, consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
-
-How did the aforementioned "box" segments end up in the daily? To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. Table \ref{difference-in-board-layout} describes modifications made to the board layout for daily `19`.
+It might be reasonable to infer a causality here. However, it's not evident if the team's daily structure is indeed encoded in the kanban boards' layout, or if the boards are merely arranged in imitation of the daily. To answer this question, consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`. To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. Table \ref{difference-in-board-layout} describes modifications made to the board layout for daily `19`.
 
 | Prior to daily `19`           | Daily `19`                    |
 |-------------------------------|-------------------------------|
