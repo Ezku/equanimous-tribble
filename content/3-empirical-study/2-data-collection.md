@@ -1,7 +1,7 @@
 
 # Data collection and analysis
 
-## Research methodology {#research-methodology}
+## Research and data analysis methodology {#research-methodology}
 
 From December 2015 to January 2016, a period of time including a break for seasonal holidays, 20 individual daily events were observed and recorded. The time span was chosen both to get a representative sample of dailies and to allow for the potential discovery of a shift in the team's understanding of the system of work and the flow of work through the system.
 
