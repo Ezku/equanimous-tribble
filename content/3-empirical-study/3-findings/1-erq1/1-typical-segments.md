@@ -128,14 +128,14 @@ Negotiation on how thoroughly the board will be combed also happens. Here, a dev
 
 It's shortly determined that there would be nothing to gain, and the team moves on to a new board.
 
-#### Priority lane
+#### Priority lane, 17:15.
 
 The driver opens up *"Priority lane"*, commencing the `PRIORITY LANE` segment. The flow of discussion is similar, with moved work items getting discussed from top to bottom. However, the team has chosen to label the states differently. There is significantly less structure as compared to fires: **DONE**, **DOING**, **TODO** and **LONGSTANDING**. This can be attributed to the non-technical or perhaps ad-hoc nature of work items placed here.
 
 A developer immediately starts relating the outcome of a discussion that was modelled as a work item on the priority lane and can now be seen by the team as "done":
 
 17:15
-:   "This was huge: [..]" (`D`, with explanation of defects discovered in production system)
+:   "This was huge: [..]" (`D`, adding explanation of defects discovered in production system)
 
 Due to the critical nature of the findings, the team would expect there to have been a follow-up work item. A manager expresses concern on whether action will be taken. This gives rise to a discussion on how the flow of work is being modelled for the team's benefit in this specific occasion:
 
