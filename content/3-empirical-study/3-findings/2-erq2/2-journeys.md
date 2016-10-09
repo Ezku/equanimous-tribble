@@ -251,17 +251,21 @@ At this point in time, the team has a total of four new boards to use as boxes t
 
 #### Daily 19
 
-> 45:33, `MONEYBOX`
+> 45:33
+> :   `MONEYBOX`
 > :   "Moneybox! ... Nothing new." (`D1`, as secretary)
-> 45:37, `WATBOX`
+> 45:37
+> :   `WATBOX`
 > :   "Watbox!" (`D1`)
 > :   "Watbox doesn't need to [be gone] through" (`M1`)
 > 45:44
 > :   "Maybe we should move watbox out" (`D1`)
-> 46:20, `MARKETING BOX`
-> :   "Is marketing already updated?" (`M1` rhetorically to driver)"
+> 46:20
+> :   `MARKETING BOX`
+> :   "Is marketing already updated?" (`M1` rhetorically to driver)
 > :   "Yep, it's just my placeholders..." (`M1` pointing out there's no action to take)
-> 46:33, `NON-CORE MODULE CONTINUUM`
+> 46:33
+> :   `NON-CORE MODULE CONTINUUM`
 > :   "Should we move tech wishing well elsewhere as well, if we don't want to go through it here? ... Moving it next to watbox." (`D1`)
 
 The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
