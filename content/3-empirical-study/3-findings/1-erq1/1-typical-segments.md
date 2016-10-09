@@ -5,16 +5,17 @@ An overview of the structure of a daily is afforded to us by the segment analysi
 
 \pagebreak{}
 
-| **Segment**        | **Duration** |
-|--------------------|--------------|
-| INTRO              | 00:10:45     |
-| INBOX              | 00:01:45     |
-| FIRES              | 00:04:05     |
-| PRIORITY LANE      | 00:03:30     |
-| OUTBOX             | 00:03:20     |
-| QUESTIONS          | 00:02:00     |
-| BOARD OVERVIEW     | 00:02:13     |
-| **Total duration** | 00:28:18     |
+| **Segment**               | **Duration** |
+|---------------------------|--------------|
+| INTRO                     | 00:10:45     |
+| INBOX                     | 00:01:45     |
+| FIRES                     | 00:04:05     |
+| PRIORITY LANE             | 00:03:30     |
+| OUTBOX                    | 00:03:20     |
+| QUESTIONS                 | 00:00:41     |
+| NON-FUNCTIONAL CONTINUUM  | 00:01:19     |
+| BOARD OVERVIEW            | 00:02:13     |
+| **Total duration**        | 00:28:18     |
 
 Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
@@ -205,7 +206,7 @@ By this point, the team is evidently anxious to move forward: several members in
 
 Team members express desire to move on and perhaps finish the daily, but the manager wants to be more thorough. With that note, the driver shows the next board.
 
-#### Non-functional continuum
+#### Non-functional continuum, 24:46.
 
 The non-functional continuum board consists of small tasks that have only superficial effect on the product and can thus be shipped immediately. The structure and sectioning is similar to "fires", but the work reflected therein is considered to be of less urgency by nature.
 
