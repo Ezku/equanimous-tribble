@@ -249,7 +249,7 @@ No action is needed from the driver as the discussion items of this section are 
 
 Manager calls for cycles being more clearly defined bundles of tasks, because a vague umbrella topic does not aid in understanding the work. The developer admits to not having been wanting to do this before. Perhaps the more specific name does not entirely describe the referred cycle's scope, or a better understanding has only recently arisen and the project's name is lagging behind.
 
-Also of note is that the developer expresses having a sense of ownership over "his" tasks. There's apparently a domain that the developer personally is responsible for and this cycle would lie within that domain.
+<!-- Also of note is that the developer expresses having a sense of ownership over "his" tasks. There's apparently a domain that the developer personally is responsible for and this cycle would lie within that domain. -->
 
 28:15
 :   "Alright ... Now we're done." (`M`)
