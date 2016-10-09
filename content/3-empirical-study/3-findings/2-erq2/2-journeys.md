@@ -16,8 +16,6 @@ The journey starts with the first time that the team can be observed to identify
 > :   "Let's put this [new work item] on the 'required' list" (`D1`)
 > 05:11
 > :   "Okay, so... wishlist?" (`D2`)
-<!-- > 05:16
-> :   "Well..." (`D3`) -->
 > 05:18
 > :   "This is a funny thing to be putting on a wishlist" (`D2`)
 > 05:18
@@ -57,10 +55,8 @@ The scope of possible options is further expanded in the next daily. A work item
 
 > 29:02
 > :   "So how many weeks until [the client] need this?" (`D1`)
-<!-- > :   "Impeded!" (`M1`) -->
 > 29:10
 > :   "Is this like a non-core, pending for project thing?" (`D1`)
-<!-- > :   "No, impeded!" (`M1`) -->
 > 29:28
 > :   "Why not move this to [a release cycle]?" (`D2`)
 > 29:48
@@ -85,8 +81,6 @@ The next fragment presents the team in the act of creating another new place for
 > 37:50
 > :   "Do we some kind of list or ability to make a list of stuff that is not in [part of the platform] but should be?" (`M1`)
 > :   "No, we don't have a list" (`D1`, dejected?)
-<!-- > 38:03
-> :   "But do we have the ability to make a list?" (`M1`) -->
 > 38:06
 > :   "Do we even know what these things [that are not part of the platform but should be] are?" (`M1`)
 > 39:15
@@ -94,7 +88,6 @@ The next fragment presents the team in the act of creating another new place for
 > :   "Would you like me to make one now?" (`D1`)
 > :   "Wouldn't it make sense?" (`M1`)
 > 39:35
-<!-- > :   "What's the theme called?" -->
 > :   "Can we have like 'module core' or something like that?" (`D2`)
 
 We notice in this interaction that the team has resolved a latent contradiction which could be observed at a distance but did not come up in the discussion had in the daily `09` fragment. At that point in time, the team was not an entity that could 'need' something to be done, and the inability to model such a state of affairs reflected that fact. But now the question is, "wouldn't it make sense" to create a new thing to help document the state of need experienced by the team. The contradiction resolved is the fact of being unable to reflect that state of need in the model, and the resolution is to use the team's newfound powers to extend the model accordingly and create `MODULE CORE`.
@@ -163,8 +156,6 @@ The mere existence of a board affords the act of putting work items on it. That 
 > **Daily 19,**
 > :   `INBOX`
 
-<!-- > 15:40
-> :   "So it's missing a case" (`M1`) -->
 > 15:50
 > :   "We don't have a use case" (`M1`)
 > 15:55
@@ -182,13 +173,13 @@ The contradiction is a secondary one, having to do with a recently introduced bo
 
 A lot of noteworthy interactions happen in this very same daily. Next we'll find the team coming to grips with the use of a `MARKETING BOX`, introduced from the outside. The introduction bears relation to the previous agency-taking behavior of this team observed in daily `16`. The board itself belongs to a category of boards where stakeholdership of a work item is the determining factor: who is it that cares about the completion of this item?
 
-#### Daily 19, `INBOX`
+> **Daily 19,**
+> :   `INBOX`
 
 > 19:36
 > :   "'Marketing will go through all the items in the wishlist and put them in... [`MARKETING BOX`]'?" (`D1` reading out loud)
 > 19:42
 > :   "Yes. So, we have this very very long wishlist. [...]" (`M1`)
-<!-- I went this through with Marko and Harri that [Marketing] will go through all the items and put them to [`MARKETING BOX`]... -->
 > 20:05
 > :   "It's there, below `QUESTIONS`" (`M1`)
 > :   "[Items in the wishlist] get a top 10 priority and the rest is still wishlist. So, just an announcement. [...]" (`M1`)
@@ -219,12 +210,6 @@ The themes of long-term planning and wishlists segmented by different stakeholde
 > 24:27
 > :   "Isn't priority lane..?" (`QA`, invoking another parallel)
 > :   "Sure, but priotity lane means that we are doing it" (`M1`, motivating difference)
-<!-- > :   "So let's make a tech 'top ten'" (`D3`, drawing from marketing box)
-> :   "I think we should have this. Each group has their own wishlist, top 10" (`D4`) -->
-<!-- > 24:45
-> :   "We see that this is a huge waste. But we can't go and blindly implement everything." (`M1`) -->
-<!-- > 24:54
-> :   "Wouldn't this actually go to the *marketing* top ten?" (`D3`) -->
 > 25:00
 > :   "I made a wishing well for us, and ... this can go there." (`D1`)
 > :   "To.. where?" (`M1`)
