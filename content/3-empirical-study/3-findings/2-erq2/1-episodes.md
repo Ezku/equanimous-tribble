@@ -5,7 +5,8 @@ In section \ref{typical-segments} we looked into how a daily happens and what ki
 
 The first episode represents a primary contradiction with an immediate transformation.
 
-#### Daily 04, `NON-FUNCTIONAL`
+> **Daily 04,**
+> :   `NON-FUNCTIONAL`
 
 > 30:40
 > :   "If we are skipping modules all the time, then we need to move non-functional on top of modules" (`M`)
@@ -18,7 +19,8 @@ A manager observes that the team's kanban boards are ordered such that the drive
 
 In the previous simple scenario a new modelling of the situation was apparent. Not all primary contradictions afford such easy resolution. In the following fragment, two developers have an exchange reflecting a more fundamental tension.
 
-#### Daily 14, `FIRES`
+> **Daily 14,**
+> :   `FIRES`
 
 > 14:05
 > :   "`D1`, this [fire] was here yesterday. Did you do anything about this?" (`D2`)
@@ -32,7 +34,8 @@ The very existence of work items categorised as fires is contradictory to the te
 
 The following fragment exemplifies a secondary contradiction. The team has encountered a swath of new work items and has found that most of them are unaddressable collaboratively by the team.
 
-#### Daily 15, `INBOX`
+> **Daily 15,**
+> :   `INBOX`
 
 > 22:18
 > :   "Would it make sense that we had two inboxes?" (`M`)
@@ -55,7 +58,8 @@ The manager concedes that the situation does not have an ambiguous resolution. N
 
 The next fragment is familiar from daily `03`, presented earlier in section \ref{typical-segments}. A developer is explaining a failure discovered in production. Previous to this point in the discussion, the developer has taken measures to address a concern by a product owner and announced to the team that work items that are *fires* but related to *modules* shall be presented in the "module continuum" board. This new method conflicts with the way the team has previously modelled the timeliness requirements of fires as opposed to other tasks, and represents a tertiary contradiction.
 
-#### Daily 03, `PRIORITY LANE`
+> **Daily 03,**
+> :   `PRIORITY LANE`
 
 > 18:00
 > :   "But isn't that kind of a *fire*?" (`M`)
@@ -72,7 +76,8 @@ The developer has, while applying a new approach suggested by the PO and present
 
 The final disturbance presented here will feature a quaternary contradiction, one that represents a challenge in aligning the practices of this team and another. The team is in the process of shipping a bundle of features, which would require the cooperation from a team that is seen to be difficult to reach out to.
 
-#### Daily 16, `OUTBOX`
+> **Daily 16,**
+> :   `OUTBOX`
 
 > 14:10
 > :   "'[Other team] is almost but not quite [..] hard to reach'" (`D1` reading out item)

@@ -9,7 +9,8 @@ From the episodes found in the empirical data, a set was chosen such that their 
 
 The journey starts with the first time that the team can be observed to identify a problem with the way they handle inbox items. The standard procedure options apparent to the team are handling the new work item as either wishlist or fire. Here, they come across a work item that does not fit their conception of either. The item appears to the team as simultaneously less urgent than a fire yet more important than a wishlist item.
 
-#### Daily 09, `INBOX`
+> **Daily 09,**
+> :   `INBOX`
 
 > 05:10
 > :   "Let's put this [new work item] on the 'required' list" (`D1`)
@@ -26,7 +27,8 @@ The team would not like to apply the standard procedures in place - either of th
 
 It takes a while for the issue to brew and mature. Five observed dailies (more than three weeks of calendar time) later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
 
-#### Daily 14, `OUTBOX`
+> **Daily 14,**
+> :   `OUTBOX`
 
 > 21:33
 > :   "I guess wishlist or something would be inappropriate?" (`M1`, presenting wishlist as a precluded option)
@@ -50,7 +52,8 @@ This time, instead of being satisfied with their declaration of an item being un
 
 The scope of possible options is further expanded in the next daily. A work item that was initially processed as a fire is identified as actually not requiring action. Reference is made to the item's similarity with the one from the previous fragment. The work item depends on an external party, but is not impeded. It is done for a client but the scope is the whole product platform, and it's a technical customer need, but doesn't need to be resolved immediately.
 
-#### Daily 15, `FIRES`
+> **Daily 15,**
+> :   `FIRES`
 
 > 29:02
 > :   "So how many weeks until [the client] need this?" (`D1`)
@@ -76,7 +79,8 @@ Now, the direction of the discussion moves to not only rationalisation through e
 
 The next fragment presents the team in the act of creating another new place for work items. In doing so, the team frames itself as a stakeholder in the equation of work organisation, and as being capable of declaring things being worthy of doing, of collecting work items to backlogs. Compared to the previous state of affairs this is an empowerment and an expansion of the team's capabilities. The team is beginning to graduate from yes/no, now/never classifier of input to a more nuance-capable actor.
 
-#### Daily 16, `OUTBOX`
+> **Daily 16,**
+> :   `OUTBOX`
 
 > 37:50
 > :   "Do we some kind of list or ability to make a list of stuff that is not in [part of the platform] but should be?" (`M1`)
@@ -99,7 +103,8 @@ We notice in this interaction that the team has resolved a latent contradiction 
 
 It is after this point that the team needs to face the practical effects of having created new boxes. To have any kind of effect on outcomes, they need to be *used* in some way, and thus the team browses through `MONEYBOX` as part of the daily. The discussion is audibly confused, but uncharacteristically animated with people providing suggestions as almost interjections, as the team looks to interpret what it sees.
 
-#### Daily 17, `MONEYBOX`
+> **Daily 17,**
+> :   `MONEYBOX`
 
 > 43:35
 > :   "Moneybox!" (`D1`)
@@ -119,7 +124,8 @@ It's found that the `MONEYBOX` needs to be further refined to support the team's
 
 The next fragment finds the team rejecting a work item as reflecting an overly short-sighted approach. The team again doesn't seem to feel they have the right kind of board at hand for the work item. The 'new rules' of problem solving introduced in daily `16` also gradually start to set in: team members see new boxes as an option to take for inbox items.
 
-#### Daily 18, `INBOX`
+> **Daily 18,**
+> :   `INBOX`
 
 > 25:45
 > :   "You know better what needs to be done, but we need to be building a platform" (`M1`)
@@ -135,7 +141,8 @@ The situation surfaces a primary contradiction in that there appears to be a con
 
 Another need related to longer term thinking presents itself in the same daily. The team identifies a work item that they identify as needing attention but which is not critical and which may not be taken action with at the moment. This time, the discussion takes a quick leap to the pattern of solutions applied before: would a new box be needed?
 
-#### Daily 18, `OUTBOX`
+> **Daily 18,**
+> :   `OUTBOX`
 
 > 35:46
 > :   "So this is done?" (`M1`)
@@ -153,7 +160,8 @@ The double bind of this situation can be described as follows: There's a need fo
 
 The mere existence of a board affords the act of putting work items on it. That act, in the context of a daily, is collaborative and requires the development of a common understanding. The meaning of a board for the team comes into existence in a negotiation, where rationale for the use of a board is presented and either rejected or accepted. An example of such a negotiation occurs in daily `19`, when the placement of a work item in the `MONEYBOX` is challenged.
 
-#### Daily 19, `INBOX`
+> **Daily 19,**
+> :   `INBOX`
 
 <!-- > 15:40
 > :   "So it's missing a case" (`M1`) -->
@@ -192,7 +200,8 @@ From the perspective of the other team, this interaction could reflect a quatern
 
 The themes of long-term planning and wishlists segmented by different stakeholders come together in the following fragment. The team identifies a step in the company's service delivery process that results in significant overhead and thus waste. However, the issue is not so serious as to be a fire, and the team believes a product owner prioritising a wishlist would not rate the problem as high as the team. How should the situation be modelled, if the desire is nevertheless to get the issue solved at the opportune time? The marketing team has their own wishlist - perhaps the tech team deserves the same treatment!
 
-#### Daily 19, `INBOX`
+> **Daily 19,**
+> :   `INBOX`
 
 > 23:05
 > :   "What if we implement [improvement] [...] it's a huge overhead [having to do without]" (`M1`, motivates desire to act on problem)
@@ -227,7 +236,8 @@ The contradiction underlying this exchange lies in the conflicting needs of diff
 
 The new `TECH WISHING WELL` board is quickly transformed into an accepted part of practice. The team finds that there are other new work items that might best be placed there.
 
-#### Daily 19, `INBOX`
+> **Daily 19,**
+> :   `INBOX`
 
 > 26:51
 > :   "This [defect] is horrible. So could we instead of shoveling this to wishlist .. put this to the newly created wishing well?" (`M1`, breaking from previous norm)
@@ -249,7 +259,7 @@ The practice of placing work items in the `TECH WISHING WELL` during `INBOX` is 
 
 At this point in time, the team has a total of four new boards to use as boxes to shovel inbox items to: `MONEYBOX`, `WATBOX`, `MARKETING BOX` and `TECH WISHING WELL`. In daily `17`, the team found they needed more structure for `MONEYBOX` to use it more effectively. In the following, the team makes additional findings regarding all of these mentioned boxes during a short "drive-through" by the driver and secretary.
 
-#### Daily 19
+> **Daily 19**
 
 > 45:33
 > :   `MONEYBOX`
@@ -272,7 +282,8 @@ The boxes come up during the regular course of the daily, but there is nothing t
 
 The final steps of the transformational journey occur in daily `20`, when the `TECH WISHING WELL` gets more things assigned on two distinct occasions. We can observe that the team members are now prepared to argue for and rationalise their choice of `TECH WISHING WELL` as the category for a specific work item.
 
-#### Daily 20, `INBOX`
+> **Daily 20,**
+> :   `INBOX`
 
 > 08:40
 > :   "This [work item goes to the] tech wishing well?" (`D1`)
