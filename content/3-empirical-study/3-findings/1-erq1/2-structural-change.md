@@ -18,7 +18,7 @@ BOARD OVERVIEW           | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
 
-In support of this deduction we can can consider table \ref{segment-deltas}. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively. We could consider these top segments to form the stable skeleton of a daily.
+Table \ref{segment-deltas} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
 
 Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards' layout, or are the boards merely arranged in imitation of the daily? To answer this question, we may consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives us a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
 
