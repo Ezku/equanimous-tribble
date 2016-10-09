@@ -251,7 +251,7 @@ At this point in time, the team has a total of four new boards to use as boxes t
 
 #### Daily 19
 
-> 45:33
+> 45:33, `MONEYBOX`
 > :   "Moneybox! ... Nothing new." (`D1`, as secretary)
 > 45:37, `WATBOX`
 > :   "Watbox!" (`D1`)
