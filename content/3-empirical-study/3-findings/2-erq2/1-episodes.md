@@ -1,7 +1,7 @@
 
 ## Episodes of contradiction {#episodes-of-contradiction}
 
-In section \ref{typical-segments} we looked into how a daily happens and what kinds of activities a daily constitutes. Section \ref{structural-change} linked structural change in a daily to change in kanban boards, but the question of how that change happens was left open. Ground will be laid for answering **ERQ2** by investigating contradictions as the source of change. In section \ref{contradictions} we identified four different kinds of contradictions, and in this section, occurrences of the different contradictions are exemplified through individual episodes.
+In section \ref{typical-segments} we looked into how a daily happens and what kinds of activities a daily constitutes. Section \ref{structural-change} linked structural change in a daily to change in kanban boards, but the question of how that change happens was left open. Ground will be laid for answering **ERQ2** by investigating contradictions as the source of change. In section \ref{activity-theory} we identified four different kinds of contradictions, and in this section, occurrences of the different contradictions are exemplified through individual episodes.
 
 The first episode represents a primary contradiction with an immediate transformation.
 
@@ -93,4 +93,4 @@ The situation appears to be tentatively resolved by a scheduled coming-together 
 
 In this section we have seen disturbances in the daily practice that could be interpreted as reflecting contradictions of all the tiers from primary to quaternary, and also seen how a transformation to resolve the contradiction may nor may not come up and likewise may or may not be accepted. Furthermore, some of the disturbances were clearly linked to how things are *done*, but others merely on how the doing is *modelled*.
 
-The observations go to show that disturbances indeed do occur, and that they may be linked to transformations. However, we might collect and catalogue all of the individual disturbances but still not be much better off in our capability to understand the usefulness of them to the team. As described in section \ref{contradictions}, expansive transformations are supposed to happen over periods of time and as successive episodes where contradictions are brought up and resolved. In the next section we'll be looking for evidence of just such a process.
+The observations go to show that disturbances indeed do occur, and that they may be linked to transformations. However, we might collect and catalogue all of the individual disturbances but still not be much better off in our capability to understand the usefulness of them to the team. As described in section \ref{activity-theory}, expansive transformations are supposed to happen over periods of time and as successive episodes where contradictions are brought up and resolved. In the next section we'll be looking for evidence of just such a process.

@@ -19,9 +19,7 @@ The most prominent conjunction of activity theory and software development so fa
 
 The activity theoretical approach appears to be a good fit for describing CI based on what we found out in section \ref{ci}. We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a group of people having the same object of activity. In the empirical study we will be taking this view and applying a strategy inspired by \citet{nicolini2009zooming}, where we *zoom in and out* of a practice and inspect it on different levels - from patterns of interactions between individuals to the wider texture of related practices. In the next section we will familiarize ourselves with activity theory and how it relates to our focus of investigation, innovation.
 
-## Activity theoretical perspective on innovation
-
-### Principles of activity theory
+## Activity theoretical perspective on innovation {#activity-theory}
 
 Activity theory can be seen as a general paradigm of studying transformations and social processes, where different activities are distinguished by their objects. \citep{kerosuo2010promoting} The object of an activity is the reason the activity exists; without the object of work the activity would cease. \citep{engestrom2000activity} An activity system may be seen as a sensemaking device where the "raw" object is, as the outcome of a process, transformed into another, collectively understood object. \citep{engestrom2001expansive}
 
@@ -35,9 +33,7 @@ Activity theory can be seen as a general paradigm of studying transformations an
 
 Activity theory concerns the analysis of activity systems which are oriented towards an object of activity, mediated by artefacts and collaborative in nature. Multi-voicedness stems from the fact that in a collaborative effort there are always multiple viewpoints; division of labor serves to create different viewpoints for collaborators with different personal histories. The system itself is historical, too, with rules, conventions and artefacts to attest to that. Stemming from historicity and interactions with an environment, activity systems may be seen as residing inherently in a perpetual state of contradiction, structural tensions between aspects of the system. Finally, it's recognized that these contradictions may be aggravated such that qualitative, expansive transformations in the activity system takes place.
 
-An activity system has a few interesting features in terms of change, learning and innovation. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place.
-
-### Contradictions as a source of innovation {#contradictions}
+An activity system has a few interesting features in terms of change, learning and innovation. Historicity, the fact that before this state of the activity system there was another state that looked a bit different, implies that the system can get out of date with regard to objects and other systems it interfaces with. It is these expansive transformations which constitute innovation in the terms we lined out in section \ref{process-of-innovation}. <!-- Let us dig deeper into the terms of contradiction and how a process of expansive transformation might take place. -->
 
 Innovation tends to occur when there is pressure to change. Within practices, this pressure may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning,engestrom2001expansive} describes these situations as developmental contradictions in the practice that generate disturbances. Disturbances are episodes of deviation from standard script <!-- FIXME: Sources --> (Engestrom 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
 
