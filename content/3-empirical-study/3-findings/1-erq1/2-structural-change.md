@@ -21,8 +21,6 @@ Table: List of daily segments and the kanban board list for daily `03` overlaid.
 
 Table \ref{segment-deltas} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
 
-Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards' layout, or are the boards merely arranged in imitation of the daily? To answer this question, we may consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives us a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
-
 \csvautolongtable[
   table head={
     \caption{First and last occurrences of segments through observation period with the count of occurrences in between.}\label{segment-deltas}\\\hline
@@ -35,9 +33,11 @@ Is it reasonable to infer a causality? Is the team's daily structure indeed enco
   respect all
 ]{data/processed/segment-deltas.csv}
 
-How did the aforementioned "box" segments end up in the daily? To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. What kind of modifications were made to the board layout then, if any?
+Is it reasonable to infer a causality? Is the team's daily structure indeed encoded in the kanban boards' layout, or are the boards merely arranged in imitation of the daily? To answer this question, consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`.
 
-| Prior to `19`                 | `19`                          |
+How did the aforementioned "box" segments end up in the daily? To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. Table \ref{difference-in-board-layout} describes modifications made to the board layout for daily `19`.
+
+| Prior to daily `19`           | Daily `19`                    |
 |-------------------------------|-------------------------------|
 | INBOX (Composer 2)            | INBOX (Composer 2)            |
 | [FIRE]: This must be emptied  | [FIRE]: This must be emptied  |
@@ -49,9 +49,9 @@ How did the aforementioned "box" segments end up in the daily? To corroborate a 
 | CONTINUUM: Non-functional     | CONTINUUM: Non-functional     |
 | CONTINUUM: Modules            | CONTINUUM: Modules            |
 
-Table: Difference in board layout for daily `19`.
+Table: Difference in board layout for daily `19`.\label{difference-in-board-layout}
 
-Boards associated with the segments `MONEYBOX` and `MARKETING BOX` appear in the layout among the most commonly used boards by daily `19`. `WATBOX` seems to be an anomaly, because although it is exhibited in the daily segment after `MONEYBOX` the board itself is still out of the way and would not even be visible on the driver's screen. Apparently there was a commonality between the three, however, because in daily `20` the team has again groomed the boards for `MONEYBOX` and `MARKETING BOX` outside the group of most common boards and together with `WATBOX`.
+By daily `19`, boards associated with the segments `MONEYBOX` and `MARKETING BOX` appear in the layout, intermingled among the most commonly used boards. `WATBOX` seems to be an anomaly, because although it is exhibited in the daily segment after `MONEYBOX` the board itself is still out of the way and would not even be visible on the driver's screen. Apparently there was a commonality between the three, however, because in daily `20` the team has again groomed the boards for `MONEYBOX` and `MARKETING BOX` outside the group of most common boards and together with `WATBOX`.
 
 One interpretation for this series of events is that there occurred a disturbance which necessitated the provision of new places to put things for them to get done eg. at the appropriate timeliness. The boards are perused once or twice in dailies until the team figures that it's not getting any use out of doing this commonally, at which point the boards are moved out of the way of the ordinary daily flow.
 
