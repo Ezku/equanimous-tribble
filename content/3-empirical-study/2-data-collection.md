@@ -58,6 +58,15 @@ This section presents an outline on the data and its salient features. Table \re
 
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. \label{daily-overview}
 
+The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. 
+
+| Metric      |   | Effective |
+|-------------|---|----------:|
+| **Total**   |   |  11:33:21 |
+| **Average** |   |  00:34:40 |
+
+Table: Aggregate metrics of effective daily durations.
+
 ### Attendance and language
 
 The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
@@ -68,18 +77,22 @@ For the sake of both succinctness and preservation of anonymity, when these role
 
 Due to its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). When quotes originally in Finnish are presented in the empirical findings section, translations by the researcher are shown for accessibility.
 
-### Durations and segments {#durations-and-segments}
+### Identified segments and their codification {#durations-and-segments}
 
-The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
+A total of 13 different daily segments were identified in the material. Unless otherwise specified, the segment is named by reference to a concrete instance of a board. Prominent examples include `INBOX` and `FIRES`. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}. An overview of identified segments and how they were codified follows.
 
-| Metric      |   | Effective |
-|-------------|---|----------:|
-| **Total**   |   |  11:33:21 |
-| **Average** |   |  00:34:40 |
+\csvautolongtable[
+  table head={
+    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
+    \csvlinetotablerow\\\hline
+    \endfirsthead\hline
+    \csvlinetotablerow\\\hline
+    \endhead\hline
+    \endfoot
+  },
+  respect all
+]{data/processed/total-segment-lengths.csv}
 
-Table: Aggregate metrics of effective daily durations.
-
-A total of 13 different daily segments were identified in the material. Unless otherwise specified, the segment is named by reference to a concrete instance of a board. Prominent examples include `INBOX` and `FIRES`. An overview of the segments is provided in the following.
 
 Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has engaged the daily but is not yet focused on any of the boards available. The segment can be prompted by a call such as *"So, general things"* (`01`, **02:02**), or it might begin more fluidly e.g. with a team member presenting a topic for discussion as in this exchange from daily `03`:
 
@@ -111,17 +124,3 @@ Most boards used in dailies were ones of persistent nature. They are not explici
 :   "So who will be fixing your stuff on monday when it gets to QA or tuesday when it gets to QA?" (`QA` expresses concern)
 
 *Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of this is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work done here can generally be shipped to production immediately after completion.
-
-The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}.
-
-\csvautolongtable[
-  table head={
-    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
-    \csvlinetotablerow\\\hline
-    \endfirsthead\hline
-    \csvlinetotablerow\\\hline
-    \endhead\hline
-    \endfoot
-  },
-  respect all
-]{data/processed/total-segment-lengths.csv}
