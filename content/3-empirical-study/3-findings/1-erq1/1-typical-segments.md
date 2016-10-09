@@ -19,7 +19,7 @@ An overview of the structure of a daily is afforded to us by the segment analysi
 Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
 
-#### Introduction
+#### Introduction, 00:40.
 
 The daily starts with an `INTRO` segment after making sure everyone is accounted for. It's noted that a team member has been absent for a while and that is affecting the team's capability of responding to fires. The team also takes issue with the state of communication between them and another team.
 
@@ -63,9 +63,9 @@ An attempt is made to start the `INBOX` segment with the prompt:
 
 This is ineffective, because another team member wants to discuss handovers not yet mentioned. The secretary can be heard making meeting minutes on the subject.
 
-#### Inbox
+#### Inbox, 11:25.
 
-The `INBOX` segment finally starts at **11:25**. The *driver* opens Asana and allows the team to view items in the inbox on a TV screen. The inbox is a board that contains new items as input to the team and to be handled in the daily proceedings. Starting from the topmost item, item labels are read out loud. Most often, a variation of the following question is used to settle the imminence of items encountered:
+The `INBOX` segment finally starts. The *driver* opens Asana and allows the team to view items in the inbox on a TV screen. The inbox is a board that contains new items as input to the team and to be handled in the daily proceedings. Starting from the topmost item, item labels are read out loud. Most often, a variation of the following question is used to settle the imminence of items encountered:
 
 11:51
 :   "Fire or not?" (`M`)
@@ -79,7 +79,7 @@ Either the item is a fire, requiring the team's immediate attention, or it can b
 
 The wishlist is a labeled section of the inbox board that is intended for a later grooming with relevant product owners involved. The secretary thus moves the item away from the inbox's topmost segment to the wishlist, and continuing in this way the inbox is gradually consumed of unhandled items.
 
-#### Fires
+#### Fires, 13:10.
 
 Once the inbox is empty, the driver without prompt moves the team's view to a board titled *"[FIRE]: This must be emptied"*, signaling the start of the `FIRES` segment. Again the team will proceed from top to bottom, this time discussing items that have moved between states since last observation.
 
@@ -161,9 +161,9 @@ The tension is resolved by refining the modeling to include the "fire-nature" of
 
 The team finishes up the priority lane by speeding through a few work items in the "todo" state, confirming them to be still relevant but undone. Once the list is combed, it's time for the next board.
 
-#### Outbox
+#### Outbox, 20:45.
 
-The driver opens up *"OUTBOX (ska diskuteras snart)"* and commences the `OUTBOX` segment at **20:45** with a callout from the secretary. As per the Swedish language subtitle of the board, it is used to keep track of discussions that should take place.
+The driver opens up *"OUTBOX (ska diskuteras snart)"* and commences the `OUTBOX` segment with a callout from the secretary. As per the Swedish language subtitle of the board, it is used to keep track of discussions that should take place.
 
 `M1` immediately calls for a comment to be added on an existing work item that there's new evidence, referring to the `INTRO` segment discussion about a team being difficult to reach. This is apparently done for the benefit of a discussion to be had with `M2`, who is not present. Another discussion item is called out as being "longstanding", and is moved to that section of the board by the secretary.
 
@@ -192,7 +192,7 @@ The PO's request itself happens to be an insignificant detail from the daily's p
 
 The "longstanding" discussion items are skipped with a callout from `M` getting an affirmative response from the secretary. This concludes the `OUTBOX` segment.
 
-#### Questions
+#### Questions, 24:05.
 
 By this point, the team is evidently anxious to move forward: several members in succession call out the name of the next board, *"QUESTIONS"*. The purpose of the board is to make sure that information needs of parties, internal and customer alike, are not neglected. Concretely, there are both ongoing lines of inquiry and recurring "household keeping" themed tasks. Only the topmost tasks, belonging to the recurring category, are briefly confirmed as having been done.
 
@@ -231,7 +231,7 @@ The manager appears to have had a clear agenda in moving to this board, because 
 
 From the manager's perspective, the team appears to have failed in accounting for the timeliness requirement of the task being discussed. Proximally, the reason is pinned on `D1` not using the team's common tooling for supporting this by seeing that the task exists and is assigned. However, the team members seem to acknowledge that it is not trivial to make good priorizations of when these individual tasks would best be done, as they are unrelated to the team's larger deliverables.
 
-#### Board overview
+#### Board overview, 26:05.
 
 The `NON-FUNCTIONAL CONTINUUM` segment fluidly transforms into `BOARD OVERVIEW` when the manager again prompts:
 
