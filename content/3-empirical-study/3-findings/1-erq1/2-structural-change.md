@@ -19,7 +19,7 @@ BOARD OVERVIEW           | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
 
-Table \ref{segment-deltas} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 12 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
+Table \ref{segment-deltas} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 13 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
 
 \csvautolongtable[
   table head={
