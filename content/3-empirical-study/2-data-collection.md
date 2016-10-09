@@ -79,9 +79,7 @@ Due to its international composition, the team handled most of the dailies in En
 
 ### Identified segments and terminology {#durations-and-segments}
 
-A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
-
-Unless otherwise specified, a segment is named by reference to a concrete instance of a board. In these segments, the team's attention is focused on a specific board. Prominent examples include `INBOX` and `FIRES`. These are considered participant constructs and attempt is made to present them faithfully as such, retaining original idiomatic naming conventions. Other segments are synthetic: they were identified and named by the researcher, or grouped together from segments ranging over multiple boards. An explanation of synthetic segments follows.
+A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. This section introduces the identified segments and the terminology used with them, and provides rationale for segments not directly stemming from participant constructs. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
 
 \csvautolongtable[
   table head={
@@ -94,6 +92,8 @@ Unless otherwise specified, a segment is named by reference to a concrete instan
   },
   respect all
 ]{data/processed/total-segment-lengths.csv}
+
+Unless otherwise specified, a segment is named by reference to a concrete instance of a board. In these segments, the team's attention is focused on a specific board. Prominent examples include `INBOX` and `FIRES`. These are considered participant constructs and attempt is made to present them faithfully as such, retaining original idiomatic naming conventions. Other segments are synthetic: they were identified and named by the researcher, or grouped together from segments ranging over multiple boards.
 
 Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has engaged the daily but is not yet focused on any of the boards available. The segment can be prompted by a call such as *"So, general things"* (`01`, **02:02**), or it might begin more fluidly e.g. with a team member presenting a topic for discussion. <!-- as in this exchange from daily `03`:
 
