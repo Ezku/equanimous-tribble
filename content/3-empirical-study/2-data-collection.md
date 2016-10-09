@@ -79,7 +79,9 @@ Due to its international composition, the team handled most of the dailies in En
 
 ### Identified segments and terminology {#durations-and-segments}
 
-A total of 13 different daily segments were identified in the material. Unless otherwise specified, the segment is named by reference to a concrete instance of a board. Prominent examples include `INBOX` and `FIRES`. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}. An overview of identified segments and how they were codified follows.
+A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
+
+Unless otherwise specified, a segment is named by reference to a concrete instance of a board. Prominent examples include `INBOX` and `FIRES`. These are considered participant constructs and attempt is made to present them faithfully. Other segments were identified and named by the researcher, or grouped together from segments ranging over multiple boards. An explanation of such synthetic segments follows.
 
 \csvautolongtable[
   table head={
@@ -101,9 +103,9 @@ Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has 
 00:37
 :   (the distinct sound of a fruit, supposedly said pear, being chewed)
 00:39
-:   "Should we have a new nickname for [team member]?" (`D2` presents a topic)-->
+:   "Should we have a new nickname for [team member]?" (`D2` presents a topic)
 
-Some dailies include a `BOARD OVERVIEW`. In these segments, the focus is not on individual boards, but their overall status or health, relationships and priorities between them and the arrangement of them in the list of boards.<!-- Here's an example where a developer inquires after the purpose of colored labels used for different boards (daily `03`):
+-->Some dailies include a `BOARD OVERVIEW`. In these segments, the focus is not on individual boards, but their overall status or health, relationships and priorities between them and the arrangement of them in the list of boards. `INTRO` and `BOARD OVERVIEW` are both synthetic, non-participant constructs.<!-- Here's an example where a developer inquires after the purpose of colored labels used for different boards (daily `03`):
 
 26:21
 :   "What about.. are the, uh, colors?" (`D` asks question about boards seen on screen)
