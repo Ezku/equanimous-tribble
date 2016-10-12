@@ -17,12 +17,12 @@ Capturing the kanban boards' structure as screenshots yielded material of two di
 
 The content log and board structures afforded the completion of a *segment analysis*, a coding process arriving at a structural outline of dailies which provided an understanding of broad patterns of activity as accorded with section \ref{research-approach-and-scope}. The segments will be further described in section \ref{durations-and-segments}. When attention to narrow episodic fragments was called for, they were transcribed individually in more accurate detail. Such transcriptions will be presented in this study following this convention:
 
-Timestamp in minutes:seconds
-:   "Speech in between quote marks" (with `attributions` in parentheses)
-:   (descriptions, interpretations and characterisations of situation or action in parentheses)
-:   "Omissions of fragments [..] and injections [of] missing parts of speech for understandability marked by square brackets"
-Timestamp for next set of actions
-:    (turns of speech taken in continuous fashion can be transcribed under a single timestamp, but otherwise individual timestamps are presented)
+> Timestamp in minutes:seconds
+> :   "Speech in between quote marks" (with `attributions` in parentheses)
+> :   (descriptions, interpretations and characterisations of situation or action in parentheses)
+> :   "Omissions of fragments [..] and injections [of] missing parts of speech for understandability marked by square brackets"
+> Timestamp for next set of actions
+> :    (turns of speech taken in continuous fashion can be transcribed under a single timestamp, but otherwise individual timestamps are presented)
 
 The audio recordings were further reviewed with the aid of the content log to discover episodes of particular theoretical interest. Firstly, fragments of the content log were curated on new documents, one per each daily, as potentially pointing to interesting details. Then, the audio referenced in the content log fragment was reviewed and its relative importance within the body of material reconsidered by the researcher. Fragments found theoretically relevant were retained in the curated documents. Some fragments were seen to benefit from more in-depth understanding and were transcribed. The episode catalogue thus formed constituted material for analysis of disturbance episodes undertaken in section \ref{episodes-of-contradiction}.
 
