@@ -55,14 +55,14 @@ From this view, change in a practice amounts to the outcome of a pressure exerte
 
 The different levels of contradiction present a way of mapping arising disturbances and contradictions to a typology where they can be distinguished as being connected to different stages in the expansive learning process. In the empirical analysis section we will be leveraging the following characterisation of the manifestation of contradictions in practice, adapted from \citet{yamagata2009using}:
 
-Primary
-:   Practitioners encounter contradictory demands attached to an element of practice.
-Secondary
-:   Practitioners encounter a new element of activity, and the process of assimilating the new element into the practice generates conflict.
-Tertiary
-:   Practitioners encounter a newly advanced method for achieving the object of a practice which is in conflict with the existing state of practice.
-Quaternary
-:   Practitioners encounter changes to the practice that are in conflict with neighboring practices.
+> Primary
+> :   Practitioners encounter contradictory demands attached to an element of practice.
+> Secondary
+> :   Practitioners encounter a new element of activity, and the process of assimilating the new element into the practice generates conflict.
+> Tertiary
+> :   Practitioners encounter a newly advanced method for achieving the object of a practice which is in conflict with the existing state of practice.
+> Quaternary
+> :   Practitioners encounter changes to the practice that are in conflict with neighboring practices.
 
 Expansive learning is thus to be understood as a process of construction and resolution of contradictions that follow from each other. These actions don't, however, need to follow each other in temporal order, and they don't all need to be present for learning to occur. Also noteworthy is the fact that it is not *individuals* who change, but instead the object of collective activity and thus the components of the activity system linked to it. \citep{engestrom2010studies}
 
