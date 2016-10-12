@@ -147,7 +147,7 @@ Another need related to longer term thinking presents itself in the same daily. 
 > 36:36
 > :   "That we can leave there and go them through like once a month. `WATBOX`, next to `MONEYBOX`." (`M1`)
 
-The double bind of this situation can be described as follows: There's a need for following up on certain work items after an indeterminate amount of time. But if these items are left in `OUTBOX`, the team has to deal with them (e.g. by skipping) in every daily, which is undesirable. Proceeding to a secondary contradiction – on the other hand, if the items are not seen during the course of a daily, how would action ever be taken? The resolution is to not only have a `WATBOX`, but do decide on what is evidently a different treatment of that box as opposed to others so far.
+The double bind of this situation can be described as follows: There's a need for following up on certain work items after an indeterminate amount of time. But if these items are left in `OUTBOX`, the team has to deal with them (*e.g.* by skipping) in every daily, which is undesirable. Proceeding to a secondary contradiction – on the other hand, if the items are not seen during the course of a daily, how would action ever be taken? The resolution is to not only have a `WATBOX`, but do decide on what is evidently a different treatment of that box as opposed to others so far.
 
 ### Newly created boards solidify as accepted practice {#new-boards-accepted}
 
