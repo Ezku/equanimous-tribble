@@ -37,9 +37,7 @@ An activity system has a few interesting features in terms of change, learning a
 
 Innovation tends to occur when there is pressure to change. Within practices, this pressure may be attributed to a "functional failure" of the practice. When the world changes, the way the practice used to work suddenly might not. \citep{miettinen2006sources} \citet{engestrom1987learning,engestrom2001expansive} describes these situations as developmental contradictions in the practice that generate disturbances. Disturbances are episodes of deviation from standard script <!-- FIXME: Sources --> (Engestrom 1996, Norros 1996) or, simply, the breaking of a habit, and serve as indication that the system exhibits change potential.
 
-
-<!-- FIXME: Major rewording of this paragraph to make it flow into the next ones -->
-Expressing contradictions alone is not sufficient for change. In activity systems, transformations occur within cycles of expansive learning. Contradictions manifest as part of learning actions, whereby they may be recognized and addressed. \citep{engestrom2000activity,engestrom2010studies} Four different tiers of contradiction, from primary to quaternary, are identified by \citet{engestrom2010studies}. We may map these to the "ideal" epistemic cycle of learning actions presented in \citet{engestrom2010studies} as follows \citep{engestrom2001expansive}:
+Expressing contradictions alone is not sufficient for change. Contradictions surfacing as disturbances need to be grasped and taken as a motive. \citep{engestrom2010studies} Transformations in the practice may result from deliberate collaborative change effort within cycles of expansive learning. \citep{engestrom2001expansive} In activity systems, learning actions in such cycles are the means by which contradictions may be recognized and addressed. \citep{engestrom2000activity,engestrom2010studies} The "ideal" cycle of expansive learning and the four tiers of contradictions have been linked as follows \citep{engestrom2001expansive,engestrom2010studies}:
 
 <!-- TODO: expansive learning cycle visualization -->
 
