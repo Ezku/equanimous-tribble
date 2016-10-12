@@ -111,17 +111,6 @@ Most dailies start with an `INTRO`. The `INTRO` is a segment where the team has 
 :   "What about.. are the, uh, colors?" (`D` asks question about boards seen on screen)
 :   "Yellow is in QA. Purple has passed QA. Then there's grey that is in smoketest and, well, you won't probably ever see the blue because I.. blue means it's.. has been smoketested and I'll archive it any moment now." (`QA` explains their methods)-->
 
-Most boards used in dailies were ones of persistent nature. They are not explicitly bound to dates or weeks or deployment cadences. `CYCLES` make an exception to this. They are boards that are numbered and constitute a bundle of shippable things. Boards labelled with the same number would be deployed together, and there are a multitude of them in use at the same time. <!--As alluded to in the quote by *QA* above, the-->The board for a specific cycle will vanish from sight by being archived after work in it has been completed. All of these segments were grouped together as `CYCLES`. Discussion generally involves *what is being worked on*, *by whom* and *when it will be completed*. <!--An extract from daily `02` demonstrates how conceptions on progress of work and implications of handovers are negotiated in context of `CYCLES`:
+Most boards used in dailies were ones of persistent nature. They are not explicitly bound to dates or weeks or deployment cadences. `CYCLES` make an exception to this. *Cycle* is the team's name for a single development cadence. The opposite of a cycle is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work completed on such boards can generally be shipped to production immediately after completion.
 
-12:58
-:   "So, are you still going to make it by friday?" (QA prompts)
-:   "Yes" (`D1` responds)
-:   "Still confident" (`QA` confirms)
-:   "Quite..." (`D2` interjects)
-13:05
-:   "I have to, I'm leaving on friday" (`D2` explains)
-:   (laughter)
-13:15
-:   "So who will be fixing your stuff on monday when it gets to QA or tuesday when it gets to QA?" (`QA` expresses concern)-->
-
-*Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of a cycle is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work completed on such boards can generally be shipped to production immediately after completion.
+Cycles are used for sets of features that are to be completed in synchrony with each other and that cannot be shipped incrementally. Cycles are boards that are numbered and constitute a bundle of shippable things. Boards labelled with the same number would be deployed together, and there are a multitude of them in use at the same time. The board for a specific cycle will vanish from sight by being archived after work in it has been completed. All of these segments were grouped together as `CYCLES`. Discussion generally involves *what is being worked on*, *by whom* and *when it will be completed*.
