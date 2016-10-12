@@ -131,7 +131,7 @@ It's shortly determined that there would be nothing to gain, and the team moves 
 
 #### Priority lane, 17:15.
 
-The driver opens up *"Priority lane"*, commencing the `PRIORITY LANE` segment. The flow of discussion is similar, with moved work items getting discussed from top to bottom. However, the team has chosen to label the states differently. There is significantly less structure as compared to fires: **DONE**, **DOING**, **TODO** and **LONGSTANDING**. This can be attributed to the non-technical or perhaps ad-hoc nature of work items placed here.
+The driver opens up the next board. The flow of discussion regarding `PRIORITY LANE` is similar to `FIRES`, with moved work items getting discussed from top to bottom. However, the team has chosen to label the states differently. There is significantly less structure as compared to fires: *DONE*, *DOING*, *TODO* and *LONGSTANDING*. This can be attributed to the non-technical or perhaps ad-hoc nature of work items placed here.
 
 A developer immediately starts relating the outcome of a discussion that was modelled as a work item on the priority lane and can now be seen by the team as "done":
 
