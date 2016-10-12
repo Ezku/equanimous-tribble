@@ -3,7 +3,7 @@
 
 ## Research context
 
-The research was conducted as a case study of a Helsinki-based software startup in the mobile B2B industry with a headcount of approximately 20 people and a development team consisting of at most 10 at the time of the research. The development team's habit of gathering around a collection of a virtual kanban system every morning was taken by the researcher as an opportunity to learn about the daily method as practiced within the context of a lean workflow. The researcher took part in the development team's dailies having two roles: the role of an ordinary team member, which necessitated normal interaction with the team within the context of the daily, and the role of a researcher which involved recording the proceedings and logging observations directly after the event.
+The research was conducted as a case study of a Helsinki-based software startup in the mobile B2B industry with a headcount of approximately 20 people and a development team consisting of at most 10 at the time of the research. The development team's habit of gathering around a collection of a virtual kanban system every morning was taken as an opportunity to learn about the daily method as practiced within the context of a lean workflow. The researcher took part in the development team's dailies having two roles: the role of an ordinary team member, which necessitated normal interaction with the team within the context of the daily, and the role of a researcher which involved recording the proceedings and logging observations directly after the event.
 
 ## Setting and participants
 
