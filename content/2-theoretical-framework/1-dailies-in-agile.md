@@ -9,21 +9,18 @@ Common wisdom used to hold that software development could be modelled after a *
 
 [^waterfall]: It should be noted that this simplistic construction of the waterfall is essentially a strawman argument. Winston Royce's 1970 original work detailing the "waterfall" itself remarked how a process without feedback cycles was unlikely to work. \citep[p. 24-25]{poppendieck2003lean}
 
-Turns out, this analytical view of software processes has multiple points of failure. To start with: a project's premises may change on the way \citep{highsmith2002agile}, defining requirements is notoriously tricky \citep{lindstrom2004extreme}, and in fact it appears that plan-driven models on the whole don't reflect the reality of software development well at all – especially in the fast growth internet and mobile software industries \citep{abrahamsson2002agile}.
+Turns out, this analytical view of software processes has multiple points of failure. To start with: a project's premises may change on the way \citep{highsmith2002agile} and defining requirements is notoriously tricky \citep{lindstrom2004extreme}. In fact it appears that plan-driven models on the whole don't reflect the reality of software development well at all – especially in fast growing industries \citep{abrahamsson2002agile}, where every company is trying to get the jump on their competitors.
 
 Enter agility. The _Manifesto for Agile Software Development_ \citep{agile2001manifesto} introduced the umbrella moniker "agile" as a word to describe a new class of models. Reality being complex and diverse, it's no surprise that the manifesto itself covers five different models \citep{fowler2001agile}, and eg. \citet{abrahamsson2002agile} identify eight. Agility may well be seen as an ideological movement, or a culture of which many interpretations exist \citep{glass2001agile,kruchten2007voyage}. \citet{abrahamsson2002agile} characterise agile models with the following attributes:
 
-Incremental
-:   Delivery of software in short cycles
-
-Cooperative
-:   Developers and their clients in unhindered, continuous communication
-
-Straightforward
-:   Easy to learn, well documented, readily adaptable
-
-Adaptive
-:   Options are not locked down, making alterations as needed is enabled
+> Incremental
+> :   Delivery of software in short cycles
+> Cooperative
+> :   Developers and their clients in unhindered, continuous communication
+> Straightforward
+> :   Easy to learn, well documented, readily adaptable
+> Adaptive
+> :   Options are not locked down, making alterations as needed is enabled
 
 The term agile is thus identified as remarkably polysemous and dependant on context. To get more concrete, we will be discussing a specific agile process methodology called *Scrum*.
 
