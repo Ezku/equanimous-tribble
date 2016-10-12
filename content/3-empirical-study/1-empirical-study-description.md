@@ -21,10 +21,13 @@ The secretary puts into effect decisions made by the team. This can take the for
 
 ### Tools used {#daily-tools}
 
-The most important tool made use of was Asana, a web-based task management application in which the team had encoded their workflow. It views work as *projects*, which consist of *tasks* in a linear list, which can be delineated into segments with *labels*. Tasks consist of a title and a description, may be assigned to individuals, may be given tags, and may be commented on. The team modelled their workflow with the use of projects and labels and moved tasks in between them. According to the example on use of kanban from section \ref{ci}, in this study Asana projects were taken to be virtual kanban boards, segments were taken to be phases in the process and tasks were understood as kanban tokens for work items.
+The most important tool made use of was Asana[^asana], a web-based task management application in which the team had encoded their workflow. It views work as *projects*, which consist of *tasks*, which can be delineated into segments with *labels*. Tasks consist of a title and a description, may be assigned to individuals, may be given tags, and may be commented on. The team modelled their workflow with the use of projects and labels and moved tasks in between them. According to the example on use of kanban from section \ref{ci}, in this study Asana projects were taken to be virtual kanban boards, segments were taken to be phases in the process and tasks were understood as kanban tokens for work items.
 
-In addition, meeting minutes were published through Flowdock, a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, persistent message logs with a certain topic. One of these flows was dedicated for meeting minutes from dailies and used by the secretary during the daily.
+In addition, meeting minutes were published through Flowdock[^flowdock], a company-internal instant messaging and group chat application. The application structures communication in terms of *flows*, persistent message logs with a certain topic. One of these flows was dedicated for meeting minutes from dailies and used by the secretary during the daily.
 
 Tools for sharing knowledge in the physical environment, such as post-its or the whiteboard present in the room, were available but seldom touched.
 
 <!-- TODO: Screencap / graph of asana here -->
+
+[^asana]: [www.asana.com](http://www.asana.com)
+[^flowdock]: [www.flowdock.com](http://www.flowdock.com)
