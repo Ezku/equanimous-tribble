@@ -19,6 +19,6 @@ In analysing learning situations, \citet{jonassen2012theoretical} consider it im
 2. A structure for the dailies was identified using the team's own constructs as a basis, with secondary and primary data corroborating each other.
 3. Segments in the content log were coded according to the identified structure and catalogued for analysis.
 4. Episodes of particular interest were reviewed from the audio recordings with the aid of the content log based on newly gained theoretical understanding.
-5. A subset of episodes was further sampled such that the researcher was able to thematically link episodes from different dailies together.
+5. A subset of episodes was further sampled such that episodes from different dailies could be linked thematically.
 
 In summary, the research follows an abductive process of inference to the best explanation in search of a theory that would explain the data, as is typical of ethnographical research. Such research has been done on agile practices before, and the approach is applicable for looking into processes of change and learning. The research studies that which occurs naturally and attempts not to control the research context. This means that instead of testing hypotheses on the efficacy of different measures, we instead attempt to provide a rich, translatable account of the findings and process of reasoning such that the applicability of the resulting theoretical constructs used may be evaluated by the receiver.
