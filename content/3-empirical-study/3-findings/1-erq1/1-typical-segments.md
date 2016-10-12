@@ -84,7 +84,7 @@ The wishlist is a labeled section of the inbox board that is intended for a late
 
 Once the inbox is empty, the driver without prompt moves the team's view to a board titled *"[FIRE]: This must be emptied"*, signaling the start of the `FIRES` segment. Again the team will proceed from top to bottom, this time discussing items that have moved between states since last observation.
 
-Based on the board's labeling of states, (detailed in appendix \ref{kanban-board-structure}), the items further to the top are closer to having been resolved whereas at the bottom no work is being done on them. The more than a dozen different states communicate an intricate understanding of a work item's progression from backlog to development, to testing, production and finally a state of doneness that can be agreed on by the team.
+Based on the board's labeling of states, (detailed in appendix \ref{kanban-board-structure}), the items further to the top are closer to having been resolved whereas at the bottom no work is being done on them. The more than a dozen different states communicate an intricate understanding of a work item's progression from backlog to development, to testing, production and finally a state of completion that can be agreed on by the team.
 
 Distinguishing this segment from the previous one, items will usually not be moved by the secretary. They may, however, be marked as complete after the team agrees there's nothing more to be done.
 
