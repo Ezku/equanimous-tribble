@@ -124,4 +124,4 @@ Most boards used in dailies were ones of persistent nature. They are not explici
 13:15
 :   "So who will be fixing your stuff on monday when it gets to QA or tuesday when it gets to QA?" (`QA` expresses concern)-->
 
-*Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of this is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work done here can generally be shipped to production immediately after completion.
+*Cycle* is the team's name for a single development cadence. It is used for sets of features that are completed in synchrony with each other and that cannot be shipped incrementally. The opposite of a cycle is a *continuum*, evident in boards such as `NON-CORE MODULE CONTINUUM` and `NON-FUNCTIONAL CONTINUUM`. Work completed on such boards can generally be shipped to production immediately after completion.
