@@ -15,11 +15,13 @@ What Schwaber is saying is that while he was able to put together a set of empir
 
 ## Lean and software development
 
-\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s \citep[see *e.g.*][]{ohno1988toyota}, which they describe thusly:
+\citet{poppendieck2003lean} observe that software development might have a lot to learn from new product development in general. They leverage principles of what is called *lean development* according to an approach used by automotive manufacturers Toyota and Honda starting from the 1980s[^lean-manufacturing], which they describe thusly:
 
 > Don't make irreversible decisions in the first place; delay design decisions as long as possible, and when they are made, make them with the best available information to make them correctly.
 
-To these and other related qualities they attribute a significant competetive advantage exhibited by the Japanese manufacturers over U.S. ones; advantage of this kind would ostensibly be desirable to any software company as well. What's good about this approach is that it doesn't come as a bundle of methods to apply, but as principles "understood and proven by managers in many disciplines outside of software development". Principles being universal guiding ideas and insights, which are however not easy to apply to particular environments.
+To these principles and other related qualities \citet{poppendieck2003lean} attribute a significant competetive advantage exhibited by the Japanese manufacturers over U.S. ones. Advantage of this kind would ostensibly be desirable to any software company as well. What's good about this approach is that it doesn't come as a bundle of methods to apply, but as principles "understood and proven by managers in many disciplines outside of software development". Principles differ from methods by being universal guiding ideas and insights, which are however not easy to apply to particular environments.
+
+[^lean-manufacturing]: A more detailed story on the birth and popularization of lean manufacturing can be found in *e.g.* \cite{ohno1988toyota}.
 
 The *seven lean principles* forming the basis of lean thinking are defined by \citet{poppendieck2003lean} as follows.
 
