@@ -8,7 +8,7 @@ A new school of lean software development aspires to supplant Scrum and its ilk 
 It cannot be that the mere existence of a kanban modelling allows continuous improvement to take place. Instead, it must be that the improvement happens somehow in conjunction with the use of such a method by practitioners. How does kanban inspire practitioners to make changes and to improve their methods? The tools of neither agile nor lean are apt at describing such mechanisms, so we must reach for understanding elsewhere. Innovation in social interactions has been studied in practice-based activity theory. In this thesis, a case study is conducted to evaluate whether activity theory is applicable as a lens through which continuous improvement can be observed.
 
 
-## The rise of agile {#rise-of-agile-and-lean}
+## The rise of agile methods {#rise-of-agile-and-lean}
 
 Agile software development methods have become mainstream \citep{west2010agile}. Agile might be seen as a reaction to the failure of existing models of software development, in terms of their capabilities to both match reality and to facilitate the process of building better software. Software development is not like building a house, so attempting to understand and deconstruct the process in a similar fashion lead to less than stellar results. Such plan-driven approaches had their failings, and agile was the antidote.
 
