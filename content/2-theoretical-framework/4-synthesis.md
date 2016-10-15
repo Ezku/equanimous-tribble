@@ -1,5 +1,5 @@
 
-# Theoretical synthesis
+# Theoretical synthesis {#theoretical-synthesis}
 
 ## Answers to theoretical research questions
 
