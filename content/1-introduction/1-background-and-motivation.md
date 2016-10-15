@@ -18,6 +18,7 @@ There is no one single way to run a team or company "the agile way" \citep{kruch
 
 Agile's very nature seems to have changed with introduction to the mainstream \citep{west2010agile}. There is a by-the-book description of what a daily is in the literature, yet owing to the malleability of agile, the implementation of dailies will likely vary. For instance, time constraints of a daily may be relaxed or the general agenda modified if it is found that they do not aid in reaching desired goals \citep{marchenko2008scrum}. But if there's no definite way, knowing if you're doing the right things or going in the right direction is notoriously difficult. Practitioners who would like to discover their own ways of implementing agility have been disappointed by agile's lack of first principles which to use when deriving new methods. \citep[p. xiii-xvi]{poppendieck2003lean} \citet{marchenko2008scrum} cite problems like "too many meetings" and disciplined effort required to "keep it simple" as challenges in agile implementations.
 
+<!-- FIXME: Insert motive on focusing on dailies? -->
 
 ## Capacity for reaction as the differentiator {#capacity-for-reaction}
 
