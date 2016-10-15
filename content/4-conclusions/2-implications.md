@@ -1,5 +1,5 @@
 
-# Implications of the study
+# Implications of the study {#implications}
 
 The following section discusses the implications of this study. Implications are divided into practical implications, where views and recommendations on the design of practices on continuous improvement in software development are shared, and theoretical implications which consider directions of future research based on results from this study.
 
