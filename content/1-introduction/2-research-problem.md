@@ -3,7 +3,9 @@
 
 ## Problem statement
 
-In section \ref{motivation} we laid out an argument on how the using dailies can be taken to be in conflict with the lean principle of waste reduction, if we see the use of tools such as kanban alleviating the original need to have a daily in the first place <!-- FIXME: Mitä? Käytä tässä samaa problematisointia kuin aiemmin, mutta nyt ratkaisumuodossa. -->. We may however consider other uses for a daily which would mesh with lean principles. As outlined in section \ref{why-daily}, the daily might be an opportunity for learning and thus improving on the work; to continuously adapt to an unfolding reality. This matches the lean idea of continuous improvement introduced in section \ref{capacity-for-reaction}. Let us pose the following research problem statement:
+Based on section \ref{motivation}, the context of the problem is as follows. Agile finds that innovation happens in face-to-face interactions, with dailies being a specific example. Lean claims continuous improvement of a production system is supported with the use of lean-derived methods, such as kanban. The practice based approach sees an equivalence between practicing, knowing and learning.
+
+If dailies support such system-level innovation as is meant by continuous improvement, this quality should be observable in daily activity. What kind of learning can we observe in the daily, and what enables it? A way to describe the mechanism of continuous improvement through the practice based perspective is needed. The research problem for this thesis is:
 
 > **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
 
