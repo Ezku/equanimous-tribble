@@ -1,3 +1,6 @@
+<!--
+FIXME: Move to right place and format
+
 Thanks,
 
 - **Reaktor**, for igniting the *lean* spark.
@@ -7,3 +10,4 @@ Thanks,
 - **Otso**, without whose extraordinary support this thesis would never have been.
 - **Anna**, my head facilitator for life.
 - **D**, for everything.
+-->
