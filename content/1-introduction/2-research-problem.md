@@ -5,9 +5,7 @@
 
 In section \ref{motivation} we laid out an argument on how the using dailies can be taken to be in conflict with the lean principle of waste reduction, if we see the use of tools such as kanban alleviating the original need to have a daily in the first place <!-- FIXME: Mitä? Käytä tässä samaa problematisointia kuin aiemmin, mutta nyt ratkaisumuodossa. -->. We may however consider other uses for a daily which would mesh with lean principles. As outlined in section \ref{why-daily}, the daily might be an opportunity for learning and thus improving on the work; to continuously adapt to an unfolding reality. This matches the lean idea of continuous improvement introduced in section \ref{capacity-for-reaction}. Let us pose the following research problem statement:
 
-> **RP:** How can the practice of a daily in conjunction with a kanban system support continuous improvement?
-
-<!-- FIXME: Tän vois muotoilla uudestaan nyt kun sulla on havainto millaisia tulosksia sulla on jotta olisi kirkkaampi. -->
+> **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
 
 ## Theoretical research questions
 

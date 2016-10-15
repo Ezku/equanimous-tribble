@@ -40,7 +40,7 @@ In the observed dailies, discovering latent contradictions relating to the kanba
 
 ## Answer to the research problem
 
-> **RP:** How can the practice of a daily in conjunction with a kanban system support continuous improvement?
+> **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
 
 The practice of a daily in conjunction with a kanban system supports continuous improvement in a software development team by providing a structure in which the kanban system is observed, new input can be considered and waste may be identified collaboratively, and by serving as a context in which failures in the practice may be brought up and through a process of expansive learning help the team transform the practice.
 
