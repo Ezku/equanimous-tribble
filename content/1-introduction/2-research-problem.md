@@ -17,6 +17,6 @@ The research problem leads us to a threefold investigation in order to understan
 
 > **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
-> **TRQ3:** How can the practice based approach be used to observe continuous improvement in practices?
+> **TRQ3:** How can continuous improvement be observed in practice?
 
 Taking the case study in hand we are likely to face a daily quite unlike what is described in the literature. Question *TRQ1* aims at setting a point of comparison which we can take to reflect on the qualities of the daily that we will be observing. With *TRQ2* we probe the role of kanban systems within the context of lean and relate it to the lean principle of continuous improvement. Detaching ourselves from the bounds of the agile and lean discourses <!-- FIXME: Maybe "looking beyond literature to look at observed practices" --> we find a language for describing the social process we're observing by delving into the practice based approach in *TRQ3*.
