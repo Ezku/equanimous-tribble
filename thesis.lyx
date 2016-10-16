@@ -186,6 +186,10 @@
 % Subfigure package allows you to use subfigures (i.e. many subfigures
 % within one figure environment). These can have different labels and
 % they are numbered automatically. Check the package documentation.
+
+% The problem is that both packages define the counters lofdepth and lotdepth. To prevent the error, simply load tocloft with the subfigure option
+% http://tex.stackexchange.com/questions/56777/display-chaptername-in-table-of-contents
+\usepackage[subfigure]{tocloft}
 \usepackage{subfigure}
 
 % The titlesec package can be used to alter the look of the titles
@@ -416,6 +420,13 @@ aluerakentaminen, Anttolanhovi, Arcada, ArchiCad, arkki}
 \let\endhack\end
 
 \usepackage{csvsimple}
+
+% \cftsetindents{<entry>}{<indent>}{<numwidth>}
+\cftsetindents{chapter}{0in}{0.5in}
+\cftsetindents{section}{0.5in}{0.5in}
+\cftsetindents{subsection}{1.0in}{0.5in}
+\cftsetindents{subsubsection}{1.5in}{0.5in}
+
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
