@@ -304,16 +304,13 @@
 %\newcommand{\SINSTRUCTOR}{Diplomingenjör Olli Ohjaaja\\
 %  Diplomingenjör Elli Opas}
 
-% If you have two supervisors, it is common to write the schools
-% of the supervisors in the cover page. If the following command is defined,
+% If the following command is defined,
 % then the supervisor names shown here are printed in the cover page. Otherwise,
 % the supervisor names defined above are used.
-%\newcommand{\COVERSUPERVISOR}{Professor Antti Ylä-Jääski, Aalto University\\
-%  Professor Pekka Perustieteilijä, University of Helsinki}
+\newcommand{\COVERSUPERVISOR}{Professor Riitta Smeds}
 
 % The same option is for the instructors, if you have multiple instructors.
-% \newcommand{\COVERINSTRUCTOR}{Olli Ohjaaja M.Sc. (Tech.), Aalto University\\
-%  Elli Opas M.Sc. (Tech), Aalto SCI}
+\newcommand{\COVERINSTRUCTOR}{Otso Hannula M.Sc. (Tech.)}
 
 
 % Other stuff
