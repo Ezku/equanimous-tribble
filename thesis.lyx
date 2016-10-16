@@ -487,150 +487,38 @@ cetaceans, dolphins, porpoises}
 \begin_body
 
 \begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "frontmatter/cover.tex"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "frontmatter/table-of-contents.tex"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "frontmatter/list-of-tables.tex"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
-
-\begin_layout Plain Layout
-
-% This command is defined in aalto-thesis.sty.
- It controls the page
-\end_layout
-
-\begin_layout Plain Layout
-
-% numbering based on whether the doublenumbering option is specified
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-startcoverpage
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-% Cover page
-\end_layout
-
-\begin_layout Plain Layout
-
-% ------------------------------------------------------------------
-\end_layout
-
-\begin_layout Plain Layout
-
-% Options: finnish, english, and swedish
-\end_layout
-
-\begin_layout Plain Layout
-
-% These control in which language the cover-page information is shown
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-coverpage{english}
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-% Table of contents
-\end_layout
-
-\begin_layout Plain Layout
-
-% ------------------------------------------------------------------
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-cleardoublepage
-\end_layout
-
-\begin_layout Plain Layout
-
-% This command adds a PDF bookmark that links to the contents.
-\end_layout
-
-\begin_layout Plain Layout
-
-% You can use
-\backslash
-addcontentsline{} as well, but that also adds contents
-\end_layout
-
-\begin_layout Plain Layout
-
-% entry to the table of contents, which is kind of redundant.
-\end_layout
-
-\begin_layout Plain Layout
-
-% The text ``Contents'' is shown in the PDF bookmark.
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-pdfbookmark[0]{Contents}{bookmark.0.contents}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableofcontents
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-% List of tables
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-cleardoublepage
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-listoftables
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-addcontentsline{toc}{chapter}{
-\backslash
-listtablename}
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 
