@@ -31,7 +31,7 @@ Activity theory may be used to observe continuous improvement in practice by see
 
 ## Empirical research questions {#empirical-research-questions}
 
-The following research questions are posed to the empirical research data.
+The theoretical synthesis detailed the role of a daily in the Scrum methodology, the means by which use of kanban can contribute to continuous improvement, and how activity theory may be used to observe continuous improvement in practice. Based on the synthesis, the following empirical research questions (ERQs) are posed to the empirical research data.
 
 > **ERQ1**: How is the observed daily positioned with regard to descriptions of Scrum daily and kanban systems in the theory?
 
