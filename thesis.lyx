@@ -422,10 +422,10 @@ aluerakentaminen, Anttolanhovi, Arcada, ArchiCad, arkki}
 \usepackage{csvsimple}
 
 % \cftsetindents{<entry>}{<indent>}{<numwidth>}
-\cftsetindents{chapter}{0in}{0.5in}
-\cftsetindents{section}{0.5in}{0.5in}
-\cftsetindents{subsection}{1.0in}{0.5in}
-\cftsetindents{subsubsection}{1.5in}{0.5in}
+\cftsetindents{chapter}{0in}{0.382in}
+\cftsetindents{section}{0.382in}{0.382in}
+\cftsetindents{subsection}{0.764in}{0.618in}
+\cftsetindents{subsubsection}{1.382in}{0.618in}
 
 \end_preamble
 \use_default_options true
