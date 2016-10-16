@@ -7,7 +7,7 @@ If dailies support such system-level innovation as is meant by continuous improv
 
 > **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
 
-The research problem leads us to a threefold investigation in order to understand the fundamentals in play.
+The research problem leads us to a threefold investigation of literature in order to understand the fundamentals in play.
 
 > **TRQ1:** How does a daily in agile software development support the development team?
 
