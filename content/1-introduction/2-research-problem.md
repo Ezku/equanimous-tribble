@@ -1,5 +1,5 @@
 
-# Research problem and research questions
+# Research problem and research questions {#research-problem}
 
 Based on section \ref{motivation}, the context of the problem is as follows. Agile finds that innovation happens in face-to-face interactions, with dailies being a specific example. Lean claims continuous improvement of a production system is supported with the use of lean-derived methods, such as kanban. The practice based approach sees an equivalence between practicing, knowing and learning.
 

@@ -1,6 +1,8 @@
 
 # Theoretical synthesis {#theoretical-synthesis}
 
+This section details answers to theoretical research questions posed in section \ref{research-problem} and sets further research questions as the basis for research in the empirical study.
+
 ## Answers to theoretical research questions
 
 > **TRQ1:** How does a daily in agile software development support the development team?
