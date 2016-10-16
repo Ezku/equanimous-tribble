@@ -1,6 +1,8 @@
 
 # Data collection and analysis {#data-collection-and-analysis}
 
+The following sections present the empirical data used for this thesis, basing on the empirical study description from section \ref{empirical-study-description}. Section \ref{research-methodology} describes how the research was undertaken and the data analysed. An overview of the resulting body of empirical data is provided in section \ref{collected-data-overview}.
+
 ## Research and data analysis methodology {#research-methodology}
 
 From December 2015 to January 2016, a period of time including a break for seasonal holidays, 20 individual daily events were observed and recorded. The time span was chosen both to get a representative sample of dailies and to allow for the potential discovery of a shift in the team's understanding of the system of work and the flow of work through the system.
@@ -29,7 +31,7 @@ The audio recordings were further reviewed with the aid of the content log to di
 The final part of the empirical analysis was enabled by a joining of the theoretical understanding of the importance and nature of transformational processes, expounded in \ref{activity-theory}, and the created episode catalogue. The episodes were further curated such that some of them could be linked to each other thematically by the researcher. Of the altogether 10 possible storylines identified, one was sampled for complete transcription and presentation in \ref{journey-of-transformation} on the basis of scope and importance to the team's daily activities.
 
 
-## Overview of collected data
+## Overview of collected data {#collected-data-overview}
 
 This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. <!-- When specific dailies are discussed, their index number (from `01` to `20`) will be used. --> The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
 
