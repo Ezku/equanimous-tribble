@@ -1,6 +1,8 @@
 
 # Results
 
+In this section, answers to empirical research questions are presented, the research problem of this thesis is answered, and the outcomes are related to the theoretical framework. A conclusion is offered to summarize the results of this thesis.
+
 ## Answers to the empirical research questions
 
 > **ERQ1**: How is the observed daily positioned with regard to descriptions of Scrum daily and kanban systems in the theory?
