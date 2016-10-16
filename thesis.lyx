@@ -281,8 +281,8 @@
 % ``twoinstructors'' to the aalto-thesis package so that the titles are in
 % plural.
 % Example of one supervisor:
-\newcommand{\SUPERVISOR}{Professor Riitta Smeds}
-\newcommand{\FSUPERVISOR}{Professori Riitta Smeds}
+\newcommand{\SUPERVISOR}{Professor Riitta Smeds, D.Sc. (Tech)}
+\newcommand{\FSUPERVISOR}{Professori Riitta Smeds, TkT}
 %\newcommand{\SSUPERVISOR}{Professor Antti Ylä-Jääski}
 % Example of twosupervisors:
 %\newcommand{\SUPERVISOR}{Professor Antti Ylä-Jääski\\
@@ -293,8 +293,8 @@
 %  Professor Pekka Perustieteilijä}
 
 % If you have only one instructor, just write one name here
-\newcommand{\INSTRUCTOR}{Otso Hannula M.Sc. (Tech.)}
-\newcommand{\FINSTRUCTOR}{Diplomi-insinööri Olli Ohjaaja}
+\newcommand{\INSTRUCTOR}{Otso Hannula, M.Sc. (Tech.)}
+\newcommand{\FINSTRUCTOR}{Otso Hannula, Tekn. DI}
 %\newcommand{\SINSTRUCTOR}{Diplomingenjör Olli Ohjaaja}
 % If you have two instructors, separate them with \\ to create linefeeds
 % \newcommand{\INSTRUCTOR}{Olli Ohjaaja M.Sc. (Tech.)\\
