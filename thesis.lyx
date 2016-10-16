@@ -270,7 +270,7 @@
 \newcommand{\TITLE}{What exactly is the use of dailies:}
 \newcommand{\FTITLE}{Mitä hyötyä on daily-käytännöstä:}
 % \newcommand{\STITLE}{Den stora stygga vargen:}
-\newcommand{\SUBTITLE}{A practice-based perspective on continuous \newline improvement in software development}
+\newcommand{\SUBTITLE}{A \mbox{practice-based perspective} on \mbox{continuous improvement} in \mbox{software development}}
 \newcommand{\FSUBTITLE}{Käytäntölähtöinen katsaus ohjelmistokehityksen jatkuvaan parantamiseen}
 % \newcommand{\SSUBTITLE}{Lilla Vargens universum}
 \newcommand{\DATE}{November Nth, 2016}
