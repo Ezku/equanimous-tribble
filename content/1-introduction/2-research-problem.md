@@ -1,15 +1,11 @@
 
-# Research problem
-
-## Problem statement
+# Research problem and research questions
 
 Based on section \ref{motivation}, the context of the problem is as follows. Agile finds that innovation happens in face-to-face interactions, with dailies being a specific example. Lean claims continuous improvement of a production system is supported with the use of lean-derived methods, such as kanban. The practice based approach sees an equivalence between practicing, knowing and learning.
 
 If dailies support such system-level innovation as is meant by continuous improvement, this quality should be observable in daily activity. What kind of learning can we observe in the daily, and what enables it? A way to describe the mechanism of continuous improvement through the practice based perspective is needed. The research problem for this thesis is:
 
 > **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
-
-## Theoretical research questions
 
 The research problem leads us to a threefold investigation in order to understand the fundamentals in play.
 
