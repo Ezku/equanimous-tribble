@@ -1,6 +1,8 @@
 
 # Dailies in Agile {#agile}
 
+This section relates the background of how the agile movement, the Scrum methodology and the daily method came to be. Basic principles of Scrum are introduced and the rules of a daily are defined.
+
 ## Discovering Scrum
 
 Common wisdom used to hold that software development could be modelled after a *plan-driven* fashion \citep{abrahamsson2002agile}. These models are well-researched and mature \citep{huo2004software}, but heavy. They assume that requirements may be discovered beforehand, that they will not undergo significant change through the duration of a project and that, fundamentally, the process of developing software is predictable and repeatable \citep{sutherland2001agile}. The quintessential example of a plan-driven methodology[^methodology] would be the *waterfall*[^waterfall]: gather requirements, devise a solution, program the solution, bring it to customers \citep{sutherland2001agile,huo2004software}. Rinse and repeat.
