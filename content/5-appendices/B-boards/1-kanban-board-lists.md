@@ -3,7 +3,7 @@
 
 \csvautolongtable[
   table head={
-    \caption{Partial outlines of the kanban boards used by the team ordered by date.}\label{tab:kanban-board-list-table}\\\hline
+    \caption*{Partial outlines of the kanban boards used by the team ordered by date.}\label{tab:kanban-board-list-table}\\\hline
     \csvlinetotablerow\\\hline
     \endfirsthead\hline
     \csvlinetotablerow\\\hline
