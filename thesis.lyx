@@ -425,6 +425,8 @@
 \cftsetindents{subsection}{0.764in}{0.618in}
 \cftsetindents{subsubsection}{1.382in}{0.618in}
 
+% This is to get \caption*
+\usepackage{caption}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false

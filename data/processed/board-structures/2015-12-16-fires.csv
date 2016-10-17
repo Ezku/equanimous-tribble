@@ -1,0 +1,19 @@
+Labels
+(unlabeled)
+UNHANDLED FIRES INBOX
+DOWNGRADE (not fire anymore, move to appropriate place)
+DONE (in production, smoketested, communicated)
+NEEDS COMMUNICATION (in production, smoke test done)
+AWAITING SMOKE TEST (in production)
+SMOKETEST FAILED
+DEPLOYMENTS (make sure all subtasks are checked)
+QA APPROVED (in testgyver, ready to move to production)
+IN QA (testgyver, waiting for QA)
+QA REJECTED (in testgyver, DO NOT MERGE TO MASTER)
+WAITING IN DEVGYVER FOR MERGE
+IMPEDED
+IN DEV QA
+IN DEVELOPMENT (local / devgyver, under development)
+BACKLOG (waiting to be picked on the table)
+WAITING FOR REPRO
+LONGSTANDING (extinguished on its own)
