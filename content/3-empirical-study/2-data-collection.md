@@ -15,7 +15,17 @@ Audio recordings were transferred from the recording device, an *iPhone 5S*, as 
 
 Capturing the kanban boards' structure as screenshots yielded material of two different kinds. As described in section \ref{daily-setting}, the team's kanban boards were accessed through a web-based UI. In this UI, kanban boards were arranged as a list of text entries. The contents of a kanban board being viewed, tasks and task states, likewise appeared as a list. Lists of kanban boards were extracted and are presented as indexes in appendix \ref{kanban-board-lists}. Individual kanban boards' structure, meaning the list of states used for tasks, were extracted in a similar fashion and presented fully in appendix \ref{kanban-board-structure}.
 
-<!-- TODO: Visualisation of the two different kinds of structural data captured -->
+\begin{figure}
+\centering
+\includegraphics[width=0.5\textwidth]{images/asana-boards.png}
+\caption{A captured list of kanban boards on Asana.}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.45\textwidth]{images/asana-board-states.png}
+\caption{Excerpt of a captured list of kanban board states on Asana. The blurred parts are individual tasks.}
+\end{figure}
 
 The content log and board structures afforded the completion of a *segment analysis*, a coding process arriving at a structural outline of dailies which provided an understanding of broad patterns of activity as accorded with section \ref{research-approach-and-scope}. The segments will be further described in section \ref{durations-and-segments}. When attention to narrow episodic fragments was called for, they were transcribed individually in more accurate detail. Such transcriptions will be presented in this study following this convention:
 
