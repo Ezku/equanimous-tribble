@@ -81,6 +81,9 @@ Due to its international composition, the team handled most of the dailies in En
 
 A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. This section introduces the identified segments related terminology. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
 
+\begingroup
+\fontsize{10pt}{11pt}\selectfont
+
 \csvautolongtable[
   table head={
     \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
@@ -92,6 +95,8 @@ A total of 13 different daily segments were identified in the material. Table \r
   },
   respect all
 ]{data/processed/total-segment-lengths.csv}
+
+\endgroup
 
 Unless otherwise specified, a segment is named by reference to a concrete instance of a board. In these segments, the team's attention is focused on a specific board. Prominent examples include `INBOX` and `FIRES`. These are considered participant constructs and attempt is made to present them faithfully as such, retaining original names even if they are highly idiomatic (such as `WATBOX`). Other segments are synthetic: they were identified and named by the researcher, or grouped together from segments ranging over multiple boards.
 
