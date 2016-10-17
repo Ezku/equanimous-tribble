@@ -5,7 +5,7 @@ In what we have described so far, the theme of improvement has been most central
 
 ## Improvement as a social process of innovation {#process-of-innovation}
 
-Innovation can be taken as "any idea, practice, material artefact perceived to be new by the relevant unit of adoption". <!-- FIXME: Sources --> (Zaltman et al 1973; also Rogers and Shoemaker 1971) Crucially, innovation may also be applied to the *process* through which new ideas are generated. Even though the word innovation is often attached to concrete objects, the key feature is simply *novelty*. \citep{slappendel1996perspectives}
+Innovation can be taken as ideas, practices or artefacts perceived to be new to whomever is adopting them \citep{zaltman1973innovations,rogers1971communication}. Crucially, innovation may also be applied to the process through which new ideas are generated. Even though the word innovation is often attached to concrete objects, the key feature is simply novelty \citep{slappendel1996perspectives}.
 
 The improvement of ways of working requires taking novel approaches distinct from how things are done in the present state. Should we take software development to be a collaborative activity where innovations are required to deliver novel solutions, we may also consider the process of delivering or aiding the delivery thereof as something that may be innovated on. Innovation in social interactions has been studied in *innovative knowledge communities*. \citet{hakkarainen2004communities} outline three different perspectives on them:
 
