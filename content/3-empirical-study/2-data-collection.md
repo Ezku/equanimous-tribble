@@ -51,6 +51,12 @@ This section presents an outline on the data and its salient features. The recor
 
 The 20 recorded dailies altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Table \ref{daily-overview} is introduced as a basis for reference.
 
+The dailies gathered an attendance of three to ten participants. There is a drop in attendance halfway through the observation period, shown by \ref{daily-overview}. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
+
+Due to its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). Quotes originally in Finnish are presented as translated to English.
+
+\pagebreak
+
 \begingroup
 \fontsize{10pt}{11pt}\selectfont
 
@@ -77,15 +83,9 @@ The 20 recorded dailies altogether consist of a total of 11 hours, 59 minutes an
 | 19          | 18.1.2016  |    49:57 |     48:25 | English  |          8 |
 | 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
 
-\endgroup
-
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
 
-The dailies gathered an attendance of three to ten participants. There is a drop in attendance halfway through the observation period, shown by \ref{daily-overview}. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
-
-Due to its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). Quotes originally in Finnish are presented as translated to English.
-
-\pagebreak
+\endgroup
 
 ### Identified segments and terminology {#durations-and-segments}
 
