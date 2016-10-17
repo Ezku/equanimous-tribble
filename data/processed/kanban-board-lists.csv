@@ -15,20 +15,6 @@ Capture date,Boards
 ,QUESTIONS
 ,CONTINUUM: Non-functional
 ,CONTINUUM: Modules
-,#15c: iOS 4.0.8
-,#17 Android 4.2.x
-,#19 Composer 2
-,#20 Partner API
-,#20 Partner integration funnel
-,#20 Release Wizard
-,#21 Logic editor
-,#?? DreamFactory Funnel
-,#?? Composer 2
-,#?? iOS
-,#?? Android
-,#?? Payments
-,#?? Dolan
-,#2X API and Friends
 ,(omitted)
 ,
 2016-01-18,INBOX (Composer 2)
@@ -40,22 +26,7 @@ Capture date,Boards
 ,MARKETING
 ,CONTINUUM: Non-functional
 ,CONTINUUM: Modules
-,#17 Android 4.2.0 + 4.2.1
-,#22 Composer 2
-,#23 Release Lifecycle
-,#23 Composer 2
-,#23 API and ACL
-,#24 Release Lifecycle
-,#24 Logic editor
-,#24 Composer 2
-,#?? iOS 4.1.0
-,#?? Android 4.3
-,#?? Payments
-,#?? Dolan
-,#?? Module core
-,#?? API and friends
-,#?? Push Notifications
-,#?? SandboxDB 2
+,(cycles omitted)
 ,INBOX (Kisko)
 ,Exception Box
 ,---
