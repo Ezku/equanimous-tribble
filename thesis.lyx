@@ -325,8 +325,7 @@
 % Professorship code is the same in all languages
 \newcommand{\PROFCODE}{TU-124}
 \newcommand{\KEYWORDS}{software development methods, agile, daily, lean, kanban, continuous improvement, practice-based research, activity theory}
-\newcommand{\FKEYWORDS}{AEL, aineistot, aitta, akustiikka, Alankomaat,
-aluerakentaminen, Anttolanhovi, Arcada, ArchiCad, arkki}
+\newcommand{\FKEYWORDS}{ohjelmistokehitysmenetelmät, ketteryys, daily, lean, kanban, jatkuva parantaminen, käytäntölähtöinen tutkimus, toiminnan teoria}
 %\newcommand{\SKEYWORDS}{omsättning, kassaflöde, värdepappersmarknadslagen,
 %yrkesutövare, intresseföretag, verifieringskedja}
 \newcommand{\LANGUAGE}{English}
