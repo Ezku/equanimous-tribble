@@ -1,6 +1,4 @@
-Filter,
-,
-Segment,
+Segment,Occurrences
 FIRES,21
 INBOX,21
 OUTBOX,20
@@ -15,4 +13,4 @@ MONEYBOX,2
 MARKETING BOX,1
 MODULES CONTINUUM,1
 WATBOX,1
-Total Result,146
+Total,146
