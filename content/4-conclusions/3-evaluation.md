@@ -1,7 +1,7 @@
 
 # Evaluation {#evaluation}
 
-The form of this study is a literature review combined with an empirical case study. This section evaluates the study from perspectives of credibility, transferability, dependability and confirmability (\ref{credibility}) and inherent limitations (\ref{limitations}).
+The form of this study is a literature review combined with an empirical case study. This section evaluates the study from perspectives of credibility, transferability, dependability and confirmability, and inherent limitations.
 
 ## Credibility, transferability, dependability and confirmability {#credibility}
 
