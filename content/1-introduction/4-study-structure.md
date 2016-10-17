@@ -1,4 +1,6 @@
 
+\pagebreak{}
+
 # Structure of the study
 
 The study is presented in four chapters: introduction, theoretical framework, empirical study, and conclusions. Table \ref{lines-of-questioning} illustrates the line of argumentation throughout the study.
