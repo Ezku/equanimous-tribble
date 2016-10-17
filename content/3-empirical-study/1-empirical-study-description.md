@@ -28,7 +28,10 @@ In addition, meeting minutes were published through Flowdock[^flowdock], a compa
 
 Tools for sharing knowledge in the physical environment, such as post-its or the whiteboard present in the room, were available but seldom touched.
 
-<!-- TODO: Screencap / graph of asana here -->
+\begin{figure}
+\includegraphics[width=\textwidth]{images/asana-overview.png}
+\caption{Asana. On the bottom left is a list of the team's kanban boards. On the right, a single board with its labels and tasks can be seen.}
+\end{figure}
 
 [^asana]: [www.asana.com](http://www.asana.com)
 [^flowdock]: [www.flowdock.com](http://www.flowdock.com)
