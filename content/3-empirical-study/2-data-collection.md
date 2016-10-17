@@ -75,6 +75,8 @@ The dailies gathered an attendance of three to ten participants. There is a drop
 
 Due to its international composition, the team handled most of the dailies in English, reverting to Finnish when team member attendance allowed for it. Seven out of the twenty dailies observed were conducted in Finnish (dailies `06` to `11`). Quotes originally in Finnish are presented as translated to English.
 
+\pagebreak
+
 ### Identified segments and terminology {#durations-and-segments}
 
 A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. This section introduces the identified segments related terminology. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
