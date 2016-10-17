@@ -3,8 +3,6 @@
 
 An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same sequence of segments, as the reader can observe from appendix \ref{daily-segment-lengths}. However, clear tendencies could be seen. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
 
-\pagebreak{}
-
 | **Segment**               | **Duration** |
 |---------------------------|--------------|
 | INTRO                     | 00:10:45     |
