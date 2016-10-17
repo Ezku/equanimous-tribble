@@ -7,3 +7,7 @@
 % The text ``Contents'' is shown in the PDF bookmark.
 \pdfbookmark[0]{Contents}{bookmark.0.contents}
 \tableofcontents
+
+% http://tex.stackexchange.com/questions/23404/how-can-i-fit-my-table-of-contents-into-a-single-page
+% http://tex.stackexchange.com/questions/23036/table-of-contents-adding-a-vertical-space
+\addtocontents{toc}{\protect\vspace{-2\baselineskip}}
