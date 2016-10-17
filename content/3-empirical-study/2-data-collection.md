@@ -47,14 +47,14 @@ Table: Aggregate metrics of effective daily durations. -->
 | Daily index | Date       | Recorded | Effective | Language | Attendance |
 |-------------|------------|---------:|----------:|----------|-----------:|
 | 01          | 8.12.2015  |    36:36 |     34:01 | English  |          7 |
-| 02          | 9.12.2015  |    48:53 |     47:19 | English  |         ~8 |
+| 02          | 9.12.2015  |    48:53 |     47:19 | English  |   $\geq 8$ |
 | 03          | 10.12.2015 |    28:30 |     27:38 | English  |          7 |
 | 04          | 11.12.2015 |    33:51 |     32:25 | English  |          9 |
 | 05          | 14.12.2015 |    28:16 |     27:34 | Finnish  |          7 |
 | 06          | 15.12.2015 |    17:47 |     15:23 | Finnish  |          5 |
 | 07          | 16.12.2015 |    27:08 |     26:42 | Finnish  |          5 |
-| 08          | 17.12.2015 |    20:26 |     19:50 | Finnish  |         ~5 |
-| 09          | 18.12.2015 |    19:03 |     17:20 | Finnish  |         ~5 |
+| 08          | 17.12.2015 |    20:26 |     19:50 | Finnish  |   $\geq 5$ |
+| 09          | 18.12.2015 |    19:03 |     17:20 | Finnish  |   $\geq 5$ |
 | 10          | 21.12.2015 |    31:13 |     30:10 | Finnish  |          4 |
 | 11          | 22.12.2015 |    11:57 |     11:07 | Finnish  |          3 |
 | 12          | 7.1.2016   |    34:28 |     32:14 | English  |          8 |
@@ -62,12 +62,12 @@ Table: Aggregate metrics of effective daily durations. -->
 | 14          | 11.1.2016  |    36:06 |     35:16 | English  |         10 |
 | 15          | 12.1.2016  |    51:44 |     51:03 | English  |          9 |
 | 16          | 13.1.2016  |  1:00:21 |     59:36 | English  |          8 |
-| 17          | 14.1.2016  |    53:35 |     52:02 | English  |         ~8 |
+| 17          | 14.1.2016  |    53:35 |     52:02 | English  |   $\geq 8$ |
 | 18          | 15.1.2016  |    40:29 |     40:00 | English  |          7 |
 | 19          | 18.1.2016  |    49:57 |     48:25 | English  |          8 |
 | 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
 
-Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with *~* are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
+Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
 
 ### Attendance and language
 
