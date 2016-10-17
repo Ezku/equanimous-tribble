@@ -41,6 +41,9 @@ This section presents an outline on the data and its salient features. The recor
 
 The 20 recorded dailies altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Table \ref{daily-overview} is introduced as a basis for reference.
 
+\begingroup
+\fontsize{10pt}{11pt}\selectfont
+
 | Daily index | Date       | Recorded | Effective | Language | Attendance |
 |-------------|------------|---------:|----------:|----------|-----------:|
 | 01          | 8.12.2015  |    36:36 |     34:01 | English  |          7 |
@@ -63,6 +66,8 @@ The 20 recorded dailies altogether consist of a total of 11 hours, 59 minutes an
 | 18          | 15.1.2016  |    40:29 |     40:00 | English  |          7 |
 | 19          | 18.1.2016  |    49:57 |     48:25 | English  |          8 |
 | 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
+
+\endgroup
 
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
 
