@@ -1,3 +1,4 @@
+\pagebreak{}
 
 # Lists of kanban board structures {#kanban-board-structure}
 
@@ -63,6 +64,8 @@ This section lists outlines of the structures of kanban boards used by the team.
   respect all
 ]{data/processed/board-structures/2015-12-16-priority-lane.csv}
 
+\pagebreak{}
+
 \csvautolongtable[
   table head={
     \caption*{Structure for QUESTIONS, 2015-12-16.}\\\hline
@@ -86,6 +89,8 @@ This section lists outlines of the structures of kanban boards used by the team.
   },
   respect all
 ]{data/processed/board-structures/2015-12-21-fires.csv}
+
+\pagebreak{}
 
 \csvautolongtable[
   table head={
@@ -122,6 +127,8 @@ This section lists outlines of the structures of kanban boards used by the team.
   },
   respect all
 ]{data/processed/board-structures/2016-01-12-moneybox.csv}
+
+\pagebreak{}
 
 \csvautolongtable[
   table head={
