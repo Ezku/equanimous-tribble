@@ -33,16 +33,11 @@ The final part of the empirical analysis was enabled by a joining of the theoret
 
 ## Overview of collected data {#collected-data-overview}
 
-This section presents an outline on the data and its salient features. Table \ref{daily-overview} is introduced as a basis for reference. <!-- When specific dailies are discussed, their index number (from `01` to `20`) will be used. --> The 20 dailies recorded altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds.
+This section presents an outline on the data and its salient features. The recorded dailies are first described in terms of duration, attendance and language used. Then the picture is detailed by describing segments occurring within the dailies.
 
-\pagebreak{}
+### Daily duration, attendance and language
 
-<!-- | Metric      |   | Effective |
-|-------------|---|----------:|
-| **Total**   |   |  11:33:21 |
-| **Average** |   |  00:34:40 |
-
-Table: Aggregate metrics of effective daily durations. -->
+The 20 recorded dailies altogether consist of a total of 11 hours, 59 minutes and 12 seconds of audio. According to the segment analysis, the recordings could be trimmed to a total effective duration of 11 hours, 33 minutes and 21 seconds constituting the entirety of what was considered as the daily activities. The average effective duration of a daily was 34 minutes and 40 seconds. Table \ref{daily-overview} is introduced as a basis for reference.
 
 | Daily index | Date       | Recorded | Effective | Language | Attendance |
 |-------------|------------|---------:|----------:|----------|-----------:|
@@ -69,9 +64,8 @@ Table: Aggregate metrics of effective daily durations. -->
 
 Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
 
-### Attendance and language
 
-The dailies gathered an attendance of three to ten participants. As table \ref{daily-overview} shows, there is a drop in attendance halfway through the observation period. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
+The dailies gathered an attendance of three to ten participants. There is a drop in attendance halfway through the observation period, shown by \ref{daily-overview}. This is attributable to national holidays and the associated vacation periods starting in a staggered fashion. The team's mean daily attendance during normal operation appears to be seven to eight participants (dailies `01` to `05` and `12` to `20`).
 
 Attendees' overall roles in the team could be divided into four categories: *developers* working on the product directly, *quality assurance* responsible for testing the product and verifying that requirements are met, *product owners* capable of making backlog priorizations, and *management* whose opinion carries great weight in the way of conducting operations (such as the daily itself). Developers and quality assurance were by convention compelled to take part (at the absence of a good reason to the contrary), whereas product owners and management were not. Roles, *e.g.* that of product owner and management, may overlap; in this case the more situationally relevant label will be used per transcribed interaction.
 
