@@ -19,11 +19,11 @@ BOARD OVERVIEW           | -
 
 Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
 
-Table \ref{segment-deltas} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 13 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
+Table \ref{segment-occurrences} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 13 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
 
 \csvautolongtable[
   table head={
-    \caption{First and last occurrences of segments through observation period with the count of occurrences in between.}\label{segment-deltas}\\\hline
+    \caption{Total occurrences of segments through observation period.}\label{segment-occurrences}\\\hline
     \csvlinetotablerow\\\hline
     \endfirsthead\hline
     \csvlinetotablerow\\\hline
@@ -31,7 +31,7 @@ Table \ref{segment-deltas} details occurrences of daily segments. The segments `
     \endfoot
   },
   respect all
-]{data/processed/segment-deltas.csv}
+]{data/processed/segment-occurrences.csv}
 
 It might be reasonable to infer a causality here. However, it's not evident if the team's daily structure is indeed encoded in the kanban boards' layout, or if the boards are merely arranged in imitation of the daily. To answer this question, consider what happens when the boards are disturbed. Table \ref{segment-deltas} gives a hint about where to look for such a disturbance: segments `MONEYBOX`, `MARKETING BOX` and `WATBOX` appear for the first time at the end of the observation period but are nowhere to be seen by daily `20`. To corroborate a hypothesis about a relation between the daily and the boards, a first order explanation of a change having been made to the boards would suffice. Table \ref{difference-in-board-layout} describes modifications made to the board layout for daily `19`.
 
