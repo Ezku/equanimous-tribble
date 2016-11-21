@@ -517,6 +517,16 @@ filename "frontmatter/abstract.tex"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
+filename "frontmatter/acknowledgements.tex"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
 filename "frontmatter/table-of-contents.tex"
 
 \end_inset
