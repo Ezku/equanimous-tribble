@@ -225,9 +225,9 @@
 %                     first page of the first chapter
 %   twoinstructors  - changes the title of instructors to plural form
 %   twosupervisors  - changes the title of supervisors to plural form
-\usepackage[mydraft]{aalto-thesis}
+%\usepackage[mydraft]{aalto-thesis}
 %\usepackage[mydraft,doublenumbering]{aalto-thesis}
-%\usepackage{aalto-thesis}
+\usepackage{aalto-thesis}
 
 
 % Hyperref
@@ -273,8 +273,8 @@
 \newcommand{\SUBTITLE}{A \mbox{practice-based perspective} on \mbox{continuous improvement} in \mbox{software development}}
 \newcommand{\FSUBTITLE}{Käytäntölähtöinen katsaus ohjelmistokehityksen jatkuvaan parantamiseen}
 % \newcommand{\SSUBTITLE}{Lilla Vargens universum}
-\newcommand{\DATE}{November Nth, 2016}
-\newcommand{\FDATE}{N. marraskuuta 2016}
+\newcommand{\DATE}{November 23rd, 2016}
+\newcommand{\FDATE}{23. marraskuuta 2016}
 % \newcommand{\SDATE}{Den 18 Juni 2011}
 
 % Supervisors and instructors
