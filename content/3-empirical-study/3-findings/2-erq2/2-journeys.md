@@ -21,7 +21,7 @@ The journey starts with the first time that the team can be observed to identify
 > 05:18
 > :   "But at least it's not a fire" (`D1`)
 
-The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, it is seen as merely a disturbance and no attempt at explanation or transformation follows: the resolution seems to be simply inaction, with the item left in the inbox for later. <!-- Is this true? -->
+The team would not like to apply the standard procedures in place - either of them would be "a funny thing" to be doing. Taking note of this allows a latent primary contradiction to be surfaced. However, it is seen as merely a disturbance and no attempt at explanation or transformation follows: the resolution seems to be simply inaction, with the item left in the `INBOX` for later. <!-- Is this true? -->
 
 It takes a while for the issue to brew and mature. Five observed dailies (more than three weeks of calendar time) later we find the team discussing an outbox item which presents a similar conundrum. A work item appears which, paradoxically, will not need doing nor priorisation through wishlist until an additional external trigger.
 
@@ -34,7 +34,7 @@ It takes a while for the issue to brew and mature. Five observed dailies (more t
 > :   "Does [stakeholder] need the feature? ... Where is that feature?" (`D1`)
 > :   "There's a follow-up feature request that doesn't need to be done." (`D2`)
 > 22:05
-> :   "Has it been through inbox?" (`D1`)
+> :   "Has it been through `INBOX`?" (`D1`)
 > :   "No. It's because that doesn't need to be done." (`D2`)
 
 > 27:00
@@ -63,7 +63,7 @@ The scope of possible options is further expanded in the next daily. A work item
 > :   "Do we have a project for [client]? Can it be there?" (`D3`)
 > 30:28
 > :   "We need a box where to put these things. What's the name of the new box?" (`M1`)
-> :   "'Moneybox'" (`D4`)
+> :   "'`MONEYBOX`'" (`D4`)
 > 30:40
 > :   "Isn't it kind of priority lane? It's customer needs" (`D5`)
 > 30:45
@@ -100,7 +100,7 @@ It is after this point that the team needs to face the practical effects of havi
 > :   `MONEYBOX`
 
 > 43:35
-> :   "Moneybox!" (`D1`)
+> :   "`MONEYBOX`!" (`D1`)
 > 43:43
 > :   "These are old things" (`M1`)
 > 43:46
@@ -160,12 +160,12 @@ The mere existence of a board affords the act of putting work items on it. That 
 > :   "We don't have a use case" (`M1`)
 > 15:55
 > :   "Let's discuss this later" (`D1`)
-> :   "Put it to the moneybox" (`D2`)
-> :   "Or outbox if you want to continue the discussion" (`D3`)
+> :   "Put it to the `MONEYBOX`" (`D2`)
+> :   "Or `OUTBOX` if you want to continue the discussion" (`D3`)
 > 16:02
-> :   "I don't think this is a moneybox issue either" (`M1`)
+> :   "I don't think this is a `MONEYBOX` issue either" (`M1`)
 > 16:07
-> :   "I thought the moneybox function was that ... [there] are cases already" (`QA`)
+> :   "I thought the `MONEYBOX` function was that ... [there] are cases already" (`QA`)
 > 16:13
 > :   "No, but there have been indications already, this is an imaginary feature, and now we are waiting for somebody to say 'ok, we will pay x amount'–" (`M1`)
 
@@ -206,7 +206,7 @@ The themes of long-term planning and wishlists segmented by different stakeholde
 > :   "Because currently if it's not a fire and it's not-" (`M1`, restating dichotomy in current model)
 > 24:08
 > :   "We could have a cloud continuum. But no-one would ever move anything in there." (`D3`, pointing out the need for a new kind of modelling)
-> :   "Exactly. This kind of state that would be... It would be like the top ten of [our] input. Like marketing [..]" (`M1`, drawing parallel to marketing box)
+> :   "Exactly. This kind of state that would be... It would be like the top ten of [our] input. Like marketing [..]" (`M1`, drawing parallel to `MARKETING BOX`)
 > 24:27
 > :   "Isn't priority lane..?" (`QA`, invoking another parallel)
 > :   "Sure, but priotity lane means that we are doing it" (`M1`, motivating difference)
@@ -248,20 +248,20 @@ At this point in time, the team has a total of four new boards to use as boxes t
 
 > 45:33
 > :   `MONEYBOX`
-> :   "Moneybox! ... Nothing new." (`D1`, as secretary)
+> :   "`MONEYBOX`! ... Nothing new." (`D1`, as secretary)
 > 45:37
 > :   `WATBOX`
-> :   "Watbox!" (`D1`)
-> :   "Watbox doesn't need to [be gone] through" (`M1`)
+> :   "`WATBOX`!" (`D1`)
+> :   "`WATBOX` doesn't need to [be gone] through" (`M1`)
 > 45:44
-> :   "Maybe we should move watbox out" (`D1`)
+> :   "Maybe we should move `WATBOX` out" (`D1`)
 > 46:20
 > :   `MARKETING BOX`
 > :   "Is marketing already updated?" (`M1` rhetorically to driver)
 > :   "Yep, it's just my placeholders..." (`M1` pointing out there's no action to take)
 > 46:33
 > :   `NON-CORE MODULE CONTINUUM`
-> :   "Should we move tech wishing well elsewhere as well, if we don't want to go through it here? ... Moving it next to watbox." (`D1`)
+> :   "Should we move `TECH WISHING WELL` elsewhere as well, if we don't want to go through it here? ... Moving it next to `WATBOX`." (`D1`)
 
 The boxes come up during the regular course of the daily, but there is nothing to act upon. There's a primary contradiction between the need to spend less collective time on the daily and the thoroughness of inspecting and grooming boards, which is seen as dissatisfaction when a board is inspected but seemingly requires no action from the team. The addition of new boards has exacerbated this condition, bringing about a tertiary contradiction, which is resolved by the team by moving the virtual boards out of the way of the path the driver usually takes when facilitating the daily.
 
