@@ -39,6 +39,7 @@ The progression of disturbances bubbling up, contradictions being expressed, tra
 
 In the observed dailies, discovering latent contradictions relating to the kanban model and its use, accompanied with transformations to the same, were identified as the engine to improving the practice. The daily practice allowed these actions to be taken in a manner that can most aptly be described as continuous. Contradictions and transformations therefore manifested as the social mechanism enabling continuous improvement to take place.
 
+\pagebreak{}
 
 ## Answer to the research problem
 
