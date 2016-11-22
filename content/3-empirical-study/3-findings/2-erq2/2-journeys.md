@@ -50,6 +50,8 @@ This time, instead of being satisfied with their declaration of an item being un
 
 The scope of possible options is further expanded in the next daily. A work item that was initially processed as a fire is identified as actually not requiring action. Reference is made to the item's similarity with the one from the previous fragment. The work item depends on an external party, but is not impeded. It is done for a client but the scope is the whole product platform, and it's a technical customer need, but doesn't need to be resolved immediately.
 
+\pagebreak{}
+
 > **Daily 15,**
 > :   `FIRES`
 
