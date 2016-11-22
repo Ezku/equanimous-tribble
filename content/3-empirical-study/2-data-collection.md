@@ -83,7 +83,7 @@ Due to its international composition, the team handled most of the dailies in En
 | 19          | 18.1.2016  |    49:57 |     48:25 | English  |          8 |
 | 20          | 19.1.2016  |    41:11 |     39:24 | English  |          8 |
 
-Table: Overview of audio material on dailies by daily index number and date. *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
+Table: [Overview of audio material on dailies by daily index number and date.] *Recorded* is the duration of the audio recording. *Effective* is the duration of the part of the recording constituting the daily activities (see \ref{daily-segment-lengths}). *Attendance* is the number of participants present. Attendance numbers marked with $\geq$ are lower bounds deduced from recordings in scenarios where the number was not reported in daily memos. \label{daily-overview}
 
 \endgroup
 
