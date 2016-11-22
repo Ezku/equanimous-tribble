@@ -12,6 +12,8 @@ Agile software development refers to a class of software development methodologi
 
 The daily is a short, all-hands meeting held every day. Dailies occur in the context of sprints, development cycles which last for a preset time on the order of weeks. A sprint has a predefined list of work items assigned to it, representing the most important requirements to be satisfied. In the daily, participants discuss the progress of work items and whether help is needed to resolve impediments to progress. An agile daily thus supports the development team by providing a daily ritual which empowers the team members to aid each other and helps them focus on the essential in the context of a sprint with defined goals.
 
+\vfill{}
+
 > **TRQ2:** How does the use of a kanban system support continuous improvement in the context of lean software development?
 
 Lean software development is an application of lean development principles, originally used in the automotive industry, to the field of software development. The first principle, which may be taken to be the goal of lean, is the elimination of waste. Waste is everything not contributing to value seen by the customer. Software development, on the other hand, is necessarily an effort of learning or discover better ways to build things. Finally, continuous improvement is the collaborative and unending effort to eliminate waste.
