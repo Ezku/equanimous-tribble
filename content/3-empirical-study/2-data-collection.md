@@ -96,7 +96,7 @@ A total of 13 different daily segments were identified in the material. Table \r
 
 \csvautolongtable[
   table head={
-    \caption{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
+    \caption[Identified daily segments and time spent on them]{Total durations of identified segments, their average length and counts of their occurrences in the material.}\label{total-segment-lengths}\\\hline
     \csvlinetotablerow\\\hline
     \endfirsthead\hline
     \csvlinetotablerow\\\hline
