@@ -19,6 +19,8 @@ The most prominent conjunction of activity theory and software development so fa
 
 The activity theoretical approach appears to be a good fit for describing CI based on what we found out in section \ref{ci}. We will be looking at continuous improvement as taking place within the context of an interactive, social process of innovation as occurring on the level of a group of people having the same object of activity. In the empirical study we will be taking this view and applying a strategy inspired by \citet{nicolini2009zooming}, where we *zoom in and out* of a practice and inspect it on different levels - from patterns of interactions between individuals to the wider texture of related practices. In the next section we will familiarize ourselves with activity theory and how it relates to our focus of investigation, innovation.
 
+\pagebreak{}
+
 ## Activity theoretical perspective on innovation {#activity-theory}
 
 Activity theory can be seen as a general paradigm of studying transformations and social processes, where different activities are distinguished by their objects \citep{kerosuo2010promoting}. The object of an activity is the reason the activity exists; without the object of work the activity would cease \citep{engestrom2000activity}. An activity system may be seen as a sensemaking device where the "raw" object is, as the outcome of a process, transformed into another, collectively understood object \citep{engestrom2001expansive}.
