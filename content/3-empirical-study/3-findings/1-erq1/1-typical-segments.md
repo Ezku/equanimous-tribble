@@ -15,7 +15,7 @@ An overview of the structure of a daily is afforded to us by the segment analysi
 | BOARD OVERVIEW            | 00:02:13     |
 | **Total duration**        | 00:28:18     |
 
-Table: Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
+Table: [Outline of a typical daily] Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
 
 
 #### Introduction, 00:40.
