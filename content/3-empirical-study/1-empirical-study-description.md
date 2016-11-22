@@ -30,7 +30,7 @@ Tools for sharing knowledge in the physical environment, such as post-its or the
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/asana-overview.png}
-\caption{Asana. On the bottom left is a list of the team's kanban boards. On the right, a single board with its labels and tasks can be seen.}
+\caption[An overview of Asana, the development team's virtual kanban board tool]{Asana. On the bottom left is a list of the team's kanban boards. On the right, a single board with its labels and tasks can be seen.}
 \end{figure}
 
 [^asana]: [www.asana.com](http://www.asana.com)
