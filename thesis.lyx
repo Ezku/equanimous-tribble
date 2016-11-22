@@ -409,6 +409,7 @@
 \usepackage{chngcntr}
 \counterwithout{section}{chapter}
 \counterwithout{table}{chapter}
+\counterwithout{figure}{chapter}
 % Remove numbering from tier 4 headings
 \setcounter{secnumdepth}{3}
 
