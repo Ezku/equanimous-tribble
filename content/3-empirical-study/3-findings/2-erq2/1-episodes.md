@@ -76,6 +76,8 @@ The developer has, while applying a new approach suggested by the PO and present
 
 The final disturbance presented here will feature a quaternary contradiction, one that represents a challenge in aligning the practices of this team and another. The team is in the process of shipping a bundle of features, which would require the cooperation from a team that is seen to be difficult to reach out to.
 
+\pagebreak{}
+
 > **Daily 16,**
 > :   `OUTBOX`
 
