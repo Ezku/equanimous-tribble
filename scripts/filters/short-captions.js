@@ -15,7 +15,7 @@ module.exports = function shortCaptions(file) {
     debugger
     return content.replace(
       new RegExp(SHORT_CAPTION_TAGS, 'gm'),
-      "[$1]{$1"
+      "[$1]{"
     );
   })
 }
