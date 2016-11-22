@@ -5,7 +5,7 @@ Based on section \ref{motivation}, the context of the problem is as follows. Agi
 
 If dailies support such system-level innovation as is meant by continuous improvement, this quality should be observable in daily activity. What kind of learning can we observe in the daily, and what enables it? A way to describe the mechanism of continuous improvement through the practice based perspective is needed. The research problem for this thesis is:
 
-> **RP:** How can continuous improvement of a kanban system in the practice of a daily be explained with the practice based perspective?
+> **RP:** How does a daily support continuous improvement?
 
 The research problem leads us to a threefold investigation of literature in order to understand the fundamentals in play.
 
