@@ -4,6 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const guessTableHeaders = require("./filters/guess-table-headers");
+const shortCaptions = require("./filters/short-captions");
 
 class File {
   static read(filename) {
@@ -30,4 +31,5 @@ class File {
 process.argv.slice(2)
   .map(File.read)
   .map(guessTableHeaders)
+  .map(shortCaptions)
   .forEach(File.write);
