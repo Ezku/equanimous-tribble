@@ -6,7 +6,7 @@
 The study is presented in four chapters: introduction, theoretical framework, empirical study, and conclusions. Table \ref{lines-of-questioning} illustrates the line of argumentation throughout the study.
 
 
-Table: Lines of questioning in the study. \label{lines-of-questioning}
+Table: Structure of the study. \label{lines-of-questioning}
 
 -------------------|---------------------------------------------------
 | **I. Introduction**           | Background and motivation
