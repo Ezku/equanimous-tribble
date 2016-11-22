@@ -23,7 +23,7 @@ Table \ref{segment-occurrences} details occurrences of daily segments. The segme
 
 \csvautolongtable[
   table head={
-    \caption{Total occurrences of segments through observation period.}\label{segment-occurrences}\\\hline
+    \caption[Daily segments sorted by their frequency]{Total occurrences of segments through observation period.}\label{segment-occurrences}\\\hline
     \csvlinetotablerow\\\hline
     \endfirsthead\hline
     \csvlinetotablerow\\\hline
