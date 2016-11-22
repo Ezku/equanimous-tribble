@@ -17,7 +17,7 @@ QUESTIONS                | QUESTIONS
 NON-FUNCTIONAL CONTINUUM | CONTINUUM: Non-functional
 BOARD OVERVIEW           | -
 
-Table: List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
+Table: [Relation between daily segments and kanban boards] List of daily segments and the kanban board list for daily `03` overlaid. \label{segments-vs-boards}
 
 Table \ref{segment-occurrences} details occurrences of daily segments. The segments `INBOX`, `FIRES`, `PRIORITY LANE`, `OUTBOX` and `QUESTIONS` occur from 17 to 21 times. We could consider these top segments to form the stable skeleton of a daily. Most other segments only get a handful of visits, with the runner-ups being `NON-FUNCTIONAL CONTINUUM` at 13 and `NON-CORE MODULE CONTINUUM` at 8 occurrences respectively.
 
