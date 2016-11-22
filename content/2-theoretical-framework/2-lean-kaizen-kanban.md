@@ -43,7 +43,7 @@ Of these principles, the first is declared most important and the rest can be se
 
 \begin{figure}
 \includegraphics[width=\textwidth]{images/a-software-kanban-system.png}
-\caption{An example of a software kanban system adapted from \citet{poppendieck2003lean}. Tasks flow from left to right. The original figure has been reimplemented using the web-based Trello software (\href{http://www.trello.com}{www.trello.com}).}
+\caption[An example of a software kanban system]{An example of a software kanban system, where tasks flow from left to right. Adapted from \citet{poppendieck2003lean}. The original figure has been reimplemented using the web-based Trello software (\href{http://www.trello.com}{www.trello.com}).}
 \end{figure}
 
 In software development, \citet{poppendieck2003lean} suggest, kanban may take the form of a board on which work item cards flow through a procession of steps defined by the team. This conceptualization of kanban could be argued to have little more to it than simply allowing developers themselves pick items from a backlog of work items (described in section \ref{scrum-overview}). A literature review by \citet{ahmad2013kanban} points at the current conceptualization of kanban in the context of software development having been born in 2004. The following may be considered the kanban principles \citep{anderson2010kanban}, found to be congruent with the lean ones \citep{ahmad2013kanban}:
