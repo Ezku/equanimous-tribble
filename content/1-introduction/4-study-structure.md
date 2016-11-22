@@ -14,7 +14,7 @@ Table: Structure of the study. \label{lines-of-questioning}
 | **II. Theoretical framework** | Agile software development; dailies
 |                               | Lean software development; kanban
 |                               | Activity theory; improvement as innovation
-|                               | Theoretical synthesis
+|                               | Theoretical synthesis and research questions
 | **III. Empirical study**      | Empirical study description
 |                               | Data collection
 |                               | Findings on dailies
