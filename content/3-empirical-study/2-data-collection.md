@@ -24,7 +24,7 @@ Capturing the kanban boards' structure as screenshots yielded material of two di
 \begin{figure}
 \centering
 \includegraphics[width=0.45\textwidth]{images/asana-board-states.png}
-\caption{Excerpt of a captured list of kanban board states on Asana. The blurred parts are individual tasks.}
+\caption[Excerpt of a captured list of kanban board states on Asana]{Excerpt of a captured list of kanban board states on Asana. The blurred parts are individual tasks.}
 \end{figure}
 
 The content log and board structures afforded the completion of a *segment analysis*, a coding process arriving at a structural outline of dailies which provided an understanding of broad patterns of activity as accorded with section \ref{research-approach-and-scope}. When attention to narrow episodic fragments was called for, they were transcribed individually in more accurate detail. Such transcriptions will be presented in this study following this convention:
