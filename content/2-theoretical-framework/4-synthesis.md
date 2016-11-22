@@ -32,6 +32,8 @@ Contradictions are the source of innovation. They arise in practice as errors, d
 
 Activity theory may be used to observe continuous improvement in practice by seeing the practice as an activity system, paying attention to developmental contradictions that occur in the practice, and investigating any resulting transformations in the object of activity.
 
+\pagebreak{}
+
 ## Empirical research questions {#empirical-research-questions}
 
 The theoretical synthesis detailed the role of a daily in the Scrum methodology, the means by which use of kanban can contribute to continuous improvement, and how activity theory may be used to observe continuous improvement in practice. Based on the synthesis, the following empirical research questions (ERQs) are posed to the empirical research data.
