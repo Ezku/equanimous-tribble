@@ -89,7 +89,7 @@ Table: Overview of audio material on dailies by daily index number and date. *Re
 
 ### Identified segments and terminology {#durations-and-segments}
 
-A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. This section introduces the identified segments related terminology. The use and concrete nature of these segments is described more in depth in section \ref{typical-segments}.
+A total of 13 different daily segments were identified in the material. Table \ref{total-segment-lengths} shows a summary of the data. Complete tables of the daily segments observed can be found in appendix section \ref{daily-segment-lengths}. This section introduces the identified segments related terminology.
 
 \begingroup
 \fontsize{10pt}{11pt}\selectfont
