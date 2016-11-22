@@ -22,7 +22,7 @@ Table: Structure of the study. \label{lines-of-questioning}
 |                               | Study implications
 |                               | Evaluation
 
-In chapter I, the background and motivation of the study is presented. The introduction is completed by a description on the research problem undertaken, the approach and scope chosen and the scope of the study.
+In chapter I, the background and motivation of the study is presented. The introduction is completed by a description on the research problem undertaken, the approach chosen and the methods of the study.
 
 Chapter II, theoretical framework, encompasses a review of relevant literature for purposes of understanding the problem domain and allowing for analysis of the empirical data. The background and contents of agile software development is discussed, they are linked to lean software development, and finally a complementary, practice-based viewpoint is taken through activity theory. The theoretical synthesis on these perspectives allows us to further research questions for the empirical study.
 
