@@ -1,7 +1,11 @@
 
 ## Typical daily segments {#typical-segments}
 
-An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same sequence of segments, as the reader can observe from appendix \ref{daily-segment-lengths}. However, clear tendencies could be seen. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed. Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
+An overview of the structure of a daily is afforded to us by the segment analysis described in \ref{research-methodology}. No two dailies followed exactly the same sequence of segments, as the reader can observe from appendix \ref{daily-segment-lengths}. However, clear tendencies could be seen. In this section we first describe a prototypical example of a daily and proceed to paint a picture of how the daily came to be structured the way we observed.
+
+Let us consider daily `03` as a prototypical example, as it has close to average duration, attendees and a clear segment outline. The outline can be seen in table \ref{daily-03-outline}.
+
+\pagebreak{}
 
 | **Segment**               | **Duration** |
 |---------------------------|--------------|
@@ -16,7 +20,6 @@ An overview of the structure of a daily is afforded to us by the segment analysi
 | **Total duration**        | 00:28:18     |
 
 Table: [Outline of a typical daily] Outline of daily `03`, presented here as a typical daily. Excerpt from appendix section \ref{daily-segment-lengths}. \label{daily-03-outline}
-
 
 #### Introduction, 00:40.
 
