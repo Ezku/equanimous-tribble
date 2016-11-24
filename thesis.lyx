@@ -319,11 +319,11 @@
 
 % Other stuff
 % ------------------------------------------------------------------
-\newcommand{\PROFESSORSHIP}{Business processes and services in digital networks}
-\newcommand{\FPROFESSORSHIP}{Liiketoiminta- ja palveluprosessit tietoverkoissa}
+\newcommand{\PROFESSORSHIP}{Information Networks}
+\newcommand{\FPROFESSORSHIP}{Informaatioverkostot}
 %\newcommand{\SPROFESSORSHIP}{Datakommunikationsprogram}
 % Professorship code is the same in all languages
-\newcommand{\PROFCODE}{TU-124}
+\newcommand{\PROFCODE}{SCI3047}
 \newcommand{\KEYWORDS}{software development methods, agile, daily, lean, kanban, continuous improvement, practice-based research, activity theory}
 \newcommand{\FKEYWORDS}{ohjelmistokehitysmenetelmät, ketteryys, daily, lean, kanban, jatkuva parantaminen, käytäntölähtöinen tutkimus, toiminnan teoria}
 %\newcommand{\SKEYWORDS}{omsättning, kassaflöde, värdepappersmarknadslagen,
